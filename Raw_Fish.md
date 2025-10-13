@@ -17,10 +17,10 @@ cooked in a furnace.*
 
 ## Crafting
 
-Dropped by: [Orca](Orca "wikilink"), [Beluga](Beluga "wikilink"), [Sea
+Dropped by: [Orca](Orca "wikilink"), [Beluga](Bestiary/Beluga.md "wikilink"), [Sea
 Bass](Sea_Bass "wikilink"), [Freshwater
 Bass](Freshwater_Bass "wikilink"), [Yellow Ray](Yellow_Ray "wikilink"),
-[Brown Ray](Brown_Ray "wikilink") and [Barracuda](Barracuda "wikilink").
+[Brown Ray](Brown_Ray "wikilink") and [Barracuda](Bestiary/Barracuda.md "wikilink").
 
 ## Notes
 

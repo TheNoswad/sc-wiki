@@ -79,7 +79,7 @@ and mountains their home such as [tigers](Tiger "wikilink") and
 ## Oceans, Lakes, Ponds, and Pools
 
 In the oceans, you will find deep, deep water infested with
-[sharks](Shark "wikilink") , rays, [barracudas](Barracuda "wikilink") ,
+[sharks](Shark "wikilink") , rays, [barracudas](Bestiary/Barracuda.md "wikilink") ,
 and [piranhas](Piranha "wikilink") . There are also [sea
 bass](Sea_Bass "wikilink") , and if you are far out enough, an orca or
 two. The orca is the most dangerous animal in the game. Once one attacks

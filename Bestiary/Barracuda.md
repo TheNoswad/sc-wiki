@@ -10,7 +10,7 @@ dateCreated: 2025-10-12T23:31:16.802Z
 
 __NOTOC__ __NOEDITSECTION__
 
-## Description (From [Bestiary](Bestiary "wikilink"))
+## Description (From [Bestiary]( "wikilink"))
 
 *"A medium-sized predatory saltwater fish. Has a painful bite. Delicious
 to eat. Found in warm areas only."*

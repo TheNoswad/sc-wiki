@@ -106,7 +106,7 @@ These eggs are inedible and Creative mode exclusive.
   - [Sea Bass](Sea_Bass "wikilink") spawner
   - [Brown Ray](Brown_Ray "wikilink") spawner
   - [Yellow Ray](Yellow_Ray "wikilink") spawner
-  - [Barracuda](Barracuda "wikilink") spawner
+  - [Barracuda](Bestiary/Barracuda.md "wikilink") spawner
   - [Bull Shark](Bull_Shark "wikilink") spawner
   - [Tiger Shark](Tiger_Shark "wikilink") spawner
   - [Great White Shark](Great_White_Shark "wikilink") spawner

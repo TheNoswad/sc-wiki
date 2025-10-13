@@ -117,7 +117,7 @@ from different methods.
       - Killing [Brown Ray](Brown_Ray "wikilink")/[Yellow
         Ray](Yellow_Ray "wikilink"): 2 experience orbs
       - Killing
-        [Piranha](Piranha "wikilink")/[Barracuda](Barracuda "wikilink"):
+        [Piranha](Piranha "wikilink")/[Barracuda](Bestiary/Barracuda.md "wikilink"):
         2 experience orbs
       - Killing [Bull Shark](Bull_Shark "wikilink"): 3 experience orbs
       - Killing [Tiger Shark](Tiger_Shark "wikilink"): 7 experience orbs

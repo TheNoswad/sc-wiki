@@ -336,7 +336,7 @@ blog. 
     performance (up to 65%)
   - Added [black](Black_Bear "wikilink") and [brown
     bears](Brown_Bear "wikilink")
-  - Added [bears](Bear "wikilink") spawning in caves
+  - Added [bears](Bestiary/Bear.md "wikilink") spawning in caves
   - Refreshed UI looks
   - Added visibility range slider
   - Added sky rendering options
@@ -375,7 +375,7 @@ blog. 
   - Added [paint bucket](Paint_Bucket "wikilink") in 16 colors
   - Fixed memory leak in WidgetsManager
   - Reduced memory allocations frequency
-  - Added [polar bear](Bear "wikilink")
+  - Added [polar bear](Bestiary/Bear.md "wikilink")
   - Fixed plant growth destroying blocks
 
 #### 1.17
@@ -810,7 +810,7 @@ blog. 
     wads](Cotton_Wad "wikilink")
   - Added [canvas](canvas "wikilink")
   - Added [Cassowaries](Cassowary "wikilink")
-  - Added [Barracudas](Barracuda "wikilink")
+  - Added [Barracudas](Bestiary/Barracuda.md "wikilink")
   - Added [Beluga whales](Beluga_Whale "wikilink")
   - Added whale breathing
   - Made [animals](animals "wikilink") prey on each other
