@@ -84,7 +84,7 @@ These eggs are inedible and Creative mode exclusive.
   - [Black Bear](Black_Bear "wikilink") spawner
   - [Brown Bear](Brown_Bear "wikilink") spawner
   - [Polar Bear](Polar_Bear "wikilink") spawner
-  - [Horse](Horse "wikilink") spawners (All variants, Black, White,
+  - [Horse](Bestiary/Horse.md "wikilink") spawners (All variants, Black, White,
     Palomino, Bay and Chestnut)
   - [Camel](Camel "wikilink") spawner
   - [Giraffe](Giraffe "wikilink") Spawner

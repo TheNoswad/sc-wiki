@@ -131,10 +131,10 @@ animals](Rideable_Animals "wikilink")\!\!
 
 ### Obtaining Horses
 
-[Horses](Horse "wikilink"), [Camels](Camel "wikilink"), or
+[Horses](Bestiary/Horse.md "wikilink"), [Camels](Camel "wikilink"), or
 [donkeys](Donkey "wikilink") will be needed as you progress. They allow
 you to travel longer distances in a shorter amount of time, and help you
-escape from predators faster. [Horses](Horse "wikilink") are found in
+escape from predators faster. [Horses](Bestiary/Horse.md "wikilink") are found in
 hot forest areas, [donkeys](Donkey "wikilink") and
 [camels](Camel "wikilink") in the desert. To mount them, you will need a
 [saddle](Saddle "wikilink"), which is crafted from
@@ -143,33 +143,33 @@ hot forest areas, [donkeys](Donkey "wikilink") and
 also need a [whistle](Whistle "wikilink"), which is crafted from [iron
 ingots](Iron_Ingot "wikilink").
 
-When searching for [horses](Horse "wikilink"), you can take home more
+When searching for [horses](Bestiary/Horse.md "wikilink"), you can take home more
 than one at a time\! (Given you have more than 1
 [saddle](Saddle "wikilink"), that is). Here's how (Please note you MUST
 have a [compass](Compass "wikilink") and [magnet](Magnet "wikilink") for
 this method):
 
-1.  Find a herd of [horses](Horse "wikilink"). They are usually found in
+1.  Find a herd of [horses](Bestiary/Horse.md "wikilink"). They are usually found in
     groups of 2-5.
 2.  Place a [saddle](Saddle "wikilink") on each horse.
 3.  Using your [whistle](Whistle "wikilink"), lead the
-    [horses](Horse "wikilink") back home. You can ride one while leading
+    [horses](Bestiary/Horse.md "wikilink") back home. You can ride one while leading
     the others if you wish. The reason you need to have a
     [compass](Compass "wikilink") is because you will have to lead your
-    [horses](Horse "wikilink") around obstacles such as cliffs, large
+    [horses](Bestiary/Horse.md "wikilink") around obstacles such as cliffs, large
     hills, etc. so they do not get hurt. Chances are, you will not be
     able to use a straight path as you would with way-point markers. 
 4.  When you get home, have a [fence](Wooden_Fence "wikilink")
     surrounded by cheap blocks ([dirt](Dirt "wikilink"),
     [sand](Sand "wikilink"), etc.) waiting. This is so your
-    [horses](Horse "wikilink") can easily get in the
+    [horses](Bestiary/Horse.md "wikilink") can easily get in the
     [fence](Wooden_Fence "wikilink"), but not out.
     ([Fences](Wooden_Fence "wikilink") need to be 2 blocks high, as
     [donkeys](Donkey "wikilink") and [camels](Camel "wikilink") can jump
     a single [fence](Wooden_Fence "wikilink").)
 
-When only taking one [horse](Horse "wikilink") at a time, simply ride
-your [horse](Horse "wikilink") home. Have a
+When only taking one [horse](Bestiary/Horse.md "wikilink") at a time, simply ride
+your [horse](Bestiary/Horse.md "wikilink") home. Have a
 [whistle](Whistle "wikilink") handy in case you fall off. Way-point
 markers can be used here. You will not have to avoid so many obstacles. 
 

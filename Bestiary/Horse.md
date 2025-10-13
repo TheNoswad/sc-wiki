@@ -10,7 +10,7 @@ dateCreated: 2025-10-12T23:54:09.120Z
 
 __NOTOC__ __NOEDITSECTION__
 
-## Description (from [Bestiary](Bestiary "wikilink"))
+## Description (from [Bestiary]( "wikilink"))
 
 *"A docile animal that can be ridden if equipped with a saddle. Once
 saddled, will respond to whistle. Very fast moving and not aggressive."*

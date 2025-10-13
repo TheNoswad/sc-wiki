@@ -544,7 +544,7 @@ blog. 
   - Added [yellow rays](Yellow_Ray "wikilink") and [brown
     rays](Brown_Ray "wikilink"), with dig-in behavior
   - Added [piranhas](Piranha "wikilink")
-  - Added [horses](Horse "wikilink") with 5 colors
+  - Added [horses](Bestiary/Horse.md "wikilink") with 5 colors
   - Added [camels](camel "wikilink")
   - Added [leatherand](leather "wikilink") [saddle](saddle "wikilink")
   - Added [horseriding mechanic](Rideable_Animals "wikilink") and all

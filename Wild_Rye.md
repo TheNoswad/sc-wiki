@@ -21,7 +21,7 @@ harvesting.*
 
 ### Food
 
-[Horses](Horse "wikilink"), [camels](Camel "wikilink"),
+[Horses](Bestiary/Horse.md "wikilink"), [camels](Camel "wikilink"),
 [donkeys](Donkey "wikilink"), cows, bulls, [gnus](Gnu "wikilink"),
 [bison](Bison "wikilink"), [reindeer](reindeer "wikilink"), and
 [zebras](Zebra "wikilink") will eat Wild Rye.

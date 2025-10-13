@@ -19,7 +19,7 @@ resistant and waterproof fabric. It is also used to make saddles.*
 ## Uses
 
 Leather can be used to craft [saddles](Saddle "wikilink"), which can be
-used to ride [horses](Horse "wikilink"), [camels](Camel "wikilink") and
+used to ride [horses](Bestiary/Horse.md "wikilink"), [camels](Camel "wikilink") and
 [donkeys](Donkey "wikilink").
 
 It can also be used to make leather clothes such as a [Leather
@@ -39,7 +39,7 @@ over leather clothes.
 [jaguars](Jaguar "wikilink"), [leopards](Leopard "wikilink"), and
 [lions](Lion "wikilink") drop 1 leather when killed,
 [zebras](Zebra "wikilink") drop 2 leather, [donkeys](Donkey "wikilink")
-drop 2-3 leather, [horses](Horse "wikilink") drop 3 leather,
+drop 2-3 leather, [horses](Bestiary/Horse.md "wikilink") drop 3 leather,
 [camels](Camel "wikilink") drop 4 leather, and
 [giraffes](Giraffe "wikilink") drop 8 leather.
 

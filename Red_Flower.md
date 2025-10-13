@@ -25,7 +25,7 @@ seeds, which can be planted and used to grow more red flowers.
 
 ## Food
 
-[Horses](Horse "wikilink"), [Camels](Camel "wikilink"),
+[Horses](Bestiary/Horse.md "wikilink"), [Camels](Camel "wikilink"),
 [Donkeys](Donkey "wikilink"), [Brown Cows](Brown_Cow "wikilink"), [Black
 Cow](Black_Cow "wikilink"), [Brown Bull](Brown_Bull "wikilink"), [Black
 Bull](Black_Bull "wikilink"), [Gnus](Gnu "wikilink"),

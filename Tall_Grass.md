@@ -18,7 +18,7 @@ be used as a decorative plant.*
 
 ## Food
 
-[Horses](Horse "wikilink"), [Camels](Camel "wikilink"),
+[Horses](Bestiary/Horse.md "wikilink"), [Camels](Camel "wikilink"),
 [Donkeys](Donkey "wikilink"), Cows, Bulls, [Gnus](Gnu "wikilink"),
 [Rhinos](Rhino "wikilink"), [Wild Boars](Wildboar "wikilink"),
 [Reindeer](Reindeer "wikilink"), [Zebras](Zebra "wikilink"),

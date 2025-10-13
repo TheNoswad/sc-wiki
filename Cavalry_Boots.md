@@ -13,7 +13,7 @@ __NOTOC__ __NOEDITSECTION__
 ## Description (From [Recipaedia](Recipaedia "wikilink"))
 
 *Long boots made of [Leather](Leather "wikilink"). Good protection. Good
-insulation. Makes your [Horse](Horse "wikilink") run faster.*
+insulation. Makes your [Horse](Bestiary/Horse.md "wikilink") run faster.*
 
 ## Crafting
 
@@ -28,7 +28,7 @@ Make cavalry boots from [leather](leather "wikilink") and
 
 ## Related Pages
 
-  - [Horse](Horse "wikilink")
+  - [Horse](Bestiary/Horse.md "wikilink")
   - [Leather](Leather "wikilink")
   - [Planks](Planks "wikilink")
 

@@ -27,7 +27,7 @@ They can also be used in [making paint](Painting "wikilink").
 ## Food
 
 The following animals use flowers as a food source:
-[Horse](Horse "wikilink"), [Camel](Camel "wikilink"),
+[Horse](Bestiary/Horse.md "wikilink"), [Camel](Camel "wikilink"),
 [Donkey](Donkey "wikilink"), [Black Cow](Black_Cow "wikilink"), [Black
 Bull](Black_Bull "wikilink"), [Brown Cow](Brown_Cow "wikilink"), [Brown
 Bull](Brown_Bull "wikilink"), [White Bull](White_Bull "wikilink"),

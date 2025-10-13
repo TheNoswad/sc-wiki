@@ -50,7 +50,7 @@ In tropical areas, the land is mostly flat, but there are a lot of oak
 trees, many of which probably contain [ivy](ivy "wikilink"). You need
 ivy to obtain [string](string "wikilink"), which is vital to making a
 [bow](bow "wikilink"). You can find [pumpkins](Pumpkin "wikilink") as
-well. The animals that live here are [horses](Horse "wikilink"), cattle,
+well. The animals that live here are [horses](Bestiary/Horse.md "wikilink"), cattle,
 [giraffes](Giraffe "wikilink"), [rhinos](Rhino "wikilink"),
 [tigers](Tiger "wikilink"), [wildboars](Wildboar "wikilink"),
 [piranhas](Piranha "wikilink") and bass in the lakes and ponds,

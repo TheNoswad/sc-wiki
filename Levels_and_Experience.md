@@ -93,7 +93,7 @@ from different methods.
       - Killing [Brown Bear](Brown_Bear "wikilink")/[Black
         Bear](Black_Bear "wikilink")/[Polar
         Bear](Polar_Bear "wikilink"): 5 experience orbs
-      - Killing any [Horse](Horse "wikilink"): 3 experience orbs
+      - Killing any [Horse](Bestiary/Horse.md "wikilink"): 3 experience orbs
       - Killing [Camel](Camel "wikilink")/[Donkey](Donkey "wikilink"): 3
         experience orbs
       - Killing [Zebra](Zebra "wikilink"): 3 experience orbs

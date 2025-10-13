@@ -22,7 +22,7 @@ Cow](Black_Cow "wikilink"), [Brown Bull](Brown_Bull "wikilink"), [Brown
 Cow](Brown_Cow "wikilink"), [White Bull](White_Bull "wikilink"),
 [Gnu](Gnu "wikilink"), [Wildboar](Wildboar "wikilink"),
 [Reindeer](Reindeer "wikilink"), [Moose](Moose "wikilink"),
-[Horse](Horse "wikilink"), [Donkey](Donkey "wikilink"),
+[Horse](Bestiary/Horse.md "wikilink"), [Donkey](Donkey "wikilink"),
 [Camel](Camel "wikilink"), [Rhino](Rhino "wikilink"),
 [Zebra](Zebra "wikilink"), [Giraffe](Giraffe "wikilink") and
 [Bison](Bison "wikilink").

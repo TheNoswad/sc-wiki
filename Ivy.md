@@ -76,7 +76,7 @@ hanging over birch:
 
 ## Food
 
-[Horses](Horse "wikilink"), [camels](Camel "wikilink"),
+[Horses](Bestiary/Horse.md "wikilink"), [camels](Camel "wikilink"),
 [donkeys](donkey "wikilink"), [brown cows](Brown_Cow "wikilink"), [black
 cows](Black_Cow "wikilink"), [brown bulls](Brown_Bull "wikilink"),
 [black bulls](Black_Bull "wikilink"), [white

@@ -15,7 +15,7 @@ Attempting to ride horses and or camels without a saddle will result in
 you getting thrown off. Not a good idea\! You can get on a donkey
 without a saddle and without getting bucked off, but he will not move.
 
-## [Horse](Horse "wikilink")
+## [Horse](Bestiary/Horse.md "wikilink")
 
 Horses are the fastest rideable animal. Placing a saddle on a horse
 allows you to ride it. Can be great for quick escapes from dangerous

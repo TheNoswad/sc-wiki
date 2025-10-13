@@ -27,7 +27,7 @@ They can also be used in [making paints.](Painting "wikilink")
 
 ## Food
 
-[Horses](Horse "wikilink"), [camels](Camel "wikilink"),
+[Horses](Bestiary/Horse.md "wikilink"), [camels](Camel "wikilink"),
 [donkeys](Donkey "wikilink"), [black cows](Black_Cow "wikilink"), [brown
 cows](Brown_Cow "wikilink"), [black bulls](Black_Bull "wikilink"),
 [brown bulls](Brown_Bull "wikilink"), [gnus](Gnu "wikilink"),
