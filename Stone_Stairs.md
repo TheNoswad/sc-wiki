@@ -19,7 +19,7 @@ be placed upside-down on the ceilings.
 
 ## Crafting
 
-It takes 6 [granite](Granite "wikilink") to craft 6 stair pieces.
+It takes 6 [granite](Recipaedia/Terrain/Granite.md "wikilink") to craft 6 stair pieces.
 
 <div style="overflow: hidden">
 

@@ -19,7 +19,7 @@ processed into cotton products.*
 
 Cotton wads are obtained by breaking cultivated
 [cotton](cotton "wikilink") plants. You have to plant [cotton
-seeds](Cotton_Seeds "wikilink") on properly prepared
+seeds](Recipaedia/Plants/Cotton_Seeds.md "wikilink") on properly prepared
 [soil](soil "wikilink") to get the cultivated cotton. 
 
 Up to 3 wads plus seeds may be obtained by 1 cotton plant.
@@ -42,9 +42,9 @@ Balls](Musket_Ball "wikilink") after the 1.28 update.
 ## Related Pages 
 
   - [Wild Cotton](Wild_Cotton "wikilink")
-  - [Cotton Seeds](Cotton_Seeds "wikilink")
+  - [Cotton Seeds](Recipaedia/Plants/Cotton_Seeds.md "wikilink")
   - [Cotton Stages](Cotton_Stages "wikilink")
-  - [Cotton](Cotton "wikilink")
+  - [Cotton](Recipaedia/Plants/Cotton.md "wikilink")
   - [Farming](Farming "wikilink")
   - [Canvas](Canvas "wikilink")
   - [Clothing](Clothing "wikilink")

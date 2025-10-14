@@ -66,9 +66,9 @@ the source blocks are close enough. 
     armor degrade faster. Simply switching clothes from your inventory
     will ***NOT*** prevent this, as all clothes are affected.
   - Wetness will dry faster if you are near fire.
-  - [Sea Urchin](Sea_Urchin "wikilink"),
-    [Starfish](Starfish "wikilink"), [Kelp](Kelp "wikilink") and
-    [Seagrass](Seagrass "wikilink") are the only blocks that can be
+  - [Sea Urchin](Recipaedia/Plants/Sea_Urchin.md "wikilink"),
+    [Starfish](Recipaedia/Plants/Starfish.md "wikilink"), [Kelp](Recipaedia/Plants/Kelp.md "wikilink") and
+    [Seagrass](Recipaedia/Plants/Seagrass.md "wikilink") are the only blocks that can be
     placed inside a source block of water. Water can spread on them
     without being blocked.
 
@@ -87,7 +87,7 @@ the source blocks are close enough. 
     ice in cold temperatures
   - 1.21- Added animals that live in water such as piranhas and sharks;
     amount of water, along with deserts, is increased
-  - 1.22- Water, along with [Dirt](Dirt "wikilink"), can now be used for
+  - 1.22- Water, along with [Dirt](Recipaedia/Terrain/Dirt.md "wikilink"), can now be used for
     agriculture; orcas added to the ocean
   - 1.23- New aquatic animals, sea bass and freshwater bass
   - 1.26- Water, along with rain, can make the player wet, making

@@ -20,7 +20,7 @@ last longer and cause more damage.*
 ## Crafting
 
 Craft a Stone Machete with one [Stick](Stick "wikilink") and two
-[Cobblestone](Cobblestone "wikilink") or [Granite](Granite "wikilink").
+[Cobblestone](Cobblestone "wikilink") or [Granite](Recipaedia/Terrain/Granite.md "wikilink").
 ![Craft_a_stone_machete.jpg](Craft_a_stone_machete.jpg
 "Craft_a_stone_machete.jpg")
 

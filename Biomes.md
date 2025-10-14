@@ -23,9 +23,9 @@ Note: See [Terrain](Terrain "wikilink") for other details.
 ## Desert
 
 The desert is the hottest and driest biome in Survivalcraft. There is no
-vegetation or plant life except for [cacti](Cactus "wikilink"). [dry
-bushes](Dry_Bush "wikilink") and [large dry
-bushes](Large_Dry_Bush "wikilink") are abundant. Very few animals are
+vegetation or plant life except for [cacti](Recipaedia/Plants/Cactus.md "wikilink"). [dry
+bushes](Recipaedia/Plants/Dry_Bush.md "wikilink") and [large dry
+bushes](Recipaedia/Plants/Large_Dry_Bush.md "wikilink") are abundant. Very few animals are
 present other then typical desert dwellers.
 
 The terrain is usually fairly flat, but you can see some hills and small
@@ -225,7 +225,7 @@ tree planted in or near a desert will have reddish leaves and appear dry
 whereas a birch tree planted in a forest or jungle will be lush and
 green. The same applies to grass - both the grass block and growing or
 dead grass plants. It also applies to [Christmas
-trees](Christmas_tree "wikilink"), [Ivy](Ivy "wikilink") and leaves.
+trees](Christmas_tree "wikilink"), [Ivy](Recipaedia/Plants/Ivy.md "wikilink") and leaves.
 
 <div style="overflow:hidden">
 

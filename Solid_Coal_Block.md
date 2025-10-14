@@ -19,7 +19,7 @@ can sometimes be found underground inside of rich coal seams.*
 
 ## Crafting
 
-Combine 9 [coal chunks](Coal_Chunk "wikilink") to form 1 Solid Coal
+Combine 9 [coal chunks](Recipaedia/Minerals/Coal_Chunk.md "wikilink") to form 1 Solid Coal
 Block. They may also be found naturally in heavy coal veins. 
 
 The block may be later broken down to reclaim the chunks.

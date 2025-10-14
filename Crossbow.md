@@ -36,7 +36,7 @@ Rods](Rod "wikilink"), and 1 [String](String "wikilink").
 ## Using The Crossbow
 
 The crossbow is a weapon to be used from long distances. It can shoot up
-to 150 blocks, and break blocks like [Pumpkins](Pumpkin "wikilink"),
+to 150 blocks, and break blocks like [Pumpkins](Recipaedia/Plants/Pumpkin.md "wikilink"),
 [Wicker Lamps](Wicker_Lamp "wikilink"), [Glass](Glass "wikilink"), and
 other weak [Blocks](:Category:Blocks "wikilink").
 

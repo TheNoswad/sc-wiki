@@ -17,8 +17,8 @@ water to make dough.*
 
 ## Crafting
 
-Crafting flour requires 9 [rye](Rye "wikilink")
-([seeds](Rye_Seeds "wikilink")). You get one flour.
+Crafting flour requires 9 [rye](Recipaedia/Plants/Rye.md "wikilink")
+([seeds](Recipaedia/Plants/Rye_Seeds.md "wikilink")). You get one flour.
 ![FLOUR.png](FLOUR.png "FLOUR.png")
 
 ## Use

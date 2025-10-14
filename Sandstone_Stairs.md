@@ -19,7 +19,7 @@ be placed upside-down on the ceilings as decorations for rooms.*
 
 ## Crafting
 
-Craft sandstone stairs with 6 [Sandstone](Sandstone "wikilink") blocks.
+Craft sandstone stairs with 6 [Sandstone](Recipaedia/Terrain/Sandstone.md "wikilink") blocks.
 You get 6 stairs.
 ![Sandstone_Stairs_craft.png](Sandstone_Stairs_craft.png
 "Sandstone_Stairs_craft.png")

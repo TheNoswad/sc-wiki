@@ -19,7 +19,7 @@ objects on fire. Do not use near forests\!*
 ## Crafting
 
 You use [gunpowder kegs](Gunpowder_Kegs "wikilink") and
-[sulfur](Sulfur_Chunk "wikilink") to craft an incendiary keg of the same
+[sulfur](Recipaedia/Minerals/Sulfur_Chunk.md "wikilink") to craft an incendiary keg of the same
 size.
 
 <div style="overflow:hidden">

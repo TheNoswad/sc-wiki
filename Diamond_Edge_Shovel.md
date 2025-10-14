@@ -19,7 +19,7 @@ materials will last longer and dig faster. *
 
 ## Crafting
 
-Crafting requires 3 [diamonds](Diamond "wikilink") and an [Iron
+Crafting requires 3 [diamonds](Recipaedia/Minerals/Diamond.md "wikilink") and an [Iron
 Shovel](Iron_Shovel "wikilink").
 
 <div style="overflow: hidden">

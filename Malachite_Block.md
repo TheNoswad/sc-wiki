@@ -13,12 +13,12 @@ __NOTOC__ __NOEDITSECTION__
 ## Description   (From [Recipaedia](Recipaedia "wikilink"))
 
 *A block of malachite can be made by combining together many smaller
-[malachite chunks](Malachite_Chunk "wikilink"). This material is very
+[malachite chunks](Recipaedia/Minerals/Malachite_Chunk.md "wikilink"). This material is very
 decorative but also brittle.*
 
 ## Crafting
 
-It requires 9 [malachite chunks](Malachite_Chunk "wikilink") to form 1
+It requires 9 [malachite chunks](Recipaedia/Minerals/Malachite_Chunk.md "wikilink") to form 1
 malachite block. ![10.png](10.png "10.png")
 
 ## Use
@@ -36,7 +36,7 @@ must be protected from damage.
 
   - It is the only ore block that stacks up to 40.
   - Malachite blocks can be broken back down to reclaim the [malachite
-    chunks](Malachite_Chunk "wikilink").
+    chunks](Recipaedia/Minerals/Malachite_Chunk.md "wikilink").
 
 [Category:Blocks](Category:Blocks "wikilink")
 [Category:Construction](Category:Construction "wikilink")

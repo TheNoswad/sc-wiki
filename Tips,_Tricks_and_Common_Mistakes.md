@@ -143,7 +143,7 @@ lightning, so you don't want to make a wood-based roof.
   - You can place a door 'sideways' by facing along the wall instead of
     looking through the doorway. This will also make the door
     'inverted', if it's electrified. I.e., it starts off open.
-  - Placing [cacti](Cactus "wikilink") by your one-block-wide door will
+  - Placing [cacti](Recipaedia/Plants/Cactus.md "wikilink") by your one-block-wide door will
     keep out most animals. They have a behaviour where they stay away
     from danger and as the cacti may be harmful to them, they will be
     hesitant to pass through. -Aylin
@@ -649,7 +649,7 @@ eat rotten items\!
 Another cause of sickness is eating the same diet constantly. You should
 vary your diet, in order to stay healthy\! You can farm many things at
 once, so for example you can eat bread/pumpkins by just farming. You can
-also turn raw pumpkin into [Pumpkin Soup](Pumpkin_Soup "wikilink").
+also turn raw pumpkin into [Pumpkin Soup](Recipaedia/Plants/Pumpkin_Soup.md "wikilink").
 
 ## Staying On Course
 

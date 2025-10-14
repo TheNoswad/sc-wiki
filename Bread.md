@@ -37,7 +37,7 @@ There are 6 steps to making Bread.
     block that is to be seeded. Prepare the ground with [a
     rake](Wooden_Rake "wikilink") to turn it
     into [soil](soil "wikilink"). Fertilize the soil with
-    [saltpeter](Saltpeter_Chunk "wikilink") . 
+    [saltpeter](Recipaedia/Minerals/Saltpeter_Chunk.md "wikilink") . 
 3.  '''Sow the rye seeds and wait for them to reach FULL maturity.
     '''This may take a long time and some seeds may not grow. This will
     produce [rye](rye "wikilink") (not WILD rye). Refer to the page

@@ -22,7 +22,7 @@ making white paint):
 1.  Be sure you have one water bucket for each bucket of paint you plan
     to create. All paints start with white paint and that starts with
     [limestone](limestone "wikilink"), so be sure to have plenty on hand
-    as well as [coal](Coal_Chunk "wikilink") for the
+    as well as [coal](Recipaedia/Minerals/Coal_Chunk.md "wikilink") for the
     [furnace](furnace "wikilink").
 2.  [Smelt](Smelting "wikilink") the [limestone](limestone "wikilink")
     in the [Furnace](Furnace "wikilink") to get [white
@@ -61,15 +61,15 @@ color.
 These are the ingredients used to make paint. You will want to have
 plenty on hand:
 
-1.  [Limestone](Limestone "wikilink") \[in [White
+1.  [Limestone](Recipaedia/Terrain/Limestone.md "wikilink") \[in [White
     Pigment](White_Pigment "wikilink")\]
-2.  [Malachite Chunk](Malachite_Chunk "wikilink") \[Obtained from
-    [Copper Ore](Copper_ore "wikilink")\]
-3.  [Sulphur Chunk](Sulphur_Chunk "wikilink") \[Obtained from [Sulphur
-    Ore](Sulphur_Ore "wikilink")\]
-4.  [Coal Chunk](Coal_Chunk "wikilink")\[Obtained from [Coal
-    Ore](Coal_Ore "wikilink")\]
-5.  [Purple Flowers](Purple_Flower "wikilink") \[Found randomly in
+2.  [Malachite Chunk](Recipaedia/Minerals/Malachite_Chunk.md "wikilink") \[Obtained from
+    [Copper Ore](Recipaedia/Minerals/Copper_ore.md "wikilink")\]
+3.  [Sulphur Chunk](Recipaedia/Minerals/Sulphur_Chunk.md "wikilink") \[Obtained from [Sulphur
+    Ore](Recipaedia/Minerals/Sulphur_Ore.md "wikilink")\]
+4.  [Coal Chunk](Recipaedia/Minerals/Coal_Chunk.md "wikilink")\[Obtained from [Coal
+    Ore](Recipaedia/Minerals/Coal_Ore.md "wikilink")\]
+5.  [Purple Flowers](Recipaedia/Plants/Purple_Flower.md "wikilink") \[Found randomly in
     tropical/forest biomes\]
 
 <!-- end list -->
@@ -113,14 +113,14 @@ You can dye several pieces of clothing with one bucket.
 
 Objects that may be painted or dyed are:
 
-1.  [Clay](Clay "wikilink")
+1.  [Clay](Recipaedia/Terrain/Clay.md "wikilink")
 2.  [Wooden Planks](Planks "wikilink")
-3.  [Granite](Granite "wikilink") - Painted Granite breaks into Painted
+3.  [Granite](Recipaedia/Terrain/Granite.md "wikilink") - Painted Granite breaks into Painted
     Cobblestone like untreated Granite does.
 4.  [Cobblestone](Cobblestone "wikilink")
 5.  [Marble](Marble "wikilink")
-6.  [Sandstone](Sandstone "wikilink")
-7.  [Basalt](Basalt "wikilink")
+6.  [Sandstone](Recipaedia/Terrain/Sandstone.md "wikilink")
+7.  [Basalt](Recipaedia/Terrain/Basalt.md "wikilink")
 8.  [Brick Wall](Brick_Wall "wikilink")
 9.  [Stone Bricks](Stone_Bricks "wikilink")
 10. All slabs and stairs.

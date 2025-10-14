@@ -15,7 +15,7 @@ insulation.*
 
 ## Crafting
 
-Tailor Diamond Leggings by placing four [Diamonds](Diamond "wikilink")
+Tailor Diamond Leggings by placing four [Diamonds](Recipaedia/Minerals/Diamond.md "wikilink")
 around some **unused** [Iron Leggings](Iron_Leggings "wikilink").
 ![Diamond_leggings.jpeg](Diamond_leggings.jpeg "Diamond_leggings.jpeg")
 

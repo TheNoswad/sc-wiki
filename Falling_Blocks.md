@@ -15,7 +15,7 @@ were added to the game with version 1.16![Sand.png](Sand.png
 "Sand.png")![Gravel.png](Gravel.png "Gravel.png")
 
 There are currently two types of falling blocks: the
-[sand](Sand "wikilink") block and the [gravel](Gravel "wikilink") block.
+[sand](Recipaedia/Terrain/Sand.md "wikilink") block and the [gravel](Recipaedia/Terrain/Gravel.md "wikilink") block.
 
 These blocks will fall when any block immediately next to them is broken
 or disturbed some other way. This can be useful for making traps in

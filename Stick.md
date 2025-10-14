@@ -46,7 +46,7 @@ hit ratio of 66%.
 ## Notes
 
   - You can get one Stick by breaking a [Large Dry
-    Bush](Large_Dry_Bush "wikilink").
+    Bush](Recipaedia/Plants/Large_Dry_Bush.md "wikilink").
 
 ## Related Pages
 

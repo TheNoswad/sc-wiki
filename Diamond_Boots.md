@@ -13,12 +13,12 @@ __NOTOC__ __NOEDITSECTION__
 ## Description (From [Recipaedia](Recipaedia "wikilink"))
 
 *Exquisite, strong and protective boots made from
-[Diamond](Diamond "wikilink"). Excellent protection. No insulation.
+[Diamond](Recipaedia/Minerals/Diamond.md "wikilink"). Excellent protection. No insulation.
 Makes you move faster.*
 
 ## Crafting
 
-To craft Diamond Boots place three [Diamonds](Diamond "wikilink") around
+To craft Diamond Boots place three [Diamonds](Recipaedia/Minerals/Diamond.md "wikilink") around
 **unused** [Iron
 Boots](Iron_Boots "wikilink").![Diamond_boots.jpeg](Diamond_boots.jpeg
 "Diamond_boots.jpeg")

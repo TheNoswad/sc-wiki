@@ -17,8 +17,8 @@ world download link or just add pictures.
 
 ## Make a pumpkin house\!
 
-Find a grassy area and put [pumpkins](Pumpkin "wikilink") down as big as
-you want your house. Put a layer of [grass](Grass "wikilink") block and
+Find a grassy area and put [pumpkins](Recipaedia/Plants/Pumpkin.md "wikilink") down as big as
+you want your house. Put a layer of [grass](Recipaedia/Terrain/Grass.md "wikilink") block and
 then more pumpkins. Repeat. Sleep in the middle so you have a shelter.
 
 <div style="overflow: hidden">

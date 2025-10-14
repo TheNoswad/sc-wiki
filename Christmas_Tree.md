@@ -39,7 +39,7 @@ leaves](spruce_Leaves "wikilink"), 2 [sticks](stick "wikilink") and 1
 
 ## Related Pages
 
-  - [Spruce Leaves](Spruce_Leaves "wikilink")
+  - [Spruce Leaves](Recipaedia/Plants/Spruce_Leaves.md "wikilink")
   - [Jack O' Lantern](Jack_O'_Lantern "wikilink")
 
 [Category:Crafted](Category:Crafted "wikilink")

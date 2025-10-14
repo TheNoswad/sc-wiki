@@ -19,7 +19,7 @@ No insulation.*
 
 Tailor a Diamond Chest Plate by surrounding an **unused** [iron chest
 plate](Iron_Chest_Plate "wikilink") with 4
-[diamonds](Diamond "wikilink").
+[diamonds](Recipaedia/Minerals/Diamond.md "wikilink").
 
 ## Layers
 
@@ -32,7 +32,7 @@ It can be put on, on top of a coat, shirt or T-shirt.
   - [Diamond Leggings](Diamond_Leggings "wikilink")
   - [Diamond Helmet](Diamond_Helmet "wikilink")
   - [Diamond Boots](Diamond_Boots "wikilink")
-  - [Diamond](Diamond "wikilink")
+  - [Diamond](Recipaedia/Minerals/Diamond.md "wikilink")
 
 [Category:Clothing](Category:Clothing "wikilink")
 [Category:Items](Category:Items "wikilink")

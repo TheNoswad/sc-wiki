@@ -29,8 +29,8 @@ Spruce and Mimosa.
 
 *Apperance*:
 
-  - [Light brown bark](Oak_Wood "wikilink")
-  - [Ivy green colored leaves](Oak_Leaves "wikilink")
+  - [Light brown bark](Recipaedia/Plants/Oak_Wood.md "wikilink")
+  - [Ivy green colored leaves](Recipaedia/Plants/Oak_Leaves.md "wikilink")
 
 *Apperance Biome:*
 
@@ -42,7 +42,7 @@ Spruce and Mimosa.
   - Wood can be used as a building material
   - Each block can be made into 4 [planks](planks "wikilink")
   - Leaves can be made into [grass traps](Grass_Trap "wikilink")
-  - Leaves can be crafted into [saplings](Oak_Sapling "wikilink")
+  - Leaves can be crafted into [saplings](Recipaedia/Plants/Oak_Sapling.md "wikilink")
   - Only tree bearing [ivy](ivy "wikilink")
 
 ### Birch Trees
@@ -55,8 +55,8 @@ Spruce and Mimosa.
 
 *Apperance*:
 
-  - [White bark with black stripes](Birch_Wood "wikilink")
-  - [Ivory green colored leaves](Birch_Leaves "wikilink")
+  - [White bark with black stripes](Recipaedia/Plants/Birch_Wood.md "wikilink")
+  - [Ivory green colored leaves](Recipaedia/Plants/Birch_Leaves.md "wikilink")
 
 *Apperance Biome:*
 
@@ -67,7 +67,7 @@ Spruce and Mimosa.
 
   - Wood can be used as a building material
   - Each block can be made into 4 [planks](planks "wikilink")
-  - Leaves can be crafted into [saplings](Birch_Sapling "wikilink")
+  - Leaves can be crafted into [saplings](Recipaedia/Plants/Birch_Sapling.md "wikilink")
 
 ### Spruce Trees
 
@@ -79,8 +79,8 @@ Spruce and Mimosa.
 
 *Apperance*:
 
-  - [Dark brown bark](Spruce_Wood "wikilink")
-  - [Deep green colored leaves](Spruce_Leaves "wikilink")
+  - [Dark brown bark](Recipaedia/Plants/Spruce_Wood.md "wikilink")
+  - [Deep green colored leaves](Recipaedia/Plants/Spruce_Leaves.md "wikilink")
 
 *Apperance Biome:*
 
@@ -91,7 +91,7 @@ Spruce and Mimosa.
   - Wood can be used as building material
   - Each block can be made into 4 [planks](planks "wikilink")
   - Leaves can be made into [christmas trees](Christmas_Tree "wikilink")
-  - Leaves can be crafted into [saplings](Spruce_Sapling "wikilink")
+  - Leaves can be crafted into [saplings](Recipaedia/Plants/Spruce_Sapling.md "wikilink")
 
 ### Tall Spruce Trees
 
@@ -104,8 +104,8 @@ Spruce and Mimosa.
 
 *Apperance*:
 
-  - [Dark brown bark](Spruce_Wood "wikilink") - same as Spruce trees
-  - [Blue/green colored leaves](Tall_Spruce_Leaves "wikilink")
+  - [Dark brown bark](Recipaedia/Plants/Spruce_Wood.md "wikilink") - same as Spruce trees
+  - [Blue/green colored leaves](Recipaedia/Plants/Tall_Spruce_Leaves.md "wikilink")
   - They will grow much taller than other trees - up to 30 blocks high\!
 
 *Apperance Biome:*
@@ -117,7 +117,7 @@ Spruce and Mimosa.
   - Wood can be used as building material
   - Each block can be made into 4 [planks](planks "wikilink")
   - Leaves can be crafted into
-    [saplings](Tall_Spruce_Sapling "wikilink")
+    [saplings](Recipaedia/Plants/Tall_Spruce_Sapling.md "wikilink")
 
 ### Mimosa Trees
 
@@ -129,8 +129,8 @@ Spruce and Mimosa.
 
 *Apperance*:
 
-  - [Dark brown bark](Mimosa_Wood "wikilink") - same as Spruce trees
-  - [Light/dull blue/green colored leaves](Mimosa_Leaves "wikilink")
+  - [Dark brown bark](Recipaedia/Plants/Mimosa_Wood.md "wikilink") - same as Spruce trees
+  - [Light/dull blue/green colored leaves](Recipaedia/Plants/Mimosa_Leaves.md "wikilink")
 
 *Apperance Biome:*
 
@@ -140,17 +140,17 @@ Spruce and Mimosa.
 
   - Wood can be used as building material
   - Each block can be made into 4 [planks](planks "wikilink")
-  - Leaves can be crafted into [saplings](Mimosa_Sapling "wikilink")
+  - Leaves can be crafted into [saplings](Recipaedia/Plants/Mimosa_Sapling.md "wikilink")
 
 ## Caves
 
 ### Granite Caves
 
-These caves are mostly composed of [dirt,](Dirt "wikilink") gravel, and
+These caves are mostly composed of [dirt,](Recipaedia/Terrain/Dirt.md "wikilink") gravel, and
 [granite](granite "wikilink") near the top,
-[granite](granite "wikilink") , [iron ore](Iron_Ore "wikilink") , and
-[coal ore](Coal_Ore "wikilink") towards the middle,
-and[basalt](Basalt "wikilink") , [diamond ore](Diamond_Ore "wikilink") ,
+[granite](granite "wikilink") , [iron ore](Recipaedia/Minerals/Iron_Ore.md "wikilink") , and
+[coal ore](Recipaedia/Minerals/Coal_Ore.md "wikilink") towards the middle,
+and[basalt](Recipaedia/Terrain/Basalt.md "wikilink") , [diamond ore](Recipaedia/Minerals/Diamond_Ore.md "wikilink") ,
 and other ores deeper in. Although they spawn in all biomes, you will
 mostly find them near mountains. Veins of all ores are found in caves.
 
@@ -193,7 +193,7 @@ Freshwater bass and rays can be found in pools.
 
 Lakes are deeper then pools, but more shallow bodies of water then
 oceans. You will commonly find [sand](sand "wikilink")
-,[dirt](Dirt "wikilink") , and [clay](clay "wikilink") in the bottom. In
+,[dirt](Recipaedia/Terrain/Dirt.md "wikilink") , and [clay](clay "wikilink") in the bottom. In
 lush, humid areas, [piranhas](Piranha "wikilink") will be found. In
 other lakes, you can find bass and rays. They are found in all biomes,
 but most commonly in forests and jungles.
@@ -259,7 +259,7 @@ can be 3 to 5 blocks deep, 2 to 5 blocks long, 2 to 5 blocks wide and
 are completely covered by [Grass Traps](Grass_Trap "wikilink"). A half
 of them have [spiked planks](Spiked_Plank "wikilink") on the bottom, a
 third of which are activated. They are hard to spot, as they can have
-[flowers](Red_Flower "wikilink"), [pumpkins](Pumpkin "wikilink"), etc.
+[flowers](Recipaedia/Plants/Red_Flower.md "wikilink"), [pumpkins](Recipaedia/Plants/Pumpkin.md "wikilink"), etc.
 growing on top of them and blend with the [grass](grass "wikilink") very
 well.
 

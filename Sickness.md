@@ -65,7 +65,7 @@ better.*
 ## Recommendations
 
 Vary your diet. Grow many crops in your farms such as
-[pumpkins](Pumpkin "wikilink") or [rye](Rye "wikilink"). Take advantage
+[pumpkins](Recipaedia/Plants/Pumpkin.md "wikilink") or [rye](Recipaedia/Plants/Rye.md "wikilink"). Take advantage
 of laid eggs around you, have cattle near your home and milk cows. Do
 not under any circumstance consume rotten items\! Avoid raw food as much
 as possible. It is best to cook food.

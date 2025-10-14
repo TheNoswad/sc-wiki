@@ -36,9 +36,9 @@ The character is an omnivore, meaning you can eat:
 [Meat](Raw_Meat "wikilink") \[raw or cooked\],
 [Bird](Raw_Bird "wikilink") \[raw or cooked\],
 [Fish](Raw_fish "wikilink") \[raw or cooked\],
-[Pumpkin](Pumpkin "wikilink"), [Sea Urchin](Sea_Urchin "wikilink"),
+[Pumpkin](Recipaedia/Plants/Pumpkin.md "wikilink"), [Sea Urchin](Recipaedia/Plants/Sea_Urchin.md "wikilink"),
 [Bread](Bread "wikilink"), [Eggs](Eggs "wikilink"),
-[Milk](Milk "wikilink") and [Pumpkin Soup](Pumpkin_Soup "wikilink").
+[Milk](Milk "wikilink") and [Pumpkin Soup](Recipaedia/Plants/Pumpkin_Soup.md "wikilink").
 
 When killed, the character will drop any and all items it holds and all
 clothing it is wearing except for boxer shorts, for modesty.

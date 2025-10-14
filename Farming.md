@@ -14,33 +14,33 @@ plants you can use for food - rye to make bread and pumpkins. But you
 can farm several other plants as well like cotton, ivy, cacti, trees,
 flowers and tallgrasses.
 
-Farming works best on [tilled soil](Soil "wikilink") that is placed next
+Farming works best on [tilled soil](Recipaedia/Terrain/Soil.md "wikilink") that is placed next
 to or on top of water, and is fertilized with
-[saltpeter](Saltpeter_Chunk "wikilink"). This is called cultivated soil.
+[saltpeter](Recipaedia/Minerals/Saltpeter_Chunk.md "wikilink"). This is called cultivated soil.
 Different trees grow in different ranges of temperature and humidity,
 the rest of the plants don't care. Rye and cotton grow best in moist,
 cultivated soil.
 
 ## Crop Types
 
-[Rye](Rye "wikilink") can be made into [flour](flour "wikilink"),
+[Rye](Recipaedia/Plants/Rye.md "wikilink") can be made into [flour](flour "wikilink"),
 [dough](dough "wikilink") and [bread](bread "wikilink"). Rye seeds can
 be obtained by uprooting it's wild counterpart, which when planted in a
 good enough environment will grow into yellow edible rye.
 
-[Pumpkin seeds](Pumpkin_Seeds "wikilink") can be removed from pumpkins
+[Pumpkin seeds](Recipaedia/Plants/Pumpkin_Seeds.md "wikilink") can be removed from pumpkins
 by putting one in a crafting slot, and planted on high quality soil. The
 grown pumpkins may be eaten raw, but can also be cooked in a furnace
 with a water bucket to get pumpkin soup.
 
-[Cotton](Cotton "wikilink") can be grown to produce [Cotton
+[Cotton](Recipaedia/Plants/Cotton.md "wikilink") can be grown to produce [Cotton
 Wads](Cotton_Wad "wikilink") which are used to make
 [canvas](canvas "wikilink") and is also used when loading a
 [musket](musket "wikilink"). Cotton seeds may be obtained by breaking
 wild cotton plants. They must then be planted on proper soil to grow
 into cultivated cotton plants.
 
-[Ivy](Ivy "wikilink") is used for string, but can only be planted on
+[Ivy](Recipaedia/Plants/Ivy.md "wikilink") is used for string, but can only be planted on
 vertical surfaces. Ivy is grown from harvested ivy and not from seeds.
 It does not need dirt or soil to grow. The best way to farm it is to use
 a wall and put the ivy as far up as you can reach. It will grow down
@@ -52,17 +52,17 @@ humidity and the right temperature range for the species. Saplings may
 be crafted from the leaves of the tree and planted. They will grow over
 time and can be harvested for wood and leaves.
 
-[Flowers](Red_Flower "wikilink") can be used for decoration. You get
+[Flowers](Recipaedia/Plants/Red_Flower.md "wikilink") can be used for decoration. You get
 flower seeds from flowers, using the personal crafting interface or
 crafting table. They can be grown on soil, dirt or sand and fertilizer
 is not necessary.
 
-[Cacti](Cactus "wikilink") can be grown on sand up to 3 blocks tall. If
+[Cacti](Recipaedia/Plants/Cactus.md "wikilink") can be grown on sand up to 3 blocks tall. If
 they are cut leaving the bottom portion, they will regrow their loss.
 There are no seeds and the cactus block itself is planted to grow
 taller.
 
-[Tall Grass](Tall_Grass "wikilink") seeds can be obtained by putting a
+[Tall Grass](Recipaedia/Plants/Tall_Grass.md "wikilink") seeds can be obtained by putting a
 tall grass into the personal crafting interface or the crafting table.
 Tall grass can be grown in the same conditions as flowers.
 
@@ -113,7 +113,7 @@ Tall grass can be grown in the same conditions as flowers.
 
 1.  Once the area is ready, you must lay out your plots. The best way is
     to have a row of water next to every three rows of plants. Also in
-    order to save [saltpeter](Saltpeter_Chunk "wikilink") it's a good
+    order to save [saltpeter](Recipaedia/Minerals/Saltpeter_Chunk.md "wikilink") it's a good
     idea to make the plots not only three rows wide, but also three rows
     long, or in lengths that are multiples of three (6, 9, 12). When
     placing water, dig a trench at least one block deep into the ground
@@ -126,7 +126,7 @@ Tall grass can be grown in the same conditions as flowers.
     [dirt](dirt "wikilink") becomes [soil](soil "wikilink") and has a
     grooved look to it. It will also become darker in color as it
     becomes moist due to the water.
-3.  Get your fertilizer - [saltpeter](Saltpeter_Chunk "wikilink"), and
+3.  Get your fertilizer - [saltpeter](Recipaedia/Minerals/Saltpeter_Chunk.md "wikilink"), and
     break it on the soil by tapping the soil (don't throw the
     saltpetre.) It will spread to a block on each side of it,
     fertilizing up to 9 squares per chunk. (Which is why it's best to
@@ -147,7 +147,7 @@ Tall grass can be grown in the same conditions as flowers.
     collect the crops(Or you can place some rotten pumpkin on the soil
     and walk on it and take it back after use) Just rake it right away
     so it'll continue to be fertilized moist soil. If you have lots of
-    [saltpeter](Saltpeter_Chunk "wikilink") and hate raking then you can
+    [saltpeter](Recipaedia/Minerals/Saltpeter_Chunk.md "wikilink") and hate raking then you can
     make your plots in rows of one or two blocks and just not step on
     the soil when harvesting.
 7.  You can take some of the harvested plant and use it to create more
@@ -161,7 +161,7 @@ Tall grass can be grown in the same conditions as flowers.
 
 ## Crop-specific Notes
 
-[Rye](Rye "wikilink") can be very picky and may not grow well even in
+[Rye](Recipaedia/Plants/Rye.md "wikilink") can be very picky and may not grow well even in
 the best prepared soil. It can take a long time to grow and may produce
 few seeds per plant. It takes 9 seeds to make *one* bread. If you use
 harvested seeds to grow the next crop, you may only get one seed per
@@ -169,7 +169,7 @@ plant to make into bread. That means you may need 9 plants for each loaf
 plus one saltpeter. This is a very inefficient use of resources. It is
 very helpful to gather seeds from wild rye.
 
-[Cotton](Cotton "wikilink") will grow fast compared to rye. It is
+[Cotton](Recipaedia/Plants/Cotton.md "wikilink") will grow fast compared to rye. It is
 usually fully grown in two to three SC days. When it is harvested, you
 get cotton wads *plus* more cotton seeds. You do not need the seeds to
 craft anything, so they can be collected to plant the next crop. If you
@@ -177,7 +177,7 @@ do not have extra cotton seeds, they can easily be gathered from wild
 cotton plants. Also cotton don't need fertilized soil. Just plant them
 on tilled soil close to water and you won't need to walk naked anymore.
 
-[Pumpkins](Pumpkin "wikilink") can be picked and eaten once they are
+[Pumpkins](Recipaedia/Plants/Pumpkin.md "wikilink") can be picked and eaten once they are
 ripe. Pumpkins will grow to maturity even on grass, but they grow better
 on cultivated, moist soil so planting them just anywhere may not get the
 best results. Planting pumpkins on fertilized soil completely destroys
@@ -253,7 +253,7 @@ temperature and sets humidity \>= 12.
 
 Temperature of saplings near water
 
-[Flowers](Purple_Flower "wikilink"), [ivy](ivy "wikilink"), and
+[Flowers](Recipaedia/Plants/Purple_Flower.md "wikilink"), [ivy](ivy "wikilink"), and
 [grass](tall_Grass "wikilink") do not need fertilized or tilled soil and
 can be grown anywhere.
 

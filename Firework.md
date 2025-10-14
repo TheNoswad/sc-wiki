@@ -32,9 +32,9 @@ burst low. Red stabilizers indicate flickering.*
 ## Crafting
 
 Fireworks are crafted using a variety of materials: [Sulfur
-Chunk](Sulfur_Chunk "wikilink"), [Saltpeter
-Chunk](Saltpeter_Chunk "wikilink"), [Canvas](Canvas "wikilink"),
-[Gunpowder](Gunpowder "wikilink"), [Coal Chunk](Coal_Chunk "wikilink")
+Chunk](Recipaedia/Minerals/Sulfur_Chunk.md "wikilink"), [Saltpeter
+Chunk](Recipaedia/Minerals/Saltpeter_Chunk.md "wikilink"), [Canvas](Canvas "wikilink"),
+[Gunpowder](Gunpowder "wikilink"), [Coal Chunk](Recipaedia/Minerals/Coal_Chunk.md "wikilink")
 and a [Paint Bucket](Paint_Bucket "wikilink"). Will give you 20
 fireworks and one [Bucket](Bucket "wikilink").
 

@@ -17,7 +17,7 @@ __NOEDITSECTION__ __NOTOC__
 ## Crafting
 
 Requires 1 [feather](feather "wikilink"), 1 [stick](stick "wikilink")
-and 1 [stone chunk](Stone_Chunk "wikilink"). You get 4 arrows. 
+and 1 [stone chunk](Recipaedia/Terrain/Stone_Chunk.md "wikilink"). You get 4 arrows. 
 
 ![Stone_Arrow_craft.png](Stone_Arrow_craft.png
 "Stone_Arrow_craft.png")

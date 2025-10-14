@@ -28,8 +28,8 @@ the different designs.
 ## Notes
 
   - Their color depends on the block they are placed on. They appear
-    darker and more browned on [Sand](Sand "wikilink") or
-    [Sandstone](Sandstone "wikilink") blocks.
+    darker and more browned on [Sand](Recipaedia/Terrain/Sand.md "wikilink") or
+    [Sandstone](Recipaedia/Terrain/Sandstone.md "wikilink") blocks.
 
 ## Related Pages
 

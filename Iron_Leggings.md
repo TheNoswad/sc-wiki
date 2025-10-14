@@ -30,7 +30,7 @@ Ingots](Iron_Ingot "wikilink").
 
   - Iron Leggings can be upgraded to [Diamond
     Leggings](Diamond_Leggings "wikilink") using
-    [Diamonds](Diamond "wikilink").
+    [Diamonds](Recipaedia/Minerals/Diamond.md "wikilink").
 
 ## Related Pages
 

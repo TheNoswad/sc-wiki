@@ -8,4 +8,4 @@ editor: markdown
 dateCreated: 2025-10-12T23:39:52.884Z
 ---
 
-1.  REDIRECT [Soil](Soil "wikilink")
+1.  REDIRECT [Soil](Recipaedia/Terrain/Soil.md "wikilink")

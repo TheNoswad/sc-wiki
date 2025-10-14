@@ -23,7 +23,7 @@ your lifetime.
 ### Beginning the Game
 
 As you start your gameplay, collect everything you can. Do you see any
-[cotton](Cotton "wikilink"), [pumpkins](Pumpkin "wikilink"), or
+[cotton](Recipaedia/Plants/Cotton.md "wikilink"), [pumpkins](Recipaedia/Plants/Pumpkin.md "wikilink"), or
 [eggs](Eggs "wikilink")? If so, gather them - quickly. They will offer a
 source of [clothing](:Category:Clothing "wikilink")  (for later) and
 [food](:Category:Food "wikilink")  that will be vital.
@@ -33,9 +33,9 @@ desert for the time being so you don't freeze to death. Just make sure
 you are near a forest so gathering wood isn't too risky. You don't want
 to get lost or attacked by an [animal](Animals "wikilink"). 
 
-You will  need to start to gather [wood](Oak_Wood "wikilink") to make
+You will  need to start to gather [wood](Recipaedia/Plants/Oak_Wood.md "wikilink") to make
 [planks](Planks "wikilink") for a small shelter.
-[Leaves](Oak_Leaves "wikilink") or [dirt](Dirt "wikilink") will also
+[Leaves](Recipaedia/Plants/Oak_Leaves.md "wikilink") or [dirt](Recipaedia/Terrain/Dirt.md "wikilink") will also
 suffice. This will keep you safe from predators for your first few
 nights while you gather supplies to make a better shelter later. Make a
 [door](Wooden_Door "wikilink") for your small shelter if you wish. You
@@ -54,7 +54,7 @@ shelter and items.
 
 During the next few days, start to gather
 [cobblestone](Cobblestone "wikilink"). It is mined from
-[granite](Granite "wikilink") which can be found nearly everywhere. Just
+[granite](Recipaedia/Terrain/Granite.md "wikilink") which can be found nearly everywhere. Just
 make sure not to stray too far. If need be, you can make way-point
 markers from leaves or dirt so you can easily find your way home. (See
 [tips](Tips,_Tricks_and_Common_Mistakes "wikilink") page.)
@@ -70,14 +70,14 @@ can start working on your new home.
 
 For your larger home, find the flattest spot you can to lay your
 foundation. Just place the [cobblestone](Cobblestone "wikilink") you
-gathered on the [grass](Grass "wikilink") in a rectangular (or whatever
+gathered on the [grass](Recipaedia/Terrain/Grass.md "wikilink") in a rectangular (or whatever
 shape you desire) shape the size you want your home to be. This will
 give you an idea of how many [cobblestone](Cobblestone "wikilink")
 blocks you still need to gather. (Make [stone
 tools ](:Category:Tools "wikilink") as you gather cobblestone.)
 
 As you start to build your house higher and higher, make sure to leave
-room for windows. You can use [leaves](Oak_Leaves "wikilink") for a
+room for windows. You can use [leaves](Recipaedia/Plants/Oak_Leaves.md "wikilink") for a
 makeshift window until you have a [furnace](Furnace "wikilink") and
 [glass](Glass "wikilink"). This will allow for you to have a placeholder
 for your windows that you can still see through, but also offers
@@ -97,15 +97,15 @@ exactly is in each one. I, for example, have some labeled "Food",
 
 You should already have stone [tools](:Category:Tools "wikilink")  and
 [weapons](:Category:Weapons "wikilink")  at this point. You now need to
-start gathering [iron](Iron_Ore "wikilink"),
-[saltpeter](Saltpeter_Ore "wikilink"), and
-[diamonds](Diamond_Ore "wikilink").
+start gathering [iron](Recipaedia/Minerals/Iron_Ore.md "wikilink"),
+[saltpeter](Recipaedia/Minerals/Saltpeter_Ore.md "wikilink"), and
+[diamonds](Recipaedia/Minerals/Diamond_Ore.md "wikilink").
 
 While mining with your [stone pickaxe](Stone_Pickaxe "wikilink"), pick
-up ONLY [iron ore](Iron_Ore "wikilink"). Once you have enough, make an
+up ONLY [iron ore](Recipaedia/Minerals/Iron_Ore.md "wikilink"). Once you have enough, make an
 [iron pickaxe](Iron_Pickaxe "wikilink") and continue. An [iron
 pickaxe](Iron_Pickaxe "wikilink") is needed to acquire many of the ores
-you will enounter (ex: [diamond ore](Diamond_Ore "wikilink")). You can
+you will enounter (ex: [diamond ore](Recipaedia/Minerals/Diamond_Ore.md "wikilink")). You can
 still use a [stone pickaxe](Stone_Pickaxe "wikilink") to break
 [cobblestone](Cobblestone "wikilink") if you wish.
 
@@ -160,8 +160,8 @@ this method):
     hills, etc. so they do not get hurt. Chances are, you will not be
     able to use a straight path as you would with way-point markers. 
 4.  When you get home, have a [fence](Wooden_Fence "wikilink")
-    surrounded by cheap blocks ([dirt](Dirt "wikilink"),
-    [sand](Sand "wikilink"), etc.) waiting. This is so your
+    surrounded by cheap blocks ([dirt](Recipaedia/Terrain/Dirt.md "wikilink"),
+    [sand](Recipaedia/Terrain/Sand.md "wikilink"), etc.) waiting. This is so your
     [horses](Bestiary/Horse.md "wikilink") can easily get in the
     [fence](Wooden_Fence "wikilink"), but not out.
     ([Fences](Wooden_Fence "wikilink") need to be 2 blocks high, as
@@ -176,18 +176,18 @@ markers can be used here. You will not have to avoid so many obstacles. 
 ### Farming Crops and Animals
 
 To [farm](Farming "wikilink") crops, you will need to collect seeds (you
-should already have [cotton seeds](Cotton_Seeds "wikilink")) and a
+should already have [cotton seeds](Recipaedia/Plants/Cotton_Seeds.md "wikilink")) and a
 [water](Water "wikilink") supply (do this by gathering
 [water](Water "wikilink") in a [bucket](Bucket "wikilink"), or making a
 well to retrieve water from.). [Fence](Wooden_Fence "wikilink") an area
 in with [wooden fences](Wooden_Fence "wikilink") so
-[animals](Animals "wikilink") cannot ruin your [soil](Soil "wikilink").
-Till [dirt](Dirt "wikilink") with a [rake](Stone_Rake "wikilink") to
-make [soil](Soil "wikilink"). Put
-[saltpeter](Saltpeter_Chunk "wikilink") on the moisturized
-[soil](Soil "wikilink") to fertilize, and place your [cotton
-seeds](Cotton_Seeds "wikilink") on the [soil](Soil "wikilink"). They
-will grow into [cotton plants](Cotton "wikilink"), which [cotton
+[animals](Animals "wikilink") cannot ruin your [soil](Recipaedia/Terrain/Soil.md "wikilink").
+Till [dirt](Recipaedia/Terrain/Dirt.md "wikilink") with a [rake](Stone_Rake "wikilink") to
+make [soil](Recipaedia/Terrain/Soil.md "wikilink"). Put
+[saltpeter](Recipaedia/Minerals/Saltpeter_Chunk.md "wikilink") on the moisturized
+[soil](Recipaedia/Terrain/Soil.md "wikilink") to fertilize, and place your [cotton
+seeds](Recipaedia/Plants/Cotton_Seeds.md "wikilink") on the [soil](Recipaedia/Terrain/Soil.md "wikilink"). They
+will grow into [cotton plants](Recipaedia/Plants/Cotton.md "wikilink"), which [cotton
 wads](Cotton_Wad "wikilink") can be obtained from. You then make
 [canvas](Canvas "wikilink") from the wads, and you are ready to craft
 some [clothing](:Category:Clothing "wikilink") \!
@@ -196,11 +196,11 @@ Animal [farming](Farming "wikilink") is also an important aspect of
 survival. For this, you will need to lay out a large
 [fence](Wooden_Fence "wikilink") (this is why we chose a flat area to
 live) 1 or 2 blocks tall (2 blocks tall will keep predators out) and put
-cheap blocks such as [sand](Sand "wikilink") or
-[leaves](Oak_Leaves "wikilink") around your
+cheap blocks such as [sand](Recipaedia/Terrain/Sand.md "wikilink") or
+[leaves](Recipaedia/Plants/Oak_Leaves.md "wikilink") around your
 [fence](Wooden_Fence "wikilink"). If your
 [fence](Wooden_Fence "wikilink") is 2 blocks tall, make stairs. Throw
-[tall grass](Tall_Grass "wikilink") into the
+[tall grass](Recipaedia/Plants/Tall_Grass.md "wikilink") into the
 [fence](Wooden_Fence "wikilink"). If there are
 [cows](Black_Cow "wikilink") around, they will go right into your
 [fence](Wooden_Fence "wikilink")\!\! Other undesired
@@ -212,7 +212,7 @@ a [whistle](Whistle "wikilink") (they run from the sound).
 
 ### Clothing
 
-As you farm your [cotton](Cotton "wikilink"), make
+As you farm your [cotton](Recipaedia/Plants/Cotton.md "wikilink"), make
 [canvas](Canvas "wikilink") from the [cotton
 wads](Cotton_Wad "wikilink") and put them aside in a
 [chest](Chest "wikilink") for later. You also need to hunt

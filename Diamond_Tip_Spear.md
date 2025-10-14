@@ -20,7 +20,7 @@ remove a spear that embedded itself too hard.*
 
 ## Crafting
 
-Requires 3 [diamonds](Diamond "wikilink") and an [iron
+Requires 3 [diamonds](Recipaedia/Minerals/Diamond.md "wikilink") and an [iron
 spear](Iron_Spear "wikilink").
 
 <div style=" overflow: hidden">

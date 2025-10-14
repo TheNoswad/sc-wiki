@@ -42,7 +42,7 @@ determines how much heat you lose.*
 
 ## Crafting
 
-Lightweight clothing is crafted from [cotton](Cotton "wikilink"). You
+Lightweight clothing is crafted from [cotton](Recipaedia/Plants/Cotton.md "wikilink"). You
 will have to grow cotton plants before you can craft these clothes.
 
 Heavier clothes are made from [fur](fur "wikilink") and
@@ -53,7 +53,7 @@ animals drop them.
 [Armor](Armor "wikilink") can be made from [sticks](stick "wikilink")
 and [string](string "wikilink"), or from [iron](Iron_Ingot "wikilink")
 or [copper](Copper_Ingot "wikilink") and may even be coated with
-[diamond](Diamond "wikilink").
+[diamond](Recipaedia/Minerals/Diamond.md "wikilink").
 
 Each piece of clothing has its own page on this wiki as listed below.
 See those pages for recipes for the different pieces of clothing. Also

@@ -38,11 +38,11 @@ for each color.
 ## Uses
 
 Paint buckets are used to change the color of some blocks
-([Planks](Planks "wikilink"), [Granite](Granite "wikilink"),
-[Cobblestone](Cobblestone "wikilink"), [Basalt](Basalt "wikilink"),
+([Planks](Planks "wikilink"), [Granite](Recipaedia/Terrain/Granite.md "wikilink"),
+[Cobblestone](Cobblestone "wikilink"), [Basalt](Recipaedia/Terrain/Basalt.md "wikilink"),
 [Brick Wall](Brick_Wall "wikilink"), [Stone
-Bricks](Stone_Bricks "wikilink"), [Sandstone](Sandstone "wikilink"),
-[Marble](Marble "wikilink"), [Clay](Clay "wikilink"),
+Bricks](Stone_Bricks "wikilink"), [Sandstone](Recipaedia/Terrain/Sandstone.md "wikilink"),
+[Marble](Marble "wikilink"), [Clay](Recipaedia/Terrain/Clay.md "wikilink"),
 [Wires](Colored_Electric_Wire "wikilink"),
 [Lightbulb](Lightbulb "wikilink"), Stairs, Slabs, Fences, Fence Gates,
 Signs and Furnitures.) To use it, hold the paint bucket in your hand and

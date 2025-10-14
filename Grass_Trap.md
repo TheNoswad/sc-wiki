@@ -21,7 +21,7 @@ surrounding grass.*
 
 ## <span style="font-size:20px;">Crafting</span>
 
-Requires 3 [Oak Leaves](Oak_Leaves "wikilink") and
+Requires 3 [Oak Leaves](Recipaedia/Plants/Oak_Leaves.md "wikilink") and
 3 [Sticks](Stick "wikilink"). You get 6 Grass Traps.
 
 ![Craft_a_grass_trap.jpg](Craft_a_grass_trap.jpg

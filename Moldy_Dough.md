@@ -30,7 +30,7 @@ be eaten at all.
   - [Rotten Fish](Rotten_Fish "wikilink")
   - [Moldy Bread](Moldy_Bread "wikilink")
   - [Spoiled Milk](Spoiled_Milk "wikilink")
-  - [Rotten Pumpkin Soup](Rotten_Pumpkin_Soup "wikilink")
+  - [Rotten Pumpkin Soup](Recipaedia/Plants/Rotten_Pumpkin_Soup.md "wikilink")
   - [Rotten Egg](Rotten_Egg "wikilink")
 
 [Category:Food](Category:Food "wikilink") [Category:Dangerous

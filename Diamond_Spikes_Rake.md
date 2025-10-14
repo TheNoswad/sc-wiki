@@ -18,7 +18,7 @@ get damaged and fail. Rakes made of better materials last longer.*
 
 ## Crafting
 
-It requires 3 [Diamonds](Diamond "wikilink") and one [Iron
+It requires 3 [Diamonds](Recipaedia/Minerals/Diamond.md "wikilink") and one [Iron
 Rake](Iron_Rake "wikilink") to craft one Diamond Spike Rake.
 
 <div style="overflow: hidden">

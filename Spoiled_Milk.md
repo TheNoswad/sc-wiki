@@ -29,7 +29,7 @@ health or your bucket.
   - [Rotten Fish](Rotten_Fish "wikilink")
   - [Moldy Bread](Moldy_Bread "wikilink")
   - [Moldy Dough](Moldy_Dough "wikilink")
-  - [Rotten Pumpkin Soup](Rotten_Pumpkin_Soup "wikilink")
+  - [Rotten Pumpkin Soup](Recipaedia/Plants/Rotten_Pumpkin_Soup.md "wikilink")
   - [Rotten Egg](Rotten_Egg "wikilink")
 
 [Category:Food](Category:Food "wikilink")

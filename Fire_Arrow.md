@@ -16,7 +16,7 @@ weapons.*
 ## Crafting
 
 Requires 1 [wooden tip arrow](Wooden_Tip_Arrow "wikilink") and 1 [sulfur
-chunk](Sulfur_Chunk "wikilink"). You get 1 fire arrow.  These arrows may
+chunk](Recipaedia/Minerals/Sulfur_Chunk.md "wikilink"). You get 1 fire arrow.  These arrows may
 be made in the [personal crafting interface](Crafting "wikilink").
 
 <div style="overflow:hidden">

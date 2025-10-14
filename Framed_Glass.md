@@ -25,7 +25,7 @@ To craft framed glass, you will need one [Glass](Glass "wikilink") and 2
 ## Notes
 
   - Much like standard Glass, It will shatter if a block of
-    [Sand](Sand "wikilink") or [Gravel](Gravel "wikilink") falls on top
+    [Sand](Recipaedia/Terrain/Sand.md "wikilink") or [Gravel](Recipaedia/Terrain/Gravel.md "wikilink") falls on top
     of it.
   - Entites like [Signs](Sign "wikilink") cannot be placed on
     [Glass](Glass "wikilink"), framed glass or

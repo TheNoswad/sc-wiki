@@ -18,10 +18,10 @@ antlers. Lives in herds in cold areas. Delicious to eat."*
 ## Description
 
 Reindeers are herbivores, meaning they will eat: [Red
-Flowers](Red_Flower "wikilink"), [Purple
-Flowers](Purple_Flower "wikilink"), [White
-Flowers](White_Flower "wikilink"), [Tall Grass](Tall_Grass "wikilink"),
-[Ivy](Ivy "wikilink"), and [Pumpkins](Pumpkin "wikilink").
+Flowers](Recipaedia/Plants/Red_Flower.md "wikilink"), [Purple
+Flowers](Recipaedia/Plants/Purple_Flower.md "wikilink"), [White
+Flowers](Recipaedia/Plants/White_Flower.md "wikilink"), [Tall Grass](Recipaedia/Plants/Tall_Grass.md "wikilink"),
+[Ivy](Recipaedia/Plants/Ivy.md "wikilink"), and [Pumpkins](Recipaedia/Plants/Pumpkin.md "wikilink").
 
 They are non-hostile\*\*, and drop [Raw Meat](Raw_Meat "wikilink") when
 killed.

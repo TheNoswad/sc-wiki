@@ -21,7 +21,7 @@ signal corresponding to the surrounding temperature.*
 ## Crafting
 
 It requires 2 [iron ingots](Iron_Ingot "wikilink") and 3 [malachite
-chunks](Malachite_Chunk "wikilink") to craft one thermometer.
+chunks](Recipaedia/Minerals/Malachite_Chunk.md "wikilink") to craft one thermometer.
 
 ![Thermometer_craft.png](Thermometer_craft.png "Thermometer_craft.png")
 

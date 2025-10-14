@@ -50,8 +50,8 @@ attract Bears or Ostriches or such to your base.
 ## Related pages
 
   - [Jack O' Lantern](Jack_O'_Lantern "wikilink")
-  - [Pumpkin](Pumpkin "wikilink")
-  - [Pumpkin Seeds](Pumpkin_Seeds "wikilink")
+  - [Pumpkin](Recipaedia/Plants/Pumpkin.md "wikilink")
+  - [Pumpkin Seeds](Recipaedia/Plants/Pumpkin_Seeds.md "wikilink")
 
 [Category:Plants](Category:Plants "wikilink")
 [Category:Natural](Category:Natural "wikilink")

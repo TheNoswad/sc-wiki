@@ -40,9 +40,9 @@ table](Crafting_Table "wikilink") to get 1 plank.
 ## Related Pages
 
   - [Wicker Lamp](Wicker_Lamp "wikilink")
-  - [Oak Wood](Oak_Wood "wikilink")
-  - [Spruce Wood](Spruce_Wood "wikilink")
-  - [Birch Wood](Birch_Wood "wikilink")
+  - [Oak Wood](Recipaedia/Plants/Oak_Wood.md "wikilink")
+  - [Spruce Wood](Recipaedia/Plants/Spruce_Wood.md "wikilink")
+  - [Birch Wood](Recipaedia/Plants/Birch_Wood.md "wikilink")
   - [Beginner's Guide](Beginner's_Guide "wikilink") (Hey, if you are
     reading about planks, you may aswell get some tips for your game.)
 

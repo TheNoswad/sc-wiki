@@ -19,7 +19,7 @@ get damaged and fail. Rakes made of better materials last longer.*
 ## Crafting
 
 It requires 2 [Cobblestone](Cobblestone "wikilink") or
-[Granite](Granite "wikilink") blocks and 2 [Sticks](stick "wikilink") to
+[Granite](Recipaedia/Terrain/Granite.md "wikilink") blocks and 2 [Sticks](stick "wikilink") to
 craft one Stone Rake.
 
 <div style="overflow: hidden">

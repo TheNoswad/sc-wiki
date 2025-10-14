@@ -17,7 +17,7 @@ insulation.*
 
 ## Crafting
 
-Tailor a Diamond Helmet by placing three [diamonds](Diamond "wikilink")
+Tailor a Diamond Helmet by placing three [diamonds](Recipaedia/Minerals/Diamond.md "wikilink")
 around an **unused** [Iron Helmet](Iron_Helmet "wikilink").
 ![Diamond_helmet.jpeg](Diamond_helmet.jpeg "Diamond_helmet.jpeg")
 

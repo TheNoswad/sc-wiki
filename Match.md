@@ -20,7 +20,7 @@ ignite fuses and as a weapon to set other animals on fire.*
 ## Crafting
 
 A match is made with one [stick](stick "wikilink") and one [chunk of
-sulphur](Sulphur_Chunk "wikilink"). You get 4 matches.
+sulphur](Recipaedia/Minerals/Sulphur_Chunk.md "wikilink"). You get 4 matches.
 
 <div style="overflow:hidden">
 

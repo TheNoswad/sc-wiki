@@ -18,7 +18,7 @@ is a semiconductor and can be used to make electronic logic gates.*
 ## Crafting
 
 They are made by smelting [Germanium Ore
-Chunk](Germanium_Ore_Chunk "wikilink") in the
+Chunk](Recipaedia/Minerals/Germanium_Ore_Chunk.md "wikilink") in the
 [furnace](furnace "wikilink").
 
 <div style="overflow:hidden">

@@ -106,8 +106,8 @@ Here is the list of things you can handcraft:
 [Workbench](Workbench "wikilink"), [Match](Match "wikilink"),
 [Whistle](Whistle "wikilink"), [Jack O'
 Lantern](Jack_O'_Lantern "wikilink"), [Pumpkin
-Seeds](Pumpkin_Seeds "wikilink"), [Tall Grass
-Seeds](Tall_Grass_Seeds "wikilink"), all Flower Seeds, all Saplings,
+Seeds](Recipaedia/Plants/Pumpkin_Seeds.md "wikilink"), [Tall Grass
+Seeds](Recipaedia/Plants/Tall_Grass_Seeds.md "wikilink"), all Flower Seeds, all Saplings,
 [Dough](Dough "wikilink"), [Wooden Tip
 Arrow](Wooden_Tip_Arrow "wikilink"), [Diamond Tip
 Arrow](Diamond_Tip_Arrow "wikilink"), [Fire

@@ -140,7 +140,7 @@ how you build things. (This is NOT crafting.)
 ### Collecting and Crafting
 
 The first thing you usually want to start collecting is some
-[wood](Oak_Wood "wikilink"). To make any
+[wood](Recipaedia/Plants/Oak_Wood.md "wikilink"). To make any
 [tools](:Category:Tools "wikilink") or
 [weapons](:Category:Weapons "wikilink"), you have to use a [crafting
 table](Crafting_Table "wikilink"). To make a crafting table, you need
@@ -150,7 +150,7 @@ that are harder need harder tools to break them easier. An
 [axe](Wooden_Axe "wikilink") is best for wood but you can use your hand
 to collect enough wood to make a crafting table and a wooden axe. While
 you collect the wood, break and gather a lot of [leaf
-blocks](Oak_Leaves "wikilink"), too.
+blocks](Recipaedia/Plants/Oak_Leaves.md "wikilink"), too.
 
 Once you have collected 3 wood blocks, you can make a crafting table and
 your first tools.
@@ -200,7 +200,7 @@ around and watch for birds to drop [eggs](eggs "wikilink"). You can pick
 them up and eat them raw. This won't be enough food to survive in the
 harder modes but will be good enough for now.
 
-If you wander around you might find [pumpkins](Pumpkin "wikilink"). You
+If you wander around you might find [pumpkins](Recipaedia/Plants/Pumpkin.md "wikilink"). You
 can break them and eat them too. Some other animals may come after the
 pumpkins if you don't pick them up right away.
 
@@ -217,7 +217,7 @@ for food. A [stone machete](Stone_Machete "wikilink") is much better
 than a [wood one](Wooden_Machete "wikilink"). Not all animals will drop
 food, however. Some will drop other useful items. [Wild
 boar](Wildboar "wikilink") will come after
-[pumpkins](Pumpkin "wikilink") if you drop them and the boar are good
+[pumpkins](Recipaedia/Plants/Pumpkin.md "wikilink") if you drop them and the boar are good
 food. Use your machete to kill the boar when they come to get the
 pumpkins.
 
@@ -249,10 +249,10 @@ Planks, Wooden Slab or Workbench.
 
 The shelter has to be secure as well. It needs to be sealed up from
 invading animals, even in Harmless mode. But it's easy to make walls
-from [leaves](Birch_Leaves "wikilink") or [planks](planks "wikilink") if
+from [leaves](Recipaedia/Plants/Birch_Leaves.md "wikilink") or [planks](planks "wikilink") if
 you're near a forest. Or you can make them from [sand](sand "wikilink")
 if you're near a desert. A temporary roof can be made from
-[leaves](Spruce_Leaves "wikilink"). You can seal a doorway up with sand
+[leaves](Recipaedia/Plants/Spruce_Leaves.md "wikilink"). You can seal a doorway up with sand
 or leaves, and simply break it open once you have slept.
 
 To go to sleep, stand on the soft block and open the [Body/Food

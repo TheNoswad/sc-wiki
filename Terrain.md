@@ -49,7 +49,7 @@ are found on the ice, close to oceans and shores.
 In tropical areas, the land is mostly flat, but there are a lot of oak
 trees, many of which probably contain [ivy](ivy "wikilink"). You need
 ivy to obtain [string](string "wikilink"), which is vital to making a
-[bow](bow "wikilink"). You can find [pumpkins](Pumpkin "wikilink") as
+[bow](bow "wikilink"). You can find [pumpkins](Recipaedia/Plants/Pumpkin.md "wikilink") as
 well. The animals that live here are [horses](Bestiary/Horse.md "wikilink"), cattle,
 [giraffes](Giraffe "wikilink"), [rhinos](Rhino "wikilink"),
 [tigers](Tiger "wikilink"), [wildboars](Wildboar "wikilink"),
@@ -65,8 +65,8 @@ their fence.
 ## Mountains
 
 Caves are very common in mountains. In caves, you can find
-[diamond](diamond "wikilink") , [coal](Coal_Chunk "wikilink") ,
-[iron](Iron_Ingot "wikilink") , [malachite](Malachite_Chunk "wikilink")
+[diamond](diamond "wikilink") , [coal](Recipaedia/Minerals/Coal_Chunk.md "wikilink") ,
+[iron](Iron_Ingot "wikilink") , [malachite](Recipaedia/Minerals/Malachite_Chunk.md "wikilink")
 , [germanium](Germanium_Crystal "wikilink") . There are a lot of
 resources to be found, but is is not an ideal place to live because of
 it's rough terrain. You cannot keep any livestock here, and building a

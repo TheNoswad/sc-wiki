@@ -23,7 +23,7 @@ lightning.
 ![Solid_Diamond_Block_craft.png](Solid_Diamond_Block_craft.png
 "Solid_Diamond_Block_craft.png")
 
-Combine 9 [diamonds](Diamond "wikilink") to form 1 solid diamond block.
+Combine 9 [diamonds](Recipaedia/Minerals/Diamond.md "wikilink") to form 1 solid diamond block.
 
 The block may be later broken down to retrieve the 9 diamonds.
 

@@ -20,7 +20,7 @@ not as fast moving as other animals. Solitary. Delicious to eat."*
 Wild boars are wild pigs in Survivalcraft with dark brown hair and 2
 small tusks.
 
-Boars are herbivores, they will eat [Pumpkins](Pumpkin "wikilink") and
+Boars are herbivores, they will eat [Pumpkins](Recipaedia/Plants/Pumpkin.md "wikilink") and
 [Bread](Bread "wikilink").
 
 Boars are semi hostile, and may attack in groups (mostly when provoked).

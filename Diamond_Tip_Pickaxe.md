@@ -19,7 +19,7 @@ and quarry faster.*
 
 ## Crafting
 
-Requires 3 [diamonds](Diamond "wikilink") and an [Iron
+Requires 3 [diamonds](Recipaedia/Minerals/Diamond.md "wikilink") and an [Iron
 Pickaxe](Iron_Pickaxe "wikilink"). You get 1 pickaxe.
 
 <div style="overflow: hidden">

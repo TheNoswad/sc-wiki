@@ -19,7 +19,7 @@ any wire placed next to it and power it to a constant voltage, which is
 ## Crafting
 
 Battery is made using 2 [copper ingots](Copper_Ingot "wikilink") and 4
-[coal chunks](Coal_Chunk "wikilink").
+[coal chunks](Recipaedia/Minerals/Coal_Chunk.md "wikilink").
 
 ![Battery_craft.png](Battery_craft.png "Battery_craft.png")
 

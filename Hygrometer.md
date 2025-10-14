@@ -21,7 +21,7 @@ surrounding humidity.
 ## Crafting
 
 Use 2 [iron ingots](Iron_Ingot "wikilink") and 3 [malachite
-chunks](Malachite_Chunk "wikilink") to craft one hygrometer.
+chunks](Recipaedia/Minerals/Malachite_Chunk.md "wikilink") to craft one hygrometer.
 ![Hygro_craft.jpg](Hygro_craft.jpg "Hygro_craft.jpg")
 
 ## Notes

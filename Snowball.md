@@ -26,7 +26,7 @@ a campfire, simply tap on the fire with a snowball in hand.
 
 ## Where Can I Find Snowballs?
 
-To find snowballs, you must first find [Snow](Snow "wikilink"). Snow can
+To find snowballs, you must first find [Snow](Recipaedia/Terrain/Snow.md "wikilink"). Snow can
 be found in cold and icy biomes. Uppon finding snow, break it, and you
 will receive 2-3 snowballs.
 

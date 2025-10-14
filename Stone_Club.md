@@ -20,7 +20,7 @@ metals.*
 ## Crafting
 
 A stone club is crafted with one [Stick](Stick "wikilink") and two
-[Cobblestone](Cobblestone "wikilink") or [Granite](Granite "wikilink").
+[Cobblestone](Cobblestone "wikilink") or [Granite](Recipaedia/Terrain/Granite.md "wikilink").
 ![Stone_club_craft.jpg](Stone_club_craft.jpg "Stone_club_craft.jpg")
 
 ## Related Pages

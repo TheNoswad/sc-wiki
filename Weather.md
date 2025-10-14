@@ -37,7 +37,7 @@ especially if you are in a temperate biome (not desert or snow).
 </div>
 
 Snowfall is precipitation occuring in cold biomes. Different shapes and
-sizes of flakes can be seen. [Snow](Snow "wikilink") sticks to most flat
+sizes of flakes can be seen. [Snow](Recipaedia/Terrain/Snow.md "wikilink") sticks to most flat
 surfaces and you can harvest [snowballs](Snowball "wikilink") from it
 later. Snow will *not* make you wet but it *will* make you cold. If you
 are dressed properly, snow will cause you no harm.

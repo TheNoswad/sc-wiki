@@ -19,7 +19,7 @@ to form an iron block.*
 ## Crafting
 
 Iron ingot is made by smelting [Iron Ore
-Chunk](Iron_Ore_Chunk "wikilink") in a [furnace](furnace "wikilink").
+Chunk](Recipaedia/Minerals/Iron_Ore_Chunk.md "wikilink") in a [furnace](furnace "wikilink").
 You can also reclaim them by dismantling [solid iron
 blocks](solid_Iron_Block "wikilink").
 

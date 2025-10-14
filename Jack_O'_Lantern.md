@@ -31,9 +31,9 @@ Requires 1 [pumpkin](pumpkin "wikilink") and 1
 
 ## Related Pages
 
-  - [Pumpkin](Pumpkin "wikilink")
+  - [Pumpkin](Recipaedia/Plants/Pumpkin.md "wikilink")
   - [Unripe Pumpkin](Unripe_Pumpkin "wikilink")
-  - [Pumpkin Seeds](Pumpkin_Seeds "wikilink")
+  - [Pumpkin Seeds](Recipaedia/Plants/Pumpkin_Seeds.md "wikilink")
 
 [Category:Items](Category:Items "wikilink")
 [Category:Crafted](Category:Crafted "wikilink")

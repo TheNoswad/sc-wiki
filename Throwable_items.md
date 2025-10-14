@@ -23,31 +23,31 @@ blocks is the maximum distance an item can be thrown.
 *Note: All items below can be used as [weapons](weapons "wikilink") of
 some kind.*
 
-  - [Coal Chunk](Coal_Chunk "wikilink")
+  - [Coal Chunk](Recipaedia/Minerals/Coal_Chunk.md "wikilink")
 
 <!-- end list -->
 
-  - [Malachite Chunk](Malachite_Chunk "wikilink")
+  - [Malachite Chunk](Recipaedia/Minerals/Malachite_Chunk.md "wikilink")
 
 <!-- end list -->
 
-  - [Iron Ore Chunk](Iron_Ore_Chunk "wikilink")
+  - [Iron Ore Chunk](Recipaedia/Minerals/Iron_Ore_Chunk.md "wikilink")
 
 <!-- end list -->
 
-  - [Sulphur Chunk](Sulphur_Chunk "wikilink")
+  - [Sulphur Chunk](Recipaedia/Minerals/Sulphur_Chunk.md "wikilink")
 
 <!-- end list -->
 
-  - [Saltpeter Chunk](Saltpeter_Chunk "wikilink")
+  - [Saltpeter Chunk](Recipaedia/Minerals/Saltpeter_Chunk.md "wikilink")
 
 <!-- end list -->
 
-  - [Diamond](Diamond "wikilink")
+  - [Diamond](Recipaedia/Minerals/Diamond.md "wikilink")
 
 <!-- end list -->
 
-  - [Germanium Ore Chunk](Germanium_Ore_Chunk "wikilink")
+  - [Germanium Ore Chunk](Recipaedia/Minerals/Germanium_Ore_Chunk.md "wikilink")
 
 <!-- end list -->
 
@@ -60,7 +60,7 @@ some kind.*
 
 <!-- end list -->
 
-  - [Stone Chunk](Stone_Chunk "wikilink")
+  - [Stone Chunk](Recipaedia/Terrain/Stone_Chunk.md "wikilink")
 
 <!-- end list -->
 

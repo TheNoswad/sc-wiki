@@ -20,7 +20,7 @@ materials will last longer and dig faster. *
 ## Crafting
 
 Requires one [Cobblestone](Cobblestone "wikilink") or
-[Granite](Granite "wikilink") and two [sticks](stick "wikilink"). 
+[Granite](Recipaedia/Terrain/Granite.md "wikilink") and two [sticks](stick "wikilink"). 
 
 <div style="overflow: hidden">
 

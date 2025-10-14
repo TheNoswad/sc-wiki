@@ -53,8 +53,8 @@ few bulls around will almost inevitably lead to a dead herd.
 
   - Cattle run away from the sound of a whistle, as do
     [ostriches](Ostrich "wikilink") and [birds](Raven "wikilink").
-  - Cattle will come after [tall grass](Tall_Grass "wikilink") and
-    [flowers](Red_Flower "wikilink") to eat them when dropped as items.
+  - Cattle will come after [tall grass](Recipaedia/Plants/Tall_Grass.md "wikilink") and
+    [flowers](Recipaedia/Plants/Red_Flower.md "wikilink") to eat them when dropped as items.
   - You can gather milk from cows using a [Bucket](Bucket "wikilink").
   - Cattle also run away from the sound of an explosion creating an
     effect on the entire herd of cows.

@@ -20,9 +20,9 @@ ignited.*
 
 ## Crafting
 
-Gunpowder is made from combining [coal](Coal_Chunk "wikilink"),
-[sulfur](Sulfur_Chunk "wikilink") and
-[saltpeter](Saltpeter_Chunk "wikilink") (chunks). You get three chunks
+Gunpowder is made from combining [coal](Recipaedia/Minerals/Coal_Chunk.md "wikilink"),
+[sulfur](Recipaedia/Minerals/Sulfur_Chunk.md "wikilink") and
+[saltpeter](Recipaedia/Minerals/Saltpeter_Chunk.md "wikilink") (chunks). You get three chunks
 of gunpowder.
 
 <div style=" overflow: hidden">
@@ -46,9 +46,9 @@ of gunpowder.
 
 ## Related Pages
 
-  - [Coal Chunk](Coal_Chunk "wikilink")
-  - [Sulfur Chunk](Sulfur_Chunk "wikilink")
-  - [Saltpeter Chunk](Saltpeter_Chunk "wikilink")
+  - [Coal Chunk](Recipaedia/Minerals/Coal_Chunk.md "wikilink")
+  - [Sulfur Chunk](Recipaedia/Minerals/Sulfur_Chunk.md "wikilink")
+  - [Saltpeter Chunk](Recipaedia/Minerals/Saltpeter_Chunk.md "wikilink")
 
 [Category:Throwable](Category:Throwable "wikilink")
 [Category:Fuel](Category:Fuel "wikilink") [Category:Dangerous

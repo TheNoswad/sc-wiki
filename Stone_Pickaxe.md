@@ -20,7 +20,7 @@ and quarry faster.*
 ## Crafting
 
 Requires 3 [Cobblestone](Cobblestone "wikilink") or
-[Granite](Granite "wikilink") and 2 [sticks](stick "wikilink"). You get
+[Granite](Recipaedia/Terrain/Granite.md "wikilink") and 2 [sticks](stick "wikilink"). You get
 1 pickaxe.  
 
 <div style="overflow: hidden">

@@ -21,23 +21,23 @@ Experience orbs can be obtained in different ways.
   - Killing animals: The amount of experience dropped depends by the
     animal killed.
   - Mining ores: Any ore mined yields 1 experience orb, [diamond
-    ore](Diamond_Ore "wikilink") yields 3 experience orbs but only if
+    ore](Recipaedia/Minerals/Diamond_Ore.md "wikilink") yields 3 experience orbs but only if
     mined with proper tools (copper, iron or diamond). If you break
     diamond ore with your hand, wooden or stone tools, **nothing** will
-    drop out of it. [Clay](Clay "wikilink"), [Dirt](Dirt "wikilink"),
-    [Grass](Grass "wikilink"), [Gravel](Gravel "wikilink"),
-    [Ice](Ice "wikilink") and [Sand](Sand "wikilink") yield 1 experience
-    orb with a 0.5% chance. [Basalt](Basalt "wikilink"), [Birch
-    Wood](Birch_Wood "wikilink"), [Granite](Granite "wikilink"),
-    [Limestone](Limestone "wikilink"), [Mimosa
-    Wood](Mimosa_Wood "wikilink"), [Oak Wood](Oak_Wood "wikilink"),
-    [Sandstone](Sandstone "wikilink") and [Spruce
-    Wood](Spruce_Wood "wikilink") yield 1 experience orb with a 1%
+    drop out of it. [Clay](Recipaedia/Terrain/Clay.md "wikilink"), [Dirt](Recipaedia/Terrain/Dirt.md "wikilink"),
+    [Grass](Recipaedia/Terrain/Grass.md "wikilink"), [Gravel](Recipaedia/Terrain/Gravel.md "wikilink"),
+    [Ice](Recipaedia/Terrain/Ice.md "wikilink") and [Sand](Recipaedia/Terrain/Sand.md "wikilink") yield 1 experience
+    orb with a 0.5% chance. [Basalt](Recipaedia/Terrain/Basalt.md "wikilink"), [Birch
+    Wood](Recipaedia/Plants/Birch_Wood.md "wikilink"), [Granite](Recipaedia/Terrain/Granite.md "wikilink"),
+    [Limestone](Recipaedia/Terrain/Limestone.md "wikilink"), [Mimosa
+    Wood](Recipaedia/Plants/Mimosa_Wood.md "wikilink"), [Oak Wood](Recipaedia/Plants/Oak_Wood.md "wikilink"),
+    [Sandstone](Recipaedia/Terrain/Sandstone.md "wikilink") and [Spruce
+    Wood](Recipaedia/Plants/Spruce_Wood.md "wikilink") yield 1 experience orb with a 1%
     chance.
   - Harvesting crops: There is a 50% chance to get one experience orb
-    when harvesting full-grown [Rye](Rye "wikilink"),
-    [Cotton](Cotton "wikilink") and not dead
-    [Pumpkin](Pumpkin "wikilink").
+    when harvesting full-grown [Rye](Recipaedia/Plants/Rye.md "wikilink"),
+    [Cotton](Recipaedia/Plants/Cotton.md "wikilink") and not dead
+    [Pumpkin](Recipaedia/Plants/Pumpkin.md "wikilink").
   - Graveyards: There is a chance to get 3 to 12 experience orbs under
     [graves](Generated_Structures#Graves "wikilink").
   - Creative: In [creative gamemode](Creative_Gamemode "wikilink")
@@ -50,7 +50,7 @@ If you gather enough experience orbs, your
 [character](Character "wikilink") will advance to the next level.
 Levelling up your character increases some of your statistics like melee
 power, accuracy, resilience, movement speed, food depletion etc and
-allows to the player to use [diamond](Diamond "wikilink") tools,
+allows to the player to use [diamond](Recipaedia/Minerals/Diamond.md "wikilink") tools,
 weapons, and armor.
 
 ## See also

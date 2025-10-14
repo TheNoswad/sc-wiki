@@ -20,7 +20,7 @@ flammable objects on fire. Do not use in the wooded areas\!*
 ## Crafting
 
 You need One [Bomb](Bomb "wikilink") and one [Sulfur
-Chunk](Sulfur_Chunk "wikilink"). You get 1 incendiary.
+Chunk](Recipaedia/Minerals/Sulfur_Chunk.md "wikilink"). You get 1 incendiary.
 
 <div style="overflow: hidden">
 

@@ -25,8 +25,8 @@ Wild Cotton plants are found in Jungles and Forests. 
 
 ## Uses
 
-Wild Cotton may be broken to provide [seeds](Cotton_Seeds "wikilink")
-used to grow [cultivated Cotton](Cotton "wikilink"). See the [Farming
+Wild Cotton may be broken to provide [seeds](Recipaedia/Plants/Cotton_Seeds.md "wikilink")
+used to grow [cultivated Cotton](Recipaedia/Plants/Cotton.md "wikilink"). See the [Farming
 Page](Farming "wikilink") for details on growing crops. 
 
 Wild Cotton will grow when the seeds are not planted and cultivated
@@ -34,9 +34,9 @@ properly. 
 
 ## Related Pages 
 
-  - [Cotton Seeds](Cotton_Seeds "wikilink")
+  - [Cotton Seeds](Recipaedia/Plants/Cotton_Seeds.md "wikilink")
   - [Cotton Stages](Cotton_Stages "wikilink")
-  - [Cotton](Cotton "wikilink")
+  - [Cotton](Recipaedia/Plants/Cotton.md "wikilink")
   - [Farming](Farming "wikilink")
   - [Clothes](Clothing "wikilink")
 

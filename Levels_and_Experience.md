@@ -34,48 +34,48 @@ Here's a list who shows the amount of experience that can be retrieved
 from different methods.
 
   - Harvesting full-grown crops (50% chance to get it)
-      - Harvesting [Rye](Rye "wikilink"): 1 experience orbs
-      - Harvesting [Cotton](Cotton "wikilink"): 1 experience orbs
-      - Harvesting [Pumpkin](Pumpkin "wikilink"): 1 experience orbs
+      - Harvesting [Rye](Recipaedia/Plants/Rye.md "wikilink"): 1 experience orbs
+      - Harvesting [Cotton](Recipaedia/Plants/Cotton.md "wikilink"): 1 experience orbs
+      - Harvesting [Pumpkin](Recipaedia/Plants/Pumpkin.md "wikilink"): 1 experience orbs
         (only by not dead pumpkins)
   - Mining Blocks
-      - Mining [Clay](Clay "wikilink"): 1 experience orb (0.5% chance to
+      - Mining [Clay](Recipaedia/Terrain/Clay.md "wikilink"): 1 experience orb (0.5% chance to
         get it)
-      - Mining [Dirt](Dirt "wikilink"): 1 experience orb (0.5% chance to
+      - Mining [Dirt](Recipaedia/Terrain/Dirt.md "wikilink"): 1 experience orb (0.5% chance to
         get it)
-      - Mining [Grass](Grass "wikilink"): 1 experience orb (0.5% chance
+      - Mining [Grass](Recipaedia/Terrain/Grass.md "wikilink"): 1 experience orb (0.5% chance
         to get it)
-      - Mining [Gravel](Gravel "wikilink"): 1 experience orb (0.5%
+      - Mining [Gravel](Recipaedia/Terrain/Gravel.md "wikilink"): 1 experience orb (0.5%
         chance to get it)
-      - Mining [Ice](Ice "wikilink"): 1 experience orb (0.5% chance to
+      - Mining [Ice](Recipaedia/Terrain/Ice.md "wikilink"): 1 experience orb (0.5% chance to
         get it)
-      - Mining [Sand](Sand "wikilink"): 1 experience orb (0.5% chance to
+      - Mining [Sand](Recipaedia/Terrain/Sand.md "wikilink"): 1 experience orb (0.5% chance to
         get it)
-      - Mining [Basalt](Basalt "wikilink"): 1 experience orb (1% chance
+      - Mining [Basalt](Recipaedia/Terrain/Basalt.md "wikilink"): 1 experience orb (1% chance
         to get it)
-      - Mining [Birch Wood](Birch_Wood "wikilink"): 1 experience orb (1%
+      - Mining [Birch Wood](Recipaedia/Plants/Birch_Wood.md "wikilink"): 1 experience orb (1%
         chance to get it)
-      - Mining [Granite](Granite "wikilink"): 1 experience orb (1%
+      - Mining [Granite](Recipaedia/Terrain/Granite.md "wikilink"): 1 experience orb (1%
         chance to get it)
-      - Mining [Limestone](Limestone "wikilink"): 1 experience orb (1%
+      - Mining [Limestone](Recipaedia/Terrain/Limestone.md "wikilink"): 1 experience orb (1%
         chance to get it)
-      - Mining [Mimosa Wood](Mimosa_Wood "wikilink"): 1 experience orb
+      - Mining [Mimosa Wood](Recipaedia/Plants/Mimosa_Wood.md "wikilink"): 1 experience orb
         (1% chance to get it)
-      - Mining [Oak Wood](Oak_Wood "wikilink"): 1 experience orb (1%
+      - Mining [Oak Wood](Recipaedia/Plants/Oak_Wood.md "wikilink"): 1 experience orb (1%
         chance to get it)
-      - Mining [Sandstone](Sandstone "wikilink"): 1 experience orb (1%
+      - Mining [Sandstone](Recipaedia/Terrain/Sandstone.md "wikilink"): 1 experience orb (1%
         chance to get it)
-      - Mining [Spruce Wood](Spruce_Wood "wikilink"): 1 experience orb
+      - Mining [Spruce Wood](Recipaedia/Plants/Spruce_Wood.md "wikilink"): 1 experience orb
         (1% chance to get it)
-      - Mining [Coal Ore](Coal_Ore "wikilink"): 1 experience orb
-      - Mining [Copper Ore](Copper_Ore "wikilink"): 1 experience orb
-      - Mining [Saltpeter Ore](Saltpeter_Ore "wikilink"): 1 experience
+      - Mining [Coal Ore](Recipaedia/Minerals/Coal_Ore.md "wikilink"): 1 experience orb
+      - Mining [Copper Ore](Recipaedia/Minerals/Copper_Ore.md "wikilink"): 1 experience orb
+      - Mining [Saltpeter Ore](Recipaedia/Minerals/Saltpeter_Ore.md "wikilink"): 1 experience
         orb
-      - Mining [Iron Ore](Iron_Ore "wikilink"): 1 experience orb
-      - Mining [Sulphur Ore](Sulphur_Ore "wikilink"): 1 experience orb
-      - Mining [Germanium Ore](Germanium_Ore "wikilink"): 1 experience
+      - Mining [Iron Ore](Recipaedia/Minerals/Iron_Ore.md "wikilink"): 1 experience orb
+      - Mining [Sulphur Ore](Recipaedia/Minerals/Sulphur_Ore.md "wikilink"): 1 experience orb
+      - Mining [Germanium Ore](Recipaedia/Minerals/Germanium_Ore.md "wikilink"): 1 experience
         orb
-      - Mining [Diamond Ore](Diamond_Ore "wikilink"): 3 experience orbs
+      - Mining [Diamond Ore](Recipaedia/Minerals/Diamond_Ore.md "wikilink"): 3 experience orbs
         (only with copper, iron or diamond tools)
   - Killing Animals
       - Killing
@@ -119,7 +119,7 @@ from different methods.
       - Killing
         [Piranha](Piranha "wikilink")/[Barracuda](Bestiary/Barracuda.md "wikilink"):
         2 experience orbs
-      - Killing [Bull Shark](Bull_Shark "wikilink"): 3 experience orbs
+      - Killing [Bull Shark](Recipaedia/Plants/Bull_Shark.md "wikilink"): 3 experience orbs
       - Killing [Tiger Shark](Tiger_Shark "wikilink"): 7 experience orbs
       - Killing [Orca](Orca "wikilink"): 25 experience orbs
       - Killing [Beluga Whale](Beluga_Whale "wikilink"): 20 experience

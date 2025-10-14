@@ -18,7 +18,7 @@ can have a smoke trail until they land.
 ![Smoke_trails.jpg](Smoke_trails.jpg "Smoke_trails.jpg")
 
 Picture 2: Smoke is also caused when flaming objects disintegrate. A
-block of [Oak Leaves](Oak_Leaves "wikilink") are used in this example.
+block of [Oak Leaves](Recipaedia/Plants/Oak_Leaves.md "wikilink") are used in this example.
 ![Example_of_smoke.jpg](Example_of_smoke.jpg "Example_of_smoke.jpg")
 
 ## Related Pages

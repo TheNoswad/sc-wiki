@@ -321,23 +321,23 @@ page](Uploading_and_Downloading "wikilink") for uploading details.
 
 <!-- end list -->
 
-  - [Basalt](Basalt "wikilink")
+  - [Basalt](Recipaedia/Terrain/Basalt.md "wikilink")
   - [Brick Block](Brick_Wall "wikilink")
   - [Carpet](Carpet "wikilink")
-  - [Clay](Clay "wikilink")
+  - [Clay](Recipaedia/Terrain/Clay.md "wikilink")
   - [Coal Block](Solid_Coal_Block "wikilink")
   - [Cobblestone](Cobblestone "wikilink")
   - [Copper Block](Solid_Copper_Block "wikilink")
   - [Diamond Block](Solid_Diamond_Block "wikilink")
   - [Glass](Glass "wikilink")
-  - [Granite](Granite "wikilink")
+  - [Granite](Recipaedia/Terrain/Granite.md "wikilink")
   - [Iron Block](Solid_Iron_Block "wikilink")
   - [Magma](Magma "wikilink")
   - [Malachite Block](Malachite_Block "wikilink")
   - [Marble](Marble "wikilink")
   - [Planks](Planks "wikilink")
-  - [Sand](Sand "wikilink")
-  - [Sandstone](Sandstone "wikilink")
+  - [Sand](Recipaedia/Terrain/Sand.md "wikilink")
+  - [Sandstone](Recipaedia/Terrain/Sandstone.md "wikilink")
   - [Stone Bricks](Stone_Bricks "wikilink")
   - [Water](Water "wikilink")
 

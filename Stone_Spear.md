@@ -21,7 +21,7 @@ remove a spear that embedded itself too hard.*
 ## Crafting
 
 Requires 3 [cobblestone](Cobblestone "wikilink") or
-[granite](Granite "wikilink") and 2 [sticks](Stick "wikilink"). You get
+[granite](Recipaedia/Terrain/Granite.md "wikilink") and 2 [sticks](Stick "wikilink"). You get
 one spear. ![Craft_a_stone_spear.jpg](Craft_a_stone_spear.jpg
 "Craft_a_stone_spear.jpg")
 

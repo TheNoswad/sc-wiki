@@ -27,7 +27,7 @@ Any time you break a block with the proper tool or better, the block
 'drops' so you can pick it up. Regular terrain will usually drop a copy
 of itself. Ore blocks usually drop 1 or more of their ores or crystals.
 Breaking granite will drop cobblestone while breaking gravel may drop a
-gravel block and/or [stone chunk](Stone_Chunk "wikilink"). Some blocks
+gravel block and/or [stone chunk](Recipaedia/Terrain/Stone_Chunk.md "wikilink"). Some blocks
 such as glass, will drop nothing.
 
 Animals can also drop items. When an animal is killed, it may drop meat,

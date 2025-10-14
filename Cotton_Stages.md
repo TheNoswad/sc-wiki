@@ -44,10 +44,10 @@ after it's in this stage.  
 
 ## Related Pages 
 
-  - [Cotton](Cotton "wikilink")
+  - [Cotton](Recipaedia/Plants/Cotton.md "wikilink")
   - [Wild Cotton](Wild_Cotton "wikilink")
   - [Cotton Wad](Cotton_Wad "wikilink")
-  - [Cotton Seeds](Cotton_Seeds "wikilink")
+  - [Cotton Seeds](Recipaedia/Plants/Cotton_Seeds.md "wikilink")
   - [Farming](Farming "wikilink")
 
 [Category:Plants](Category:Plants "wikilink")

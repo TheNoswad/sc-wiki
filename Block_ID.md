@@ -20,53 +20,53 @@ This is a list of all the block IDs in the game.
 
 1 - [Bedrock](Bedrock "wikilink")
 
-2 - [Dirt](Dirt "wikilink")
+2 - [Dirt](Recipaedia/Terrain/Dirt.md "wikilink")
 
-3 - [Granite](Granite "wikilink")
+3 - [Granite](Recipaedia/Terrain/Granite.md "wikilink")
 
-4 - [Sandstone](Sandstone "wikilink")
+4 - [Sandstone](Recipaedia/Terrain/Sandstone.md "wikilink")
 
 5 - [Cobblestone](Cobblestone "wikilink")
 
-6 - [Gravel](Gravel "wikilink")
+6 - [Gravel](Recipaedia/Terrain/Gravel.md "wikilink")
 
-7 - [Sand](Sand "wikilink")
+7 - [Sand](Recipaedia/Terrain/Sand.md "wikilink")
 
-8 - [Grass](Grass "wikilink")
+8 - [Grass](Recipaedia/Terrain/Grass.md "wikilink")
 
-9 - [Oak Wood](Oak_Wood "wikilink")
+9 - [Oak Wood](Recipaedia/Plants/Oak_Wood.md "wikilink")
 
-10 - [Birch Wood](Birch_Wood "wikilink")
+10 - [Birch Wood](Recipaedia/Plants/Birch_Wood.md "wikilink")
 
-11 - [Spruce Wood](Spruce_Wood "wikilink")
+11 - [Spruce Wood](Recipaedia/Plants/Spruce_Wood.md "wikilink")
 
-12 - [Oak Leaves](Oak_Leaves "wikilink")
+12 - [Oak Leaves](Recipaedia/Plants/Oak_Leaves.md "wikilink")
 
-13 - [Birch Leaves](Birch_Leaves "wikilink")
+13 - [Birch Leaves](Recipaedia/Plants/Birch_Leaves.md "wikilink")
 
-14 - [Spruce Leaves](Spruce_Leaves "wikilink")
+14 - [Spruce Leaves](Recipaedia/Plants/Spruce_Leaves.md "wikilink")
 
 15 - [Glass](Glass "wikilink")
 
-16 - [Coal Ore](Coal_Ore "wikilink")
+16 - [Coal Ore](Recipaedia/Minerals/Coal_Ore.md "wikilink")
 
 17 - [Wicker Lamp](Wicker_Lamp "wikilink")
 
 18 - [Water](Water "wikilink")
 
-19 - [Tall Grass](Tall_Grass "wikilink")
+19 - [Tall Grass](Recipaedia/Plants/Tall_Grass.md "wikilink")
 
-20 - [Red Flower](Red_Flower "wikilink")
+20 - [Red Flower](Recipaedia/Plants/Red_Flower.md "wikilink")
 
 21 - [Planks](Planks "wikilink")
 
-22 - [Coal Chunk](Coal_Chunk "wikilink")
+22 - [Coal Chunk](Recipaedia/Minerals/Coal_Chunk.md "wikilink")
 
 23 - [Stick](Stick "wikilink")
 
-24 - [Purple Flower](Purple_Flower "wikilink")
+24 - [Purple Flower](Recipaedia/Plants/Purple_Flower.md "wikilink")
 
-25 - [White Flower](White_Flower "wikilink")
+25 - [White Flower](Recipaedia/Plants/White_Flower.md "wikilink")
 
 ### **26 - 50**
 
@@ -74,7 +74,7 @@ This is a list of all the block IDs in the game.
 
 27 - [Crafting Table](Crafting_Table "wikilink")
 
-28 - [Dry Bush](Dry_Bush "wikilink")
+28 - [Dry Bush](Recipaedia/Plants/Dry_Bush.md "wikilink")
 
 29 - [Stone Axe](Stone_Axe "wikilink")
 
@@ -101,16 +101,16 @@ Pickaxe](Stone_Pickaxe "wikilink")
 
 38 - [Iron Pickaxe](Iron_Pickaxe "wikilink")
 
-39 - [Iron Ore](Iron_Ore "wikilink")
+39 - [Iron Ore](Recipaedia/Minerals/Iron_Ore.md "wikilink")
 
 40 - [Iron Ingot](Iron_Ingot "wikilink")
 
-41 - [Copper Ore](Copper_Ore "wikilink") -  was called Malachite
+41 - [Copper Ore](Recipaedia/Minerals/Copper_Ore.md "wikilink") -  was called Malachite
 Ore, before v.1.27
 
 42 - [Copper Ingot](Copper_Ingot "wikilink")
 
-43 - [Malachite Chunk](Malachite_Chunk "wikilink")
+43 - [Malachite Chunk](Recipaedia/Minerals/Malachite_Chunk.md "wikilink")
 
 44 - [Framed Glass](Framed_Glass "wikilink")
 
@@ -148,9 +148,9 @@ Ore, before v.1.27
 
 60 - [Window](Window "wikilink")
 
-61 - [Snow](Snow "wikilink")
+61 - [Snow](Recipaedia/Terrain/Snow.md "wikilink")
 
-62 - [Ice](Ice "wikilink")
+62 - [Ice](Recipaedia/Terrain/Ice.md "wikilink")
 
 63 - [Christmas Tree](Christmas_tree "wikilink")
 
@@ -158,9 +158,9 @@ Ore, before v.1.27
 
 65 - Lit [Furnace](Furnace "wikilink")
 
-66 - [Limestone](Limestone "wikilink")
+66 - [Limestone](Recipaedia/Terrain/Limestone.md "wikilink")
 
-67 - [Basalt](Basalt "wikilink")
+67 - [Basalt](Recipaedia/Terrain/Basalt.md "wikilink")
 
 68 - [Marble](Marble "wikilink")
 
@@ -170,7 +170,7 @@ Ore, before v.1.27
 
 71 - [Malachite Block](Malachite_Block "wikilink")
 
-72 - [Clay](Clay "wikilink")
+72 - [Clay](Recipaedia/Terrain/Clay.md "wikilink")
 
 73 - [Brick Wall](Brick_Wall "wikilink")
 
@@ -186,7 +186,7 @@ Ore, before v.1.27
 
 78 - [Cooked Bird](Cooked_Bird "wikilink")
 
-79 - [Stone Chunk](Stone_Chunk "wikilink")
+79 - [Stone Chunk](Recipaedia/Terrain/Stone_Chunk.md "wikilink")
 
 80 - [Wooden Spear](Wooden_Spear "wikilink")
 
@@ -226,17 +226,17 @@ Ore, before v.1.27
 
 98 - Attached [Wooden Sign](Wooden_Sign "wikilink")
 
-99 - [Large Dry Bush](Large_Dry_Bush "wikilink")
+99 - [Large Dry Bush](Recipaedia/Plants/Large_Dry_Bush.md "wikilink")
 
-100 - [Saltpeter Ore](Saltpeter_Ore "wikilink")
+100 - [Saltpeter Ore](Recipaedia/Minerals/Saltpeter_Ore.md "wikilink")
 
 ### **101 - 125**
 
-101 - [Sulphur Ore](Sulphur_Ore "wikilink")
+101 - [Sulphur Ore](Recipaedia/Minerals/Sulphur_Ore.md "wikilink")
 
-102 - [Saltpeter Chunk](Saltpeter_Chunk "wikilink")
+102 - [Saltpeter Chunk](Recipaedia/Minerals/Saltpeter_Chunk.md "wikilink")
 
-103 - [Sulphur Chunk](Sulphur_Chunk "wikilink")
+103 - [Sulphur Chunk](Recipaedia/Minerals/Sulphur_Chunk.md "wikilink")
 
 104 - [Fire](Fire "wikilink")
 
@@ -252,9 +252,9 @@ Ore, before v.1.27
 
 110 - [Milk](Milk "wikilink")
 
-111 - [Diamond](Diamond "wikilink")
+111 - [Diamond](Recipaedia/Minerals/Diamond.md "wikilink")
 
-112 - [Diamond Ore](Diamond_Ore "wikilink")
+112 - [Diamond Ore](Recipaedia/Minerals/Diamond_Ore.md "wikilink")
 
 113 - [Diamond Edge Shovel](Diamond_Edge_Shovel "wikilink")
 
@@ -288,7 +288,7 @@ Machete](Stone_Machete "wikilink")
 
 126 - [Solid Diamond Block](Solid_Diamond_Block "wikilink")
 
-127 - [Cactus](Cactus "wikilink")
+127 - [Cactus](Recipaedia/Plants/Cactus.md "wikilink")
 
 128 - [Paint Stripper](Paint_Stripper "wikilink")
 
@@ -296,7 +296,7 @@ Machete](Stone_Machete "wikilink")
 
 130 - [White Pigment](White_Pigment "wikilink")
 
-131 - [Pumpkin](Pumpkin "wikilink")
+131 - [Pumpkin](Recipaedia/Plants/Pumpkin.md "wikilink")
 
 132 - [Jack O'Lantern](Jack_O'_Lantern "wikilink")
 
@@ -331,7 +331,7 @@ and [stone](Stone_Pressure_Plate "wikilink"))
 
 147 - [Electric Detonator](Electric_Detonator "wikilink")
 
-148 - [Germanium Ore](Germanium_Ore "wikilink")
+148 - [Germanium Ore](Recipaedia/Minerals/Germanium_Ore.md "wikilink")
 
 149 - [Germanium Crystal](Germanium_Crystal "wikilink")
 
@@ -374,7 +374,7 @@ Semiconductor](Wire_Through_Semiconductor "wikilink")
 
 167 - [Magnet](Magnet "wikilink")
 
-168 - [Soil](Soil "wikilink")
+168 - [Soil](Recipaedia/Terrain/Soil.md "wikilink")
 
 169 - [Wooden Rake](Wooden_Rake "wikilink")
 
@@ -387,7 +387,7 @@ Rake](Stone_Rake "wikilink")
 
 173 - Seeds
 
-174 - [Rye](Rye "wikilink")
+174 - [Rye](Recipaedia/Plants/Rye.md "wikilink")
 
 175 - [Flour](Flour "wikilink")
 
@@ -405,13 +405,13 @@ Rake](Stone_Rake "wikilink")
 Converter](Digital_to_Analog_Converter "wikilink")
 
 181 - [Analog To Digital
-Converter](Analog_to_Digital_Converter "wikilink")
+Converter](Guides/Analog_to_Digital_Converter.md "wikilink")
 
 182 - [4-LED](4-LED "wikilink")
 
 183 - [Sound Generator](Sound_Generator "wikilink")
 
-184 - [4-Bit Counter](4-Bit_Counter "wikilink")
+184 - [4-Bit Counter](Guides/4-Bit_Counter.md "wikilink")
 
 185 - [7-Segment Display](7-Segment_Display "wikilink")
 
@@ -437,7 +437,7 @@ Converter](Analog_to_Digital_Converter "wikilink")
 
 196 - [Feather](Feather "wikilink")
 
-197 - [Ivy](Ivy "wikilink")
+197 - [Ivy](Recipaedia/Plants/Ivy.md "wikilink")
 
 198 - [String](String "wikilink")
 
@@ -454,7 +454,7 @@ Converter](Analog_to_Digital_Converter "wikilink")
 203 - [Clothing](Clothing "wikilink") (including all clothes, armor and
 dyed variants)
 
-204 - [Cotton](Cotton "wikilink")
+204 - [Cotton](Recipaedia/Plants/Cotton.md "wikilink")
 
 205 - [Cotton Wad](Cotton_Wad "wikilink")
 
@@ -496,25 +496,25 @@ dyed variants)
 
 224 - [Adjustable Delay Gate](Adjustable_Delay_Gate "wikilink")
 
-225 - [Tall Spruce Leaves](Tall_Spruce_Leaves "wikilink")
+225 - [Tall Spruce Leaves](Recipaedia/Plants/Tall_Spruce_Leaves.md "wikilink")
 
 ### **225 - 250**
 
-226 - [Sea Urchin](Sea_Urchin "wikilink")
+226 - [Sea Urchin](Recipaedia/Plants/Sea_Urchin.md "wikilink")
 
 227 - [Furniture](Furniture "wikilink")
 
 228 - [Incendiary Bomb](Incendiary_Bomb "wikilink")
 
-229 - [Starfish](Starfish "wikilink")
+229 - [Starfish](Recipaedia/Plants/Starfish.md "wikilink")
 
 230 - [Iron Hammer](Iron_Hammer "wikilink")
 
 231 - [Semiconductor Block](Semiconductor_Block "wikilink")
 
-232 - [Kelp](Kelp "wikilink")
+232 - [Kelp](Recipaedia/Plants/Kelp.md "wikilink")
 
-233 - [Seagrass](Seagrass "wikilink")
+233 - [Seagrass](Recipaedia/Plants/Seagrass.md "wikilink")
 
 234 - [Small Incendiary Keg](Incendiary_Kegs "wikilink")
 
@@ -536,7 +536,7 @@ dyed variants)
 
 243 - [Wire Through Cobblestone](Wire_Through_Cobblestone "wikilink")
 
-244 - [Rotten Pumpkin](Rotten_Pumpkin "wikilink")
+244 - [Rotten Pumpkin](Recipaedia/Plants/Rotten_Pumpkin.md "wikilink")
 
 245 - [Spoiled Milk](Spoiled_Milk "wikilink")
 
@@ -546,23 +546,23 @@ dyed variants)
 
 248 - [Experience Orb](Experience_Orb "wikilink")
 
-249 - [Iron Ore Chunk](Iron_Ore_Chunk "wikilink")
+249 - [Iron Ore Chunk](Recipaedia/Minerals/Iron_Ore_Chunk.md "wikilink")
 
-250 - [Germanium Ore Chunk](Germanium_Ore_Chunk "wikilink")
+250 - [Germanium Ore Chunk](Recipaedia/Minerals/Germanium_Ore_Chunk.md "wikilink")
 
 ### **251 - 275**
 
-251 - [Pumpkin Soup](Pumpkin_Soup "wikilink")
+251 - [Pumpkin Soup](Recipaedia/Plants/Pumpkin_Soup.md "wikilink")
 
-252 - [Rotten Pumpkin Soup](Rotten_Pumpkin_Soup "wikilink")
+252 - [Rotten Pumpkin Soup](Recipaedia/Plants/Rotten_Pumpkin_Soup.md "wikilink")
 
 253 - [1-LED](1-LED "wikilink")
 
 254 - [Multicolored LED](Multicolored_LED "wikilink")
 
-255 - [Mimosa Wood](Mimosa_Wood "wikilink")
+255 - [Mimosa Wood](Recipaedia/Plants/Mimosa_Wood.md "wikilink")
 
-256 - [Mimosa Leaves](Mimosa_Leaves "wikilink")
+256 - [Mimosa Leaves](Recipaedia/Plants/Mimosa_Leaves.md "wikilink")
 
 [Category:Concepts](Category:Concepts "wikilink")
 [Category:Gamesystem](Category:Gamesystem "wikilink")

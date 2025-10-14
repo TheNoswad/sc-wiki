@@ -44,7 +44,7 @@ You get one window.
 
   - [Glass](Glass "wikilink")
   - [Framed Glass](Framed_Glass "wikilink")
-  - [Sand](Sand "wikilink")
+  - [Sand](Recipaedia/Terrain/Sand.md "wikilink")
 
 [Category:Crafted](Category:Crafted "wikilink")
 [Category:Construction](Category:Construction "wikilink")

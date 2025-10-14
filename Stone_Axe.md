@@ -20,7 +20,7 @@ tools made of metals.*
 
 ## Crafting
 
-Requires 3 [Stone Chunks](Stone_Chunk "wikilink") or 1 to 3
+Requires 3 [Stone Chunks](Recipaedia/Terrain/Stone_Chunk.md "wikilink") or 1 to 3
 [Cobblestone](Cobblestone "wikilink"), and two
 [sticks](stick "wikilink"). 
 

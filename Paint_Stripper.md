@@ -18,7 +18,7 @@ previously painted surfaces and bring them to original appearance.*
 ## Crafting
 
 Place a [Bucket of water](Water_Bucket "wikilink") and a [saltpeter
-chunk](Saltpeter_Chunk "wikilink") in the furnace. You get one bucket of
+chunk](Recipaedia/Minerals/Saltpeter_Chunk.md "wikilink") in the furnace. You get one bucket of
 paint stripper. ![Paint_Stripper_craft.jpg](Paint_Stripper_craft.jpg
 "Paint_Stripper_craft.jpg")
 

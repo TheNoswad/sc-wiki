@@ -47,8 +47,8 @@ could be knocked off of your horse, or your herd could become broken up.
 ## Tips
 
 Have an enclosure waiting for your animals when you arrive. I suggest
-using cheap blocks (such as [Sand](Sand "wikilink") or
-[Dirt](Dirt "wikilink")) to put around your fence. This way, your
+using cheap blocks (such as [Sand](Recipaedia/Terrain/Sand.md "wikilink") or
+[Dirt](Recipaedia/Terrain/Dirt.md "wikilink")) to put around your fence. This way, your
 animals can go in with ease, but cannot get out.
 
 After your animals are in a fenced enclosure, build your fence up at

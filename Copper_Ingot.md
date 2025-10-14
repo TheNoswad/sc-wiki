@@ -19,7 +19,7 @@ form a copper block.*
 ## Crafting
 
 Copper ingot is made by smelting [malachite
-chunks](Malachite_Chunk "wikilink") in a furnace. You can also obtain
+chunks](Recipaedia/Minerals/Malachite_Chunk.md "wikilink") in a furnace. You can also obtain
 them by dismantling solid [copper
 blocks](Solid_Copper_Block "wikilink").
 ![Copper_Ingot_1.png](Copper_Ingot_1.png "Copper_Ingot_1.png")
@@ -43,7 +43,7 @@ and weapons.
 ## Related Pages
 
   - [Solid Copper Block](Solid_Copper_Block "wikilink")
-  - [Copper Ore](Copper_Ore "wikilink")
+  - [Copper Ore](Recipaedia/Minerals/Copper_Ore.md "wikilink")
 
 [Category:Terrain](Category:Terrain "wikilink")
 [Category:Items](Category:Items "wikilink")

@@ -28,8 +28,8 @@ cook food to preserve it.
   - [Moldy Bread](Moldy_Bread "wikilink")
   - [Moldy Dough](Moldy_Dough "wikilink")
   - [Spoiled Milk](Spoiled_Milk "wikilink")
-  - [Rotten Pumpkin Soup](Rotten_Pumpkin_Soup "wikilink")
-  - [Rotten Pumpkin](Rotten_Pumpkin "wikilink")
+  - [Rotten Pumpkin Soup](Recipaedia/Plants/Rotten_Pumpkin_Soup.md "wikilink")
+  - [Rotten Pumpkin](Recipaedia/Plants/Rotten_Pumpkin.md "wikilink")
 
 [Category:Food](Category:Food "wikilink")
 [Category:Edible](Category:Edible "wikilink") [Category:Dangerous

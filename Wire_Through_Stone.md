@@ -22,7 +22,7 @@ connections with other wires.*
 
 ## Crafting
 
-Uses 6 [Granite](Granite "wikilink") blocks and 3
+Uses 6 [Granite](Recipaedia/Terrain/Granite.md "wikilink") blocks and 3
 [wires](Electric_Wire "wikilink") to craft. You get 3 blocks.
 
 <div style="overflow: hidden">

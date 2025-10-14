@@ -44,7 +44,7 @@ No
 
 A stick and 2 Wooden planks, Stone, Copper or Iron Ingots. For Diamond
 Edge Machetes, you need 1 Iron Machete and 3
-[Diamonds](Diamond "wikilink").
+[Diamonds](Recipaedia/Minerals/Diamond.md "wikilink").
 
 **Caution**
 

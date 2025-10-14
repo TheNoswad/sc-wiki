@@ -1197,7 +1197,7 @@ data, interesting values.
 | 1082392694 | Stale Ostrich Egg          |
 | 1082409078 | Stale Cooked Ostrich Egg   |
 
-  - 131 - [Pumpkin](Pumpkin "wikilink")
+  - 131 - [Pumpkin](Recipaedia/Plants/Pumpkin.md "wikilink")
 
 | Value  | Description                       |
 | ------ | --------------------------------- |
@@ -1236,7 +1236,7 @@ data, interesting values.
 
   - 161 - [Raw Fish](Raw_Fish "wikilink"), stale - 262305
   - 162 - [Cooked Fish](Cooked_Fish "wikilink"), stale - 262306
-  - 168 - [Soil](Soil "wikilink")
+  - 168 - [Soil](Recipaedia/Terrain/Soil.md "wikilink")
 
 | Value  | Description               |
 | ------ | ------------------------- |
@@ -1249,7 +1249,7 @@ data, interesting values.
 | 98472  | Nitrogen: 3 Compost       |
 | 114856 | Nitrogen: 3 Moist Compost |
 
-  - 174 - [Rye](Rye "wikilink")
+  - 174 - [Rye](Recipaedia/Plants/Rye.md "wikilink")
 
 | Value  | Description      |
 | ------ | ---------------- |
@@ -1271,7 +1271,7 @@ data, interesting values.
 | 245934 | Size: 7 Wild Rye |
 
   - 177 - [Bread](Bread "wikilink"), stale - 262321
-  - 204 - [Cotton](Cotton "wikilink")
+  - 204 - [Cotton](Recipaedia/Plants/Cotton.md "wikilink")
 
 | Value  | Description         |
 | ------ | ------------------- |
@@ -1286,7 +1286,7 @@ data, interesting values.
   - 240 - [Rotten Meat](Rotten_Meat "wikilink"), stale - 262384
   - 241 - [Rotten Fish](Rotten_Fish "wikilink"), stale - 262385
   - 242 - [Moldy Bread](Moldy_Bread "wikilink"), stale - 262386
-  - 244 - [Rotten Pumpkin](Rotten_Pumpkin "wikilink")
+  - 244 - [Rotten Pumpkin](Recipaedia/Plants/Rotten_Pumpkin.md "wikilink")
 
 | Value  | Description                        |
 | ------ | ---------------------------------- |
@@ -1307,6 +1307,6 @@ data, interesting values.
 | 244    | Size: 7 Rotten Pumpkin             |
 | 131316 | Dead Size: 7 Rotten Pumpkin        |
 
-  - 251 - [Pumpkin Soup](Pumpkin_Soup "wikilink"), stale - 262395
+  - 251 - [Pumpkin Soup](Recipaedia/Plants/Pumpkin_Soup.md "wikilink"), stale - 262395
 
 [Category:Tips and Guides](Category:Tips_and_Guides "wikilink")

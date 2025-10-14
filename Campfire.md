@@ -70,7 +70,7 @@ crafting table is not necessary. 
     one in a shelter, it can keep you warm but will not last an entire
     night.
   - Tap on the campfire while holding [snowball](snowball "wikilink"),
-    [snow](Snow "wikilink") or [ice](Ice "wikilink") to put it out.
+    [snow](Recipaedia/Terrain/Snow.md "wikilink") or [ice](Recipaedia/Terrain/Ice.md "wikilink") to put it out.
     Throwing [snowballs](Snowball "wikilink") will not work.
       - However, since snow (block) cannot be legitimately obtained in
         [Cruel](Cruel_Gamemode "wikilink"), [Challenging](Challenging_Gamemode "wikilink")

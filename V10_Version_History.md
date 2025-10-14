@@ -20,28 +20,28 @@ blog. 
 
 (Initial Release, Released in November 17, 2011)
 
-  - [Dirt](Dirt "wikilink")
-  - [Grass](Grass "wikilink")
-  - [Spruce Leaves](Spruce_Leaves "wikilink")
-  - [Oak Leaves](Oak_Leaves "wikilink")
-  - [Birch Leaves](Birch_Leaves "wikilink")
-  - [Spruce Wood](Spruce_Wood "wikilink")
-  - [Oak Leaves](Oak_Leaves "wikilink")
-  - [Birch Leaves](Birch_Leaves "wikilink")
+  - [Dirt](Recipaedia/Terrain/Dirt.md "wikilink")
+  - [Grass](Recipaedia/Terrain/Grass.md "wikilink")
+  - [Spruce Leaves](Recipaedia/Plants/Spruce_Leaves.md "wikilink")
+  - [Oak Leaves](Recipaedia/Plants/Oak_Leaves.md "wikilink")
+  - [Birch Leaves](Recipaedia/Plants/Birch_Leaves.md "wikilink")
+  - [Spruce Wood](Recipaedia/Plants/Spruce_Wood.md "wikilink")
+  - [Oak Leaves](Recipaedia/Plants/Oak_Leaves.md "wikilink")
+  - [Birch Leaves](Recipaedia/Plants/Birch_Leaves.md "wikilink")
   - [Planks](Planks "wikilink")
   - [Crafting Table](Crafting_Table "wikilink")
-  - [Red Flower](Red_Flower "wikilink")
-  - [White Flower](White_Flower "wikilink")
-  - [Purple Flower](Purple_Flower "wikilink")
+  - [Red Flower](Recipaedia/Plants/Red_Flower.md "wikilink")
+  - [White Flower](Recipaedia/Plants/White_Flower.md "wikilink")
+  - [Purple Flower](Recipaedia/Plants/Purple_Flower.md "wikilink")
   - [Water](Water "wikilink")
-  - [Granite](Granite "wikilink")
+  - [Granite](Recipaedia/Terrain/Granite.md "wikilink")
   - [Cobblestone](Cobblestone "wikilink")
-  - [Sand](Sand "wikilink")
+  - [Sand](Recipaedia/Terrain/Sand.md "wikilink")
   - [Glass](Glass "wikilink")
-  - [Malachite Ore](Copper_Ore "wikilink")
-  - [Iron ore](Iron_Ore "wikilink")
-  - [Coal Ore](Coal_Ore "wikilink")
-  - [Large Dry Bush](Large_Dry_Bush "wikilink")
+  - [Malachite Ore](Recipaedia/Minerals/Copper_Ore.md "wikilink")
+  - [Iron ore](Recipaedia/Minerals/Iron_Ore.md "wikilink")
+  - [Coal Ore](Recipaedia/Minerals/Coal_Ore.md "wikilink")
+  - [Large Dry Bush](Recipaedia/Plants/Large_Dry_Bush.md "wikilink")
   - [Bedrock](Bedrock "wikilink") \[1\]
 
 #### 1.1
@@ -79,7 +79,7 @@ blog. 
   - “Despair button” to get stuck players out of their misery
   - [Solid iron](Solid_Iron_Block "wikilink") & [copper
     blocks](Solid_Copper_Block "wikilink") added
-  - [Gravel](Gravel "wikilink") will now spawn at beaches sometimes
+  - [Gravel](Recipaedia/Terrain/Gravel.md "wikilink") will now spawn at beaches sometimes
   - Autojump function added
   - [Recipaedia](Recipaedia "wikilink") added, containing all recipes
     available in game
@@ -170,7 +170,7 @@ blog. 
   - [Wooden spear](Wooden_Spear "wikilink"), [stone
     spear](Stone_Spear "wikilink"), and [iron
     spear](Iron_Spear "wikilink") added
-  - [Stone chunks](Stone_Chunk "wikilink") for throwing added
+  - [Stone chunks](Recipaedia/Terrain/Stone_Chunk.md "wikilink") for throwing added
   - Stone skipping on water added
   - [Worlds now have larger biomes](Terrain "wikilink")
   - [World names are](New_World_Names "wikilink") randomized
@@ -200,7 +200,7 @@ blog. 
   - [Recipaedia](Recipaedia "wikilink") counters added
   - [Recipaedia](Recipaedia "wikilink") is now available without leaving
     the game
-  - Manually placed[leaves](Oak_Leaves "wikilink") do not decay
+  - Manually placed[leaves](Recipaedia/Plants/Oak_Leaves.md "wikilink") do not decay
   - Added [spiked plank](spiked_plank "wikilink")
   - Added [grass trap](Grass_Trap "wikilink")
   - Added [wildboar](wildboar "wikilink")
@@ -213,8 +213,8 @@ blog. 
     [Challenging](Challenging_Gamemode "wikilink") and
     [Cruel](Cruel_Gamemode "wikilink")
   - Reduced amount of [basalt](basalt "wikilink")
-  - More [iron](Iron_Ore "wikilink") and
-    [malachite](Copper_Ore "wikilink") is generated
+  - More [iron](Recipaedia/Minerals/Iron_Ore.md "wikilink") and
+    [malachite](Recipaedia/Minerals/Copper_Ore.md "wikilink") is generated
 
 #### 1.8
 
@@ -264,10 +264,10 @@ blog. 
   - [Signs](Sign "wikilink") added
   - Weblink signs added
   - [Adventure Mode](Adventure_Gamemode "wikilink") added
-  - [Sulphur ore](Sulphur_Ore "wikilink") and [sulphur
-    chunks](Sulphur_Chunk "wikilink") added
-  - [Saltpeter ore](Saltpeter_Ore "wikilink") and [saltpeter
-    chunks](Saltpeter_Chunk "wikilink") added
+  - [Sulphur ore](Recipaedia/Minerals/Sulphur_Ore.md "wikilink") and [sulphur
+    chunks](Recipaedia/Minerals/Sulphur_Chunk.md "wikilink") added
+  - [Saltpeter ore](Recipaedia/Minerals/Saltpeter_Ore.md "wikilink") and [saltpeter
+    chunks](Recipaedia/Minerals/Saltpeter_Chunk.md "wikilink") added
 
 #### 1.11
 
@@ -319,7 +319,7 @@ blog. 
 
   - New text rendering engine. Sharper and faster.
   - [Ladder](Ladder "wikilink") dismount bug fixed
-  - [Grass](Grass "wikilink") appearing instead of harvested blocks
+  - [Grass](Recipaedia/Terrain/Grass.md "wikilink") appearing instead of harvested blocks
     fixed
   - Large number of birds when staying for a long time in a single place
     fixed
@@ -355,7 +355,7 @@ blog. 
   - Added [adventure mode](Adventure_Gamemode "wikilink") restart to
     game menu
   - Fixed a bug with plant growth deleting objects
-  - Added [cacti](Cactus "wikilink")
+  - Added [cacti](Recipaedia/Plants/Cactus.md "wikilink")
 
 #### 1.16
 
@@ -383,7 +383,7 @@ blog. 
 (Released in October 13, 2012)
 
   - Fixed [gravel](gravel "wikilink") harvesting generating both[gravel
-    block](Gravel "wikilink") and [stones](Stone_Chunk "wikilink")
+    block](Recipaedia/Terrain/Gravel.md "wikilink") and [stones](Recipaedia/Terrain/Stone_Chunk.md "wikilink")
   - Fixed tools damage of indestructible blocks which was preventing
     stacking
   - Creature physics optimizations
@@ -422,16 +422,16 @@ blog. 
   - [Rainfall](Weather "wikilink") added
   - [Snowfall](Weather "wikilink") added
   - [Thunderstorms](Weather "wikilink") added
-  - Fixed[Large Dry Bush](Large_Dry_Bush "wikilink") not disappearing
+  - Fixed[Large Dry Bush](Recipaedia/Plants/Large_Dry_Bush.md "wikilink") not disappearing
     when support was removed
-  - [Snow](Snow "wikilink") deposits on empty spaces
+  - [Snow](Recipaedia/Terrain/Snow.md "wikilink") deposits on empty spaces
     during[snowfall](Weather "wikilink")
   - [Water](Water "wikilink") freezes into [icein](ice "wikilink") cold
     areas
-  - [Icethaws](Ice "wikilink") into [waterin](water "wikilink") warm
+  - [Icethaws](Recipaedia/Terrain/Ice.md "wikilink") into [waterin](water "wikilink") warm
     areas
   - Made world slightly brighter at night and during the day
-  - Added [pumpkins](Pumpkin "wikilink")
+  - Added [pumpkins](Recipaedia/Plants/Pumpkin.md "wikilink")
   - Added [Jack O’Lanterns](Jack_O'_Lantern "wikilink")
   - Small [terrain](terrain "wikilink") generator optimization
   - Added [Werewolves](Werewolf "wikilink")
@@ -472,7 +472,7 @@ blog. 
     electricity
   - Made [spiked planks](Spiked_Plank "wikilink") react to electricity
   - [Spiked planks](Spiked_Plank "wikilink") can be placed on all sides
-  - Added [germanium ore](Germanium_Ore "wikilink") and [germanium
+  - Added [germanium ore](Recipaedia/Minerals/Germanium_Ore.md "wikilink") and [germanium
     mineral](Germanium_Crystals "wikilink")
   - Allowed export of worlds in the demo
   - New UI with sidebar and [back
@@ -585,7 +585,7 @@ blog. 
   - Reduce jitter of models
   - Better four legged animals animations: walk, trot and canter
   - Animals cannot jump over [fences or](Wooden_Fence "wikilink")
-    [cacti](Cactus "wikilink")
+    [cacti](Recipaedia/Plants/Cactus.md "wikilink")
   - Added [whistle](whistle "wikilink")
   - Added steed summon behavior
   - Added [cattle drive behavior](Herding "wikilink")
@@ -604,10 +604,10 @@ blog. 
 
   - Added [rake](Wooden_Rake "wikilink")
   - Added [soil](soil "wikilink")
-  - Added[rye and wild rye](Rye "wikilink")
+  - Added[rye and wild rye](Recipaedia/Plants/Rye.md "wikilink")
   - Added [farming](farming "wikilink")& fertilizing
   - Added seeds for [rye](rye "wikilink"), [flowers
-    and](Red_Flower "wikilink") [grass](grass "wikilink")
+    and](Recipaedia/Plants/Red_Flower.md "wikilink") [grass](grass "wikilink")
   - Added [flour](flour "wikilink"), [doughand](dough "wikilink")
     [bread](bread "wikilink")
   - Crafting and [smeltingcan](smelting "wikilink") produce a second
@@ -698,10 +698,10 @@ blog. 
     device](7-Segment_Display "wikilink")
   - Added[sound generator electric device](Sound_Generator "wikilink")
   - Added [analog-to-digital converter electric
-    device](Analog_to_Digital_Converter "wikilink")
+    device](Guides/Analog_to_Digital_Converter.md "wikilink")
   - Added [digital-to-analog converter electric
     device](Digital_to_Analog_Converter "wikilink")
-  - Added [4-bit counter electric device](4-Bit_Counter "wikilink")
+  - Added [4-bit counter electric device](Guides/4-Bit_Counter.md "wikilink")
   - Added [memory bank electric device](Memory_Bank "wikilink")
   - Added [truth table electric device](Truth_Table_Circuit "wikilink")
   - Added new UI for editing certain items ([memory
@@ -767,7 +767,7 @@ blog. 
     saved between world loads
   - Serious physics bug to do with velocity limiting fixed
   - Pickables and projectiles optimizations
-  - [Tall grass](Grass "wikilink") is now a pickable item
+  - [Tall grass](Recipaedia/Terrain/Grass.md "wikilink") is now a pickable item
   - Added crafting recipe to obtain seeds from tall grass item
   - Added [throwable bombs](Bomb "wikilink")
   - Added [smoke trails](Smoke "wikilink")
@@ -805,7 +805,7 @@ blog. 
   - Made dangerous and exotic animals avoid character during the day
   - Added 256 blocks [visibility range](View_Distance "wikilink") (16
     chunks)
-  - Added [pumpkin seeds](Pumpkin_Seeds "wikilink") and pumpkin farming
+  - Added [pumpkin seeds](Recipaedia/Plants/Pumpkin_Seeds.md "wikilink") and pumpkin farming
   - Added [cotton](cotton "wikilink") and[cotton
     wads](Cotton_Wad "wikilink")
   - Added [canvas](canvas "wikilink")
@@ -816,7 +816,7 @@ blog. 
   - Made [animals](animals "wikilink") prey on each other
   - Made docile animals occasionally retaliate when attacked
   - New[crafting table](Crafting_Table "wikilink") model
-  - New [diamond](Diamond "wikilink") model
+  - New [diamond](Recipaedia/Minerals/Diamond.md "wikilink") model
   - Sky color changes depending on temperature
   - Bigger and more detailed [trees](Generated_Structures "wikilink")
   - Fixed progress dialogs glitches
@@ -838,7 +838,7 @@ blog. 
   - Fixed pickables not perishing in fire
   - New Vital Stats screen
   - Added more help articles
-  - Fixed [tall grass](Tall_Grass "wikilink") rendering glitch
+  - Fixed [tall grass](Recipaedia/Plants/Tall_Grass.md "wikilink") rendering glitch
 
 #### 1.27
 
@@ -857,7 +857,7 @@ blog. 
   - Added [campfire](campfire "wikilink")
   - Added [carpets](Carpet "wikilink")
   - Overhauled mouse/keyboard control to production quality
-  - Fixed [Tall Grass](Tall_Grass "wikilink"), flowers and
+  - Fixed [Tall Grass](Recipaedia/Plants/Tall_Grass.md "wikilink"), flowers and
     [Gravestone](Gravestone "wikilink") drops
   - Increased short inventory slots to 6
   - New health, temperature, hunger bars
@@ -879,7 +879,7 @@ blog. 
   - Added milking sounds
   - Made back button exit panels instead of going to pause screen
   - Fixed drowning
-  - Changed Malachite Ore to [Copper Ore](Copper_Ore "wikilink")
+  - Changed Malachite Ore to [Copper Ore](Recipaedia/Minerals/Copper_Ore.md "wikilink")
 
 #### 1.28
 
@@ -924,9 +924,9 @@ blog. 
     clock](Real_Time_Clock "wikilink"), [Random
     Generator](Random_Generator "wikilink"),
     [DAC](Digital_to_Analog_Converter "wikilink"),
-    [ADC](Analog_to_Digital_Converter "wikilink"), [Sound
+    [ADC](Guides/Analog_to_Digital_Converter.md "wikilink"), [Sound
     Generator](Sound_Generator "wikilink"),
-    [Counter](4-Bit_Counter "wikilink"))
+    [Counter](Guides/4-Bit_Counter.md "wikilink"))
   - 8 colors of [LEDs](LEDs "wikilink")
   - 8 colors of [4-LEDs](4-LED "wikilink")
   - 8 colors of [7-Segment Displays](7-Segment_Display "wikilink")

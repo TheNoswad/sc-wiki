@@ -19,7 +19,7 @@ last longer and cause more damage.*
 
 ## Crafting
 
-Craft a Diamond Edge Machete with three [diamonds](Diamond "wikilink")
+Craft a Diamond Edge Machete with three [diamonds](Recipaedia/Minerals/Diamond.md "wikilink")
 and one [iron machete](Iron_Machete "wikilink").
 
 <div style="overflow: hidden">

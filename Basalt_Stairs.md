@@ -19,7 +19,7 @@ placed upside-down on the ceilings.*
 
 ## Crafting
 
-Craft with 6 [Basalt](Basalt "wikilink") blocks. You get 6 stairs.
+Craft with 6 [Basalt](Recipaedia/Terrain/Basalt.md "wikilink") blocks. You get 6 stairs.
 ![Basalt_Stairs_craft.png](Basalt_Stairs_craft.png
 "Basalt_Stairs_craft.png")
 

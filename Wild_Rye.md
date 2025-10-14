@@ -29,8 +29,8 @@ harvesting.*
 ### Farming
 
 Wild rye can be grown as a crop. If you plant any [rye
-seeds](Rye_Seeds "wikilink") in improper conditions, it will grow into
-Wild Rye. To get cultivated [Rye](Rye "wikilink") for making
+seeds](Recipaedia/Plants/Rye_Seeds.md "wikilink") in improper conditions, it will grow into
+Wild Rye. To get cultivated [Rye](Recipaedia/Plants/Rye.md "wikilink") for making
 [bread](bread "wikilink") , it must be planted carefully. See the
 [Farming](Farming "wikilink") page. 
 
@@ -41,10 +41,10 @@ bulls, and gnus right into your trap.
 
 ## Related  Pages 
 
-  - [Wild Rye Seeds](Wild_Rye_Seeds "wikilink")
-  - [Rye Seeds](Rye_Seeds "wikilink")
-  - [Rye Stages](Rye_Stages "wikilink")
-  - [Rye](Rye "wikilink")
+  - [Wild Rye Seeds](Recipaedia/Plants/Wild_Rye_Seeds.md "wikilink")
+  - [Rye Seeds](Recipaedia/Plants/Rye_Seeds.md "wikilink")
+  - [Rye Stages](Recipaedia/Plants/Rye_Stages.md "wikilink")
+  - [Rye](Recipaedia/Plants/Rye.md "wikilink")
   - [Bread](Bread "wikilink")
   - [Farming](Farming "wikilink")
 

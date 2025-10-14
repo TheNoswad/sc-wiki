@@ -20,7 +20,7 @@ corridors.*
 ## Crafting
 
 ![Torch2.png](Torch2.png "Torch2.png")Requires 1 [coal
-chunk](Coal_Chunk "wikilink") and 1 [stick](stick "wikilink") . This
+chunk](Recipaedia/Minerals/Coal_Chunk.md "wikilink") and 1 [stick](stick "wikilink") . This
 will yield 2 torches.
 
 ## Uses

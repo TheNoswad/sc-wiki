@@ -20,7 +20,7 @@ very difficult to hit a moving target.*
 
 ## Crafting
 
-Crafting requires 3 [diamonds](Diamond "wikilink") and an [Iron
+Crafting requires 3 [diamonds](Recipaedia/Minerals/Diamond.md "wikilink") and an [Iron
 Axe](Iron_Axe "wikilink"). You get 1 axe.
 
 <div style="overflow: hidden">
