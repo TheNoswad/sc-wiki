@@ -16,7 +16,7 @@ __NOEDITSECTION__
 
 ## Description
 
-*When you eat [raw meat](Raw_Meat "wikilink"), uncooked eggs, [Sea
+*When you eat [raw meat](Recipaedia/Food/Raw_Meat.md "wikilink"), uncooked eggs, [Sea
 Urchins](Sea_Urchins "wikilink") or any food that has been allowed to
 rot, the player may become sick.*
 

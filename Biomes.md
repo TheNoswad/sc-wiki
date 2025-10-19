@@ -100,7 +100,7 @@ spruce trees and occasionally tall grass.
 Cold-dwelling animals can be found in both Tundra biomes and Taiga
 biomes, including [Tigers](Tiger "wikilink"), [Black
 Bulls](Black_Bull "wikilink"), [Black Cows](Black_Cow "wikilink"),
-[Wolves](Wolf "wikilink"), [Black Bears](Black_Bear "wikilink"), [Polar
+[Wolves](Bestiary/Wolf.md "wikilink"), [Black Bears](Black_Bear "wikilink"), [Polar
 Bears](Polar_Bear "wikilink"), the rare [White
 Bull](White_Bull "wikilink") and the super-rare [White
 Tiger](White_Tiger "wikilink").
@@ -225,7 +225,7 @@ tree planted in or near a desert will have reddish leaves and appear dry
 whereas a birch tree planted in a forest or jungle will be lush and
 green. The same applies to grass - both the grass block and growing or
 dead grass plants. It also applies to [Christmas
-trees](Christmas_tree "wikilink"), [Ivy](Recipaedia/Plants/Ivy.md "wikilink") and leaves.
+trees](Recipaedia/Items/Christmas_tree.md "wikilink"), [Ivy](Recipaedia/Plants/Ivy.md "wikilink") and leaves.
 
 <div style="overflow:hidden">
 

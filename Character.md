@@ -27,18 +27,18 @@ called NPCs, for Non Player Character. This conforms with standard
 naming in all modern games.
 
 The character by default wears used and tattered clothing: [Old
-Pants](Old_Pants "wikilink"), [Old Shirt](Old_Shirt "wikilink"), [Old
-Tank Top](Old_Tank_Top "wikilink"), [Old Hat](Old_Hat "wikilink"),
-[Socks](Socks "wikilink") and [Leather
-Sandals](Leather_Sandals "wikilink").
+Pants](Recipaedia/Clothes/Old_Pants.md "wikilink"), [Old Shirt](Recipaedia/Clothes/Old_Shirt.md "wikilink"), [Old
+Tank Top](Old_Tank_Top "wikilink"), [Old Hat](Recipaedia/Clothes/Old_Hat.md "wikilink"),
+[Socks](Recipaedia/Clothes/Socks.md "wikilink") and [Leather
+Sandals](Recipaedia/Clothes/Leather_Sandals.md "wikilink").
 
 The character is an omnivore, meaning you can eat:
-[Meat](Raw_Meat "wikilink") \[raw or cooked\],
-[Bird](Raw_Bird "wikilink") \[raw or cooked\],
-[Fish](Raw_fish "wikilink") \[raw or cooked\],
+[Meat](Recipaedia/Food/Raw_Meat.md "wikilink") \[raw or cooked\],
+[Bird](Recipaedia/Food/Raw_Bird.md "wikilink") \[raw or cooked\],
+[Fish](Recipaedia/Food/Raw_fish.md "wikilink") \[raw or cooked\],
 [Pumpkin](Recipaedia/Plants/Pumpkin.md "wikilink"), [Sea Urchin](Recipaedia/Plants/Sea_Urchin.md "wikilink"),
-[Bread](Bread "wikilink"), [Eggs](Eggs "wikilink"),
-[Milk](Milk "wikilink") and [Pumpkin Soup](Recipaedia/Plants/Pumpkin_Soup.md "wikilink").
+[Bread](Recipaedia/Food/Bread.md "wikilink"), [Eggs](Eggs "wikilink"),
+[Milk](Recipaedia/Food/Milk.md "wikilink") and [Pumpkin Soup](Recipaedia/Plants/Pumpkin_Soup.md "wikilink").
 
 When killed, the character will drop any and all items it holds and all
 clothing it is wearing except for boxer shorts, for modesty.

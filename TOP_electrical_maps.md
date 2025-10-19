@@ -24,7 +24,7 @@ The most epic and cool map ever made in Survivalcraft. I think mgblitz81
 is a genius - just look at the main (not all) features
 
   - it's a fully functional videogame
-  - it contains big [LED](LED "wikilink") display
+  - it contains big [LED](Recipaedia/Electrics/LED.md "wikilink") display
   - it includes three types of cars (they have different speeds)
   - it counts your progress in the game (in miles)
   - although it is a game in a game, it has realistic graphics (cars
@@ -81,7 +81,7 @@ than most of others. Features -
   - tutorial path
   - main path
   - lots of traps, from trapdoor-[lava](Magma "wikilink") to sand and
-    [spiked planks](Spiked_Plank "wikilink")
+    [spiked planks](Recipaedia/Items/Spiked_Plank.md "wikilink")
   - longer than others
 
 Links - [Official
@@ -125,7 +125,7 @@ graphics. Features -
   - two game modes - campaign (with levels) and survival (super-hard
     challenge)
   - simple controls
-  - big [LED](LED "wikilink") display
+  - big [LED](Recipaedia/Electrics/LED.md "wikilink") display
 
 Links - [Official thread
 link](http://survivalcraft.lefora.com/2013/06/09/road-rage-a-fully-functional-videogame/),

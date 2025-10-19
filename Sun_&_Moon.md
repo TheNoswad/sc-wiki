@@ -64,7 +64,7 @@ brighter.
 
 The light levels for various times of day are given on the
 [Photodiode\#Lighting_values photodiode
-page.](Photodiode#Lighting_values_photodiode_page. "wikilink")
+page.](Recipaedia/Electrics/Photodiode.md#Lighting_values_photodiode_page. "wikilink")
 
 [Category:Natural](Category:Natural "wikilink")
 [Category:Concepts](Category:Concepts "wikilink")

@@ -26,7 +26,7 @@ List of useful pages in Survivalcraft wikia
 
 ## Basic Gameplay
 
-[Beginner's Guide](Beginner's_Guide "wikilink")
+[Beginner's Guide](Guides/Beginner's_Guide.md "wikilink")
 
 [Recipaedia](Recipaedia "wikilink")
 
@@ -34,7 +34,7 @@ List of useful pages in Survivalcraft wikia
 
 [Smelting](Smelting "wikilink")
 
-[Clothing](Clothing "wikilink")
+[Clothing](Recipaedia/Clothes/Clothing.md "wikilink")
 
 [Concepts](http://survivalcraftgame.wikia.com/wiki/Category:Concepts)
 
@@ -49,9 +49,9 @@ Furniture](Advanced_Furniture "wikilink")
 
 [Farming](Farming "wikilink")
 
-[Cattle Farming](Cattle_Farming "wikilink")
+[Cattle Farming](Guides/Cattle_Farming.md "wikilink")
 
-[Survival Guide](Survival_Guide "wikilink")
+[Survival Guide](Guides/Survival_Guide.md "wikilink")
 
 ## Building Guides
 
@@ -74,7 +74,7 @@ Circuits](http://survivalcraftgame.wikia.com/wiki/Category:Circuits)
 
 ### Making Maps
 
-[Building Adventure Maps](Building_Adventure_Maps "wikilink")
+[Building Adventure Maps](Guides/Building_Adventure_Maps.md "wikilink")
 
 [Key / Lock Circuit](Key_/_Lock_Circuit "wikilink")
 

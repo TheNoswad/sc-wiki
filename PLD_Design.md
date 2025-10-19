@@ -10,7 +10,7 @@ dateCreated: 2025-10-13T00:05:32.061Z
 
 ## Introduction
 
-The [memory bank](Memory_Bank "wikilink") can be used as a general
+The [memory bank](Recipaedia/Electrics/Memory_Bank.md "wikilink") can be used as a general
 purpose programmable logic device, or PLD. That means it can take up to
 8 binary (digital) inputs, combine them using any possible logical
 formula and output up to 4 bits of binary data. This makes it a very
@@ -594,7 +594,7 @@ pseudo-analog nature of writing to the bank.
 
 ## Related Pages
 
-  - [Memory Bank](Memory_Bank "wikilink")
+  - [Memory Bank](Recipaedia/Electrics/Memory_Bank.md "wikilink")
   - link to example world
   - perhaps mathematics websites?
 

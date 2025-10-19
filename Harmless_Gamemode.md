@@ -46,7 +46,7 @@ operation of the game without much risk.
   - See [World Options](World_Options "wikilink") to learn how to change
     the game mode.
   - It is the recommended gamemode for [new
-    players](Beginner's_Guide "wikilink") as it is the easiest survival
+    players](Guides/Beginner's_Guide.md "wikilink") as it is the easiest survival
     style mode.
   - You are unable to edit [world options](World_Options "wikilink")
     other than your texture pack and skin while the world is set to

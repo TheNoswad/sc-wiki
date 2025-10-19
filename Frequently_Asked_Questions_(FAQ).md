@@ -41,7 +41,7 @@ A: No, wild animals cannot be 'tamed' in SurvivalCraft. 
 Q: How do I tell which animals will attack me? 
 
 A: The game tries to mimic reality.  See the [Animal
-List](Animals "wikilink") in general. Almost every animal can be or
+List](Bestiary/Animals.md "wikilink") in general. Almost every animal can be or
 become dangerous, see [Animal
 Behaviors](Animal's_Behavior_list "wikilink") page. 
 

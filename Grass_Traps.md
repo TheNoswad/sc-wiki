@@ -8,4 +8,4 @@ editor: markdown
 dateCreated: 2025-10-12T23:52:07.930Z
 ---
 
-1.  REDIRECT [Grass Trap](Grass_Trap "wikilink")
+1.  REDIRECT [Grass Trap](Recipaedia/Items/Grass_Trap.md "wikilink")

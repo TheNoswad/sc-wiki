@@ -26,14 +26,14 @@ stone bricks.
 ## Use
 
 Stone brick is highly decorative and can be made into
-[slabs](Stone_Slab "wikilink") and [stairs](Stone_Stairs "wikilink").
+[slabs](Recipaedia/Construction/Stone_Slab.md "wikilink") and [stairs](Recipaedia/Construction/Stone_Stairs.md "wikilink").
 They have a high explsion resilience so are suitable for building
 protective walls.
 
 ## Notes
 
   - Stone bricks can be made without a [crafting
-    table](Crafting_Table "wikilink").
+    table](Recipaedia/Items/Crafting_Table.md "wikilink").
   - You can use any combination of granite and cobblestone to craft
     them.
 

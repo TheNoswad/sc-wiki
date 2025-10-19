@@ -15,8 +15,8 @@ tips and tricks that make Survivalcraft easy.**
 Adventure mode. Survival is not an issue in Creative mode.**
 
 **You should read through the [Beginner's
-Guide](Beginner's_Guide "wikilink") first and the [Survival
-Guide](Survival_Guide "wikilink") to get the basics on play.**
+Guide](Guides/Beginner's_Guide.md "wikilink") first and the [Survival
+Guide](Guides/Survival_Guide.md "wikilink") to get the basics on play.**
 
 ## Beginner's Survival Tips
 
@@ -60,7 +60,7 @@ permanent house.
     it can be used for building, and making better tools. This way your
     wood can be used for other purposes, such as makeshift armor or
     constructing your home. -Super
-  - Have [Campfires](Campfire "wikilink")\! Temperature drops
+  - Have [Campfires](Recipaedia/Items/Campfire.md "wikilink")\! Temperature drops
     dramatically at night, even in desert biomes. If you are low on body
     temperature for an extended period of time, you may catch the Flu\!
     It is quite dangerous and slowly drops you to 2 hearts. You are also
@@ -108,7 +108,7 @@ off, without even leaving your shelter.
     destroyed by lightning. To be lightning-safe, build your roof out of
     full blocks of sandstone/limestone (er 50) or stronger materials.
     [Stone Bricks](Stone_Bricks "wikilink") or
-    [Cobblestone](Cobblestone "wikilink") are good, easy to get
+    [Cobblestone](Recipaedia/Construction/Cobblestone.md "wikilink") are good, easy to get
     materials for roofs. Painting them does not decrease their
     protection value.
 
@@ -382,7 +382,7 @@ cows as well).
 A bull will become hostile if you attack him, or attack or milk his
 cow(s). There is also a very rare chance that if you are in a snowy area
 you may find a white bull. They create 1-8 pieces of
-[bacon](Raw_Bacon "wikilink") upon death and are stronger than regular
+[bacon](Recipaedia/Food/Raw_Bacon.md "wikilink") upon death and are stronger than regular
 bulls. They do not protect any cows but protect other [White
 Bulls](White_Bull "wikilink") and unusually, [Rhinos](Rhino "wikilink").
 
@@ -398,20 +398,20 @@ get food. -Superguy
 ## Hunting Tips
 
   - Be very careful with any projectile weapon -
-    [spear](Diamond_Tip_Spear "wikilink"), [Bow](Bow "wikilink") or
-    [Crossbow](Crossbow "wikilink"). The ammo can bounce off objects and
+    [spear](Recipaedia/Weapons/Diamond_Tip_Spear.md "wikilink"), [Bow](Recipaedia/Weapons/Bow.md "wikilink") or
+    [Crossbow](Recipaedia/Weapons/Crossbow.md "wikilink"). The ammo can bounce off objects and
     WILL often fly straight back at you. This can kill you\!
-  - [Explosive Bolts](Explosive_Bolt "wikilink") will throw flaming
+  - [Explosive Bolts](Recipaedia/Weapons/Explosive_Bolt.md "wikilink") will throw flaming
     [Debris](Debris "wikilink") in all directions. Be very careful when
     using them.
   - NEVER try to kill a [Beluga Whale](Beluga_Whale "wikilink") or
     [Orca](Orca "wikilink"). You will most likely die.
-  - Don't fight strong animals without [Armor](Armor "wikilink") or at
+  - Don't fight strong animals without [Armor](Recipaedia/Clothes/Armor.md "wikilink") or at
     least a good retreat strategy.
   - You can pick up a lot of the arrows you shoot. This is much more
     difficult in rough or grassy terrain. The arrows can be hard to spot
     in these areas.
-  - [Stone Tip Arrows](Stone_Tip_Arrow "wikilink") are cheap and very
+  - [Stone Tip Arrows](Recipaedia/Weapons/Stone_Tip_Arrow.md "wikilink") are cheap and very
     effective.
   - The spear is also an effective melee range weapon. Its damage and
     hit chance are only slightly less than the machete.
@@ -626,7 +626,7 @@ When your body temperature is low for an extended period of time, you
 will start sneezing. This signals that you may catch the flu\! The flu
 causes your hearts to turn dark blue, and slowly drops you to two hearts
 by coughing attacks and sneezing. To avoid the flu, wear thick clothing
-such as [Fur Leggings](Fur_Leggings "wikilink"), and layer your clothing
+such as [Fur Leggings](Recipaedia/Clothes/Fur_Leggings.md "wikilink"), and layer your clothing
 when going into cold climates. Wear clothing on all parts of your body,
 as leaving any part unclothed significantly reduces your insulation.
 
@@ -639,7 +639,7 @@ Simply sleep it off.
 When sick, you start vomiting and slowly drop to one heart. Many things
 cause you to be sick. One of them is eating spoiled/rotten food. Food
 rots if it is not eaten for a while. Raw food items such as [Raw
-Bird](Raw_Bird "wikilink") and [Dough](Dough "wikilink") rot faster than
+Bird](Recipaedia/Food/Raw_Bird.md "wikilink") and [Dough](Recipaedia/Food/Dough.md "wikilink") rot faster than
 cooked items. A little fish icon at the top right of food items signals
 if it is rotting. A white icon means the item has time. A brown icon
 means the food is rotting and must be consumed soon. After an item has
@@ -886,8 +886,8 @@ so that you can get across without getting tired and drowning.
 
 \--74.91.121.187
 
-You can make a [Wooden Chest Plate](Wooden_Chest_Plate "wikilink")
-and/or [Wooden Leggings](Wooden_Leggings "wikilink") to keep you afloat
+You can make a [Wooden Chest Plate](Recipaedia/Clothes/Wooden_Chest_Plate.md "wikilink")
+and/or [Wooden Leggings](Recipaedia/Clothes/Wooden_Leggings.md "wikilink") to keep you afloat
 and you won't get tired while swimming greater distances.
 
 If you are wearing armor and fall into deep water, you may quickly put
@@ -953,8 +953,8 @@ Watch this video to understand the above tips
 
 # Related Pages
 
-  - [Beginner's Guide](Beginner's_Guide "wikilink")
-  - [Survival Guide](Survival_Guide "wikilink")
+  - [Beginner's Guide](Guides/Beginner's_Guide.md "wikilink")
+  - [Survival Guide](Guides/Survival_Guide.md "wikilink")
 
 **Note\*\***
 

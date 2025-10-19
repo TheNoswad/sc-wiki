@@ -24,13 +24,13 @@ A bird must be on soft ground to lay an egg. It will not lay eggs on
 granite or other hard surfaces. If you disturb a bird while it lays
 eggs, it will cancel the process. A noise is created when a bird lays an
 egg. Some birds may lay eggs more frequently, like
-[ravens](Raven "wikilink") and [ostriches](Ostrich "wikilink").
+[ravens](Bestiary/Raven.md "wikilink") and [ostriches](Ostrich "wikilink").
 
 ## Egg types
 
-  - [Seagull](Seagull "wikilink")
+  - [Seagull](Bestiary/Seagull.md "wikilink")
   - [Duck](Duck "wikilink")
-  - [Raven](Raven "wikilink")
+  - [Raven](Bestiary/Raven.md "wikilink")
   - [Ostrich](Ostrich "wikilink")
   - [Cassowary](Cassowary "wikilink")
   - Cooked variants of all of them restore much more hunger.

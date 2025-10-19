@@ -34,8 +34,8 @@ view on the device. The edit icon will appear.<span> </span></span>
 
 ## Crafting
 
-It requires 5 [copper ingots](Copper_Ingot "wikilink") and 2 [germanium
-crystals](Germanium_Crystals "wikilink") to craft Truth tables. You get
+It requires 5 [copper ingots](Recipaedia/Items/Copper_Ingot.md "wikilink") and 2 [germanium
+crystals](Recipaedia/Minerals/Germanium_Crystals.md "wikilink") to craft Truth tables. You get
 4 chips. ![Truth_Table_Circuit.png](Truth_Table_Circuit.png
 "Truth_Table_Circuit.png")
 
@@ -44,7 +44,7 @@ crystals](Germanium_Crystals "wikilink") to craft Truth tables. You get
 The 4 inputs are on the sides of the device and are standard digital
 signals. In1 is the side with one dot. In2 is the side with two dots,
 and so forth. The output is sent out the back so this device MUST be
-placed on a [wire through block](Wire_Through_Planks "wikilink") to be
+placed on a [wire through block](Recipaedia/Electrics/Wire_Through_Planks.md "wikilink") to be
 useful. All inputs and the output are standard digital signals.
 
 ## Operation

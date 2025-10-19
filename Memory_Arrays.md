@@ -9,7 +9,7 @@ dateCreated: 2025-10-13T00:02:18.108Z
 ---
 
 __NOTOC__ __NOEDITSECTION__ The [Memory
-Bank](Memory_Bank "wikilink") provides a convenient place for the
+Bank](Recipaedia/Electrics/Memory_Bank.md "wikilink") provides a convenient place for the
 storage of data, as well as the possibility of many other functions.
 
 This article (still under construction) discusses using multiple memory
@@ -84,7 +84,7 @@ Here's a picture of the 64K byte array:
 
 ## Related Pages
 
-[Memory Bank](Memory_Bank "wikilink")
+[Memory Bank](Recipaedia/Electrics/Memory_Bank.md "wikilink")
 
 [Latch, Register Circuits](Latch,_Register_Circuits "wikilink")
 

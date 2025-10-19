@@ -18,8 +18,8 @@ recreated this circuit in SC was
 [laurensweyn](http://m.youtube.com/user/laurensweyn).
 
 If someone doesn't know what it does - it has three inputs
-([switches](Switch "wikilink") ) and two outputs
-([lighbulbs](Lightbulb "wikilink") ). When you switch any switch,
+([switches](Recipaedia/Electrics/Switch.md "wikilink") ) and two outputs
+([lighbulbs](Recipaedia/Electrics/Lightbulb.md "wikilink") ). When you switch any switch,
 lightbulb marked "1" will turn on. When you switch any two switches,
 lightbulb "2" will turn on and the "1" will turn off. And finaly, when
 you switch all the three switches, both lightbulbs will turn on (because

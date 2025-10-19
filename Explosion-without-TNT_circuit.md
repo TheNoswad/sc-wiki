@@ -20,7 +20,7 @@ topic](http://survivalcraft.lefora.com/2013/05/29/trap-door-explosion-trick/).
 
 To make it you just need some trapdoors, delay gate,
 [sand](sand "wikilink") or [gravel](gravel "wikilink") and several
-[wires](Electric_Wire "wikilink") connected to a
+[wires](Recipaedia/Electrics/Electric_Wire.md "wikilink") connected to a
 [button](button "wikilink") . Now make something that looks similar to
 the picture (step 1 and 2)
 
@@ -35,10 +35,10 @@ many you want.
 ## **Usable in -**
 
 This circuit comes very handy when you need the wall to disappear, but
-you don't want to use [gunpowder kegs](Gunpowder_Kegs "wikilink")
+you don't want to use [gunpowder kegs](Recipaedia/Items/Gunpowder_Kegs.md "wikilink")
 (because they will destroy whole room).
 
-As of V2.0, this is done easier with [pistons.](Piston "wikilink")
+As of V2.0, this is done easier with [pistons.](Recipaedia/Electrics/Piston.md "wikilink")
 
 [Category:Electricity](Category:Electricity "wikilink")
 [Category:Circuits](Category:Circuits "wikilink")

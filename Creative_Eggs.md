@@ -64,8 +64,8 @@ They can be cooked in a furnace with a water bucket, or eaten raw. They
 can also function as spawner eggs even in Survival mode, however not
 guaranteeing a spawn every time.
 
-  - [Seagull](Seagull "wikilink") egg
-  - [Raven](Raven "wikilink") egg
+  - [Seagull](Bestiary/Seagull.md "wikilink") egg
+  - [Raven](Bestiary/Raven.md "wikilink") egg
   - [Duck](Duck "wikilink") egg
   - [Cassowary](Cassowary "wikilink") egg
   - [Ostrich](Ostrich "wikilink") egg
@@ -74,12 +74,12 @@ guaranteeing a spawn every time.
 
 These eggs are inedible and Creative mode exclusive.
 
-  - [Wildboar](Wildboar "wikilink") spawner
+  - [Wildboar](Bestiary/Wildboar.md "wikilink") spawner
   - [Black Bull](Black_Bull "wikilink") spawner
   - [Brown Bull](Brown_Bull "wikilink") spawner
   - [Black Cow](Black_Cow "wikilink") spawner
   - [Brown Cow](Brown_Cow "wikilink") spawner
-  - [Wolf](Wolf "wikilink") spawner
+  - [Wolf](Bestiary/Wolf.md "wikilink") spawner
   - [Coyote](Coyote "wikilink") spawner
   - [Black Bear](Black_Bear "wikilink") spawner
   - [Brown Bear](Brown_Bear "wikilink") spawner
@@ -94,7 +94,7 @@ These eggs are inedible and Creative mode exclusive.
   - [Tiger](Tiger "wikilink") spawner
   - [Jaguar](Jaguar "wikilink") spawner
   - [Leopard](Leopard "wikilink") spawner
-  - [Reindeer](Reindeer "wikilink") spawner
+  - [Reindeer](Bestiary/Reindeer.md "wikilink") spawner
   - [Moose](Moose "wikilink") spawner
   - [Bison](Bison "wikilink") spawner
   - [Donkey](Donkey "wikilink") spawner
@@ -102,9 +102,9 @@ These eggs are inedible and Creative mode exclusive.
   - [Gnu](Gnu "wikilink") spawner
   - [Werewolf](Werewolf "wikilink") spawner (Turns into a Wolf any time
     but the full or new moon)
-  - [Freshwater Bass](Freshwater_Bass "wikilink") spawner
-  - [Sea Bass](Sea_Bass "wikilink") spawner
-  - [Brown Ray](Brown_Ray "wikilink") spawner
+  - [Freshwater Bass](Bestiary/Freshwater_Bass.md "wikilink") spawner
+  - [Sea Bass](Bestiary/Sea_Bass.md "wikilink") spawner
+  - [Brown Ray](Bestiary/Brown_Ray.md "wikilink") spawner
   - [Yellow Ray](Yellow_Ray "wikilink") spawner
   - [Barracuda](Bestiary/Barracuda.md "wikilink") spawner
   - [Bull Shark](Recipaedia/Plants/Bull_Shark.md "wikilink") spawner

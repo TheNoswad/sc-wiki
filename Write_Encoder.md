@@ -10,7 +10,7 @@ dateCreated: 2025-10-13T00:27:49.777Z
 
 ## Introduction
 
-To properly read and write to the [memory bank](Memory_Bank "wikilink"),
+To properly read and write to the [memory bank](Recipaedia/Electrics/Memory_Bank.md "wikilink"),
 the clock input must be viewed as an analog input. There are three
 states the clock input can be in. The first state is ‘8’hex and higher.
 The second is from ‘1’hex through ‘7’hex. The third is at ‘0’hex. If
@@ -84,7 +84,7 @@ with the ‘4’ at the top.
 
 ## Related Pages
 
-  - [Memory Bank](Memory_Bank "wikilink")
+  - [Memory Bank](Recipaedia/Electrics/Memory_Bank.md "wikilink")
   - [RAM Circuits](RAM_Circuits "wikilink")
   - [Latch, Register Circuits](Latch,_Register_Circuits "wikilink")
   - [Using Analog_Signals](Using_Analog_Signals "wikilink")

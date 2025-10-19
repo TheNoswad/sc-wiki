@@ -21,13 +21,13 @@ magnets in the world.*
 ## Crafting
 
 In order to craft a magnet, you will need 7 [Iron
-Ingots](Iron_Ingot "wikilink"). Yields 1 Magnet.
+Ingots](Recipaedia/Items/Iron_Ingot.md "wikilink"). Yields 1 Magnet.
 
 ![Magnet_craft.png](Magnet_craft.png "Magnet_craft.png")
 
 ## Uses
 
-Magnets are used with a [Compass](Compass "wikilink"), usually to find
+Magnets are used with a [Compass](Recipaedia/Tools/Compass.md "wikilink"), usually to find
 your way home. The compass will point you in the direction of the
 closest magnet.
 

@@ -109,7 +109,7 @@ dateCreated: 2025-10-12T23:30:31.364Z
 
 ## Related Pages
 
-  - [Animals](Animals "wikilink")
+  - [Animals](Bestiary/Animals.md "wikilink")
   - [Animal Spawning](Animal_Spawning "wikilink")
 
 [Category:Animals](Category:Animals "wikilink")

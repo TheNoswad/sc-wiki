@@ -18,8 +18,8 @@ They emit weak light.*
 ## Uses
 
 Jack O'lanterns can be used as decorations, or as a light source,
-although a [Torch](Torch "wikilink") or a [Wicker
-Lamp](Wicker_Lamp "wikilink") will emit more light. They can be placed
+although a [Torch](Recipaedia/Items/Torch.md "wikilink") or a [Wicker
+Lamp](Recipaedia/Items/Wicker_Lamp.md "wikilink") will emit more light. They can be placed
 on any horizontal surface.
 
 ## Crafting
@@ -32,7 +32,7 @@ Requires 1 [pumpkin](pumpkin "wikilink") and 1
 ## Related Pages
 
   - [Pumpkin](Recipaedia/Plants/Pumpkin.md "wikilink")
-  - [Unripe Pumpkin](Unripe_Pumpkin "wikilink")
+  - [Unripe Pumpkin](Recipaedia/Plants/Unripe_Pumpkin.md "wikilink")
   - [Pumpkin Seeds](Recipaedia/Plants/Pumpkin_Seeds.md "wikilink")
 
 [Category:Items](Category:Items "wikilink")

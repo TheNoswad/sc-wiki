@@ -8,4 +8,4 @@ editor: markdown
 dateCreated: 2025-10-13T00:02:01.637Z
 ---
 
-1.  REDIRECT [Gunpowder Kegs](Gunpowder_Kegs "wikilink")
+1.  REDIRECT [Gunpowder Kegs](Recipaedia/Items/Gunpowder_Kegs.md "wikilink")

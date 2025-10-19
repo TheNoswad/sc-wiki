@@ -27,7 +27,7 @@ making white paint):
 2.  [Smelt](Smelting "wikilink") the [limestone](limestone "wikilink")
     in the [Furnace](Furnace "wikilink") to get [white
     pigment](White_Pigment "wikilink").
-3.  Put this pigment and a [bucket of water](Water_Bucket "wikilink")
+3.  Put this pigment and a [bucket of water](Recipaedia/Tools/Water_Bucket.md "wikilink")
     together in the [furnace](furnace "wikilink") to make a white paint
     bucket.
 4.  Check the table below for the recipes to make the (16) available
@@ -106,34 +106,34 @@ You can dye several pieces of clothing with one bucket.
 ## Blocks that can be painted
 
   - Some electric items use paint to color their light. They are the
-    [LEDs](LEDs "wikilink"), [4-LED](4-LED "wikilink"), and [7-Segment
-    Display](7-Segment_Display "wikilink"). They can only use the
+    [LEDs](Recipaedia/Electrics/LEDs.md "wikilink"), [4-LED](Recipaedia/Electrics/4-LED.md "wikilink"), and [7-Segment
+    Display](Recipaedia/Electrics/7-Segment_Display.md "wikilink"). They can only use the
     following colors: white, yellow, red, green, blue, orange, cyan and
     purple.
 
 Objects that may be painted or dyed are:
 
 1.  [Clay](Recipaedia/Terrain/Clay.md "wikilink")
-2.  [Wooden Planks](Planks "wikilink")
+2.  [Wooden Planks](Recipaedia/Construction/Planks.md "wikilink")
 3.  [Granite](Recipaedia/Terrain/Granite.md "wikilink") - Painted Granite breaks into Painted
     Cobblestone like untreated Granite does.
-4.  [Cobblestone](Cobblestone "wikilink")
-5.  [Marble](Marble "wikilink")
+4.  [Cobblestone](Recipaedia/Construction/Cobblestone.md "wikilink")
+5.  [Marble](Recipaedia/Construction/Marble.md "wikilink")
 6.  [Sandstone](Recipaedia/Terrain/Sandstone.md "wikilink")
 7.  [Basalt](Recipaedia/Terrain/Basalt.md "wikilink")
-8.  [Brick Wall](Brick_Wall "wikilink")
+8.  [Brick Wall](Recipaedia/Construction/Brick_Wall.md "wikilink")
 9.  [Stone Bricks](Stone_Bricks "wikilink")
 10. All slabs and stairs.
 11. All fences and fence gates.
-12. Both [Wooden Signs](Wooden_Sign "wikilink") and [Iron
-    Signs](Iron_Sign "wikilink")
-13. All [Clothing](Clothing "wikilink") made from
+12. Both [Wooden Signs](Recipaedia/Items/Wooden_Sign.md "wikilink") and [Iron
+    Signs](Recipaedia/Items/Iron_Sign.md "wikilink")
+13. All [Clothing](Recipaedia/Clothes/Clothing.md "wikilink") made from
     [canvas](canvas "wikilink") or [leather](leather "wikilink") or
-    [fur](fur "wikilink"). See the [Clothing](Clothing "wikilink") page
+    [fur](fur "wikilink"). See the [Clothing](Recipaedia/Clothes/Clothing.md "wikilink") page
     for more details.
-14. [Carpet](Carpet "wikilink")
-15. [Electric Wire](Electric_Wire "wikilink")
-16. [Lightbulb](Lightbulb "wikilink")
+14. [Carpet](Recipaedia/Items/Carpet.md "wikilink")
+15. [Electric Wire](Recipaedia/Electrics/Electric_Wire.md "wikilink")
+16. [Lightbulb](Recipaedia/Electrics/Lightbulb.md "wikilink")
 
 ## Paint Color Recipes
 

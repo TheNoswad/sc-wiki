@@ -13,7 +13,7 @@ dateCreated: 2025-10-13T00:13:53.666Z
 Smoke is an Entity added in 1.25. It is very similar to debris. It is a
 different entity despite an identical appearance. It is caused by
 burning objects. __NOTOC__ __NOEDITSECTION__ Picture 1: Debris,
-usually caused by exploding [Gunpowder Kegs](Gunpowder_Kegs "wikilink"),
+usually caused by exploding [Gunpowder Kegs](Recipaedia/Items/Gunpowder_Kegs.md "wikilink"),
 can have a smoke trail until they land.
 ![Smoke_trails.jpg](Smoke_trails.jpg "Smoke_trails.jpg")
 

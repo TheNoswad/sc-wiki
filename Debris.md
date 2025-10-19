@@ -20,7 +20,7 @@ break weaker blocks. They may be thrown up to 40 blocks from the
 explosion.
 
 [Incendiary Kegs](Incendiary_Kegs "wikilink") and
-[Bombs](Incendiary_Bomb "wikilink") can make special red flaming debris.
+[Bombs](Recipaedia/Weapons/Incendiary_Bomb.md "wikilink") can make special red flaming debris.
 Those red debris always set on fire flammable blocks.
 
 Debris occur in an explosion.jpg|Debris occur in an explosion

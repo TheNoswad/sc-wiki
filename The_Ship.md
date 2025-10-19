@@ -10,7 +10,7 @@ dateCreated: 2025-10-13T00:20:14.443Z
 
 __NOTOC__ __NOEDITSECTION__ This article is about the ship that
 maroons you at the beginning of a world. For the one you can craft and
-mount please see the article [Boat](Boats "wikilink").
+mount please see the article [Boat](Recipaedia/Items/Boats.md "wikilink").
 
 When you first start a world, you are marooned by a ship on the shores
 of your world. Then the ship will start to sail away, leaving the player

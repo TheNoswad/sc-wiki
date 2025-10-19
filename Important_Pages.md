@@ -23,21 +23,21 @@ These are some essential pages for your survival in
 [Cruel](Cruel_Gamemode "wikilink") and
 [Harmless](Harmless_Gamemode "wikilink") modes.
 
-  - [Beginner's Guide](Beginner's_Guide "wikilink")
+  - [Beginner's Guide](Guides/Beginner's_Guide.md "wikilink")
   - [Body Temperature](Body_Temperature "wikilink")
   - [8 things for the perfect survival
     house\!](8_things_for_the_perfect_survival_house! "wikilink")
   - [Crafting](Crafting "wikilink")
   - [Heating Your House](Heating_Your_House "wikilink")
   - [Herding](Herding "wikilink")
-  - [Survival Guide](Survival_Guide "wikilink")
+  - [Survival Guide](Guides/Survival_Guide.md "wikilink")
   - [Tips, Tricks and Common
     Mistakes](Tips,_Tricks_and_Common_Mistakes "wikilink")
   - [Top 5 Things to Have at All
     Times](Top_5_Things_to_Have_at_All_Times "wikilink")
   - [Health and Damage System](Health_and_Damage_System "wikilink")
   - [Smelting](Smelting "wikilink")
-  - [Clothing](Clothing "wikilink")
+  - [Clothing](Recipaedia/Clothes/Clothing.md "wikilink")
 
 ## Controls
 
@@ -57,10 +57,10 @@ settings and preferations.
 These are for players who have the basic idea of survival in the game,
 and can survive the first night, but cannot do much else.
 
-  - [Intermediate guide](Intermediate_guide "wikilink")
+  - [Intermediate guide](Guides/Intermediate_guide.md "wikilink")
   - [Recipaedia](Recipaedia "wikilink")
   - [Farming](Farming "wikilink")
-  - [Cattle Farming](Cattle_Farming "wikilink")
+  - [Cattle Farming](Guides/Cattle_Farming.md "wikilink")
   - [House Ideas](House_Ideas "wikilink")
   - [8 things for the perfect survival
     house\!](8_things_for_the_perfect_survival_house! "wikilink")
@@ -75,7 +75,7 @@ want to movemon to advanced gameplay.
 These are things to do for the advanced player, who does not want to be
 bound by realistic limits while playing.
 
-  - [Building Adventure Maps](Building_Adventure_Maps "wikilink")
+  - [Building Adventure Maps](Guides/Building_Adventure_Maps.md "wikilink")
   - [Furniture](Furniture "wikilink")
   - [Advanced Furniture](Advanced_Furniture "wikilink")
   - [How to Make A Good Adventure Map

@@ -15,7 +15,7 @@ __NOEDITSECTION__ __NOTOC__ Fireworks are new in version 1.28.
 Fireworks are essentially a rocket with a delayed explosive. They are
 launched vertically and can be crafted to form different shapes and
 colors with the explosion. They may be launched by hand or out of a
-[Dispenser](Dispenser "wikilink").![Fireworks\!](Fireworks!
+[Dispenser](Recipaedia/Items/Dispenser.md "wikilink").![Fireworks\!](Fireworks!
 "Fireworks!")
 
 ## Description (From [Recipaedia](Recipaedia "wikilink"))
@@ -33,10 +33,10 @@ burst low. Red stabilizers indicate flickering.*
 
 Fireworks are crafted using a variety of materials: [Sulfur
 Chunk](Recipaedia/Minerals/Sulfur_Chunk.md "wikilink"), [Saltpeter
-Chunk](Recipaedia/Minerals/Saltpeter_Chunk.md "wikilink"), [Canvas](Canvas "wikilink"),
-[Gunpowder](Gunpowder "wikilink"), [Coal Chunk](Recipaedia/Minerals/Coal_Chunk.md "wikilink")
-and a [Paint Bucket](Paint_Bucket "wikilink"). Will give you 20
-fireworks and one [Bucket](Bucket "wikilink").
+Chunk](Recipaedia/Minerals/Saltpeter_Chunk.md "wikilink"), [Canvas](Recipaedia/Items/Canvas.md "wikilink"),
+[Gunpowder](Recipaedia/Items/Gunpowder.md "wikilink"), [Coal Chunk](Recipaedia/Minerals/Coal_Chunk.md "wikilink")
+and a [Paint Bucket](Recipaedia/Tools/Paint_Bucket.md "wikilink"). Will give you 20
+fireworks and one [Bucket](Recipaedia/Tools/Bucket.md "wikilink").
 
 The arrangement of materials in the top row of the crafting interface
 will determine the shape of the explosion.

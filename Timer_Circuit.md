@@ -15,7 +15,7 @@ an alarm but only *after* a certain *amount* of time has elapsed.
 
 All references in this article to 'seconds', 'minutes', etc mean
 SurvivalCraft 'seconds' etc. These are defined by the [Real Time
-Clock](Real_Time_Clock "wikilink") outputs.
+Clock](Recipaedia/Electrics/Real_Time_Clock.md "wikilink") outputs.
 
 ## Day Counter
 
@@ -31,13 +31,13 @@ counting the number of days that pass.
 
 ### How it works
 
-The [RTC](Real_Time_Clock "wikilink") (real time clock) output 3
+The [RTC](Recipaedia/Electrics/Real_Time_Clock.md "wikilink") (real time clock) output 3
 indicates the hours with an analog signal. At midnight this signal
 changes from full on (F) to full off (0). This change is detected and
-inverted by the [NOT](Logic_NOT_Gate "wikilink") gate and that triggers
+inverted by the [NOT](Recipaedia/Electrics/Logic_NOT_Gate.md "wikilink") gate and that triggers
 the (+) input on the [4-Bit Counter](4-Bit_Counter "wikilink"). The
 output of the counter feeds the [7-Segment
-Display](7-Segment_Display "wikilink").
+Display](Recipaedia/Electrics/7-Segment_Display.md "wikilink").
 
 The [button](button "wikilink") is connected to the reset input on the
 4-bit counter.
@@ -56,7 +56,7 @@ The back of the day counter.
 
 As you can see, this timer is very simple to build. It only requires 1
 RTC, 1 counter, 1 NOT gate, 1 display, 1 button, 1 wire, 3 [wire-through
-blocks](Wire_Through_Planks "wikilink"), and 1 other block.
+blocks](Recipaedia/Electrics/Wire_Through_Planks.md "wikilink"), and 1 other block.
 
 The design above was laid out for minimum space and components. It can
 easily be adapted so that it's all hidden except the button and display.
@@ -106,7 +106,7 @@ clarity.![Timer_ft.jpg](Timer_ft.jpg
 
 There are 3 parts to this design. It starts with the 'oscillator'
 section which generates a pulse each second. The (analog) seconds output
-from an [RTC](Real_Time_Clock "wikilink") is fed to an
+from an [RTC](Recipaedia/Electrics/Real_Time_Clock.md "wikilink") is fed to an
 [ADC](Analog_to_Digital_Converter "wikilink") to strip out the least
 significant bit - the fastest one. First it is gated through an AND gate
 so it can be turned off by the switch.

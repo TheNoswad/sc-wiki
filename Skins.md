@@ -109,7 +109,7 @@ out of this screen. 
 
 ## Notes 
 
-[Armor](Armor "wikilink") and [Clothing](Clothing "wikilink") can be
+[Armor](Recipaedia/Clothes/Armor.md "wikilink") and [Clothing](Recipaedia/Clothes/Clothing.md "wikilink") can be
 placed on any skins; not just the default (as shown below).
 
 <div style=" overflow: hidden ">

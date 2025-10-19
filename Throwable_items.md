@@ -51,11 +51,11 @@ some kind.*
 
 <!-- end list -->
 
-  - [Germanium Crystals](Germanium_Crystals "wikilink")
+  - [Germanium Crystals](Recipaedia/Minerals/Germanium_Crystals.md "wikilink")
 
 <!-- end list -->
 
-  - [Gunpowder](Gunpowder "wikilink") (Will explode with contact of
+  - [Gunpowder](Recipaedia/Items/Gunpowder.md "wikilink") (Will explode with contact of
     fire, magma, or another explosion)
 
 <!-- end list -->
@@ -69,7 +69,7 @@ some kind.*
 
 <!-- end list -->
 
-  - [Brick](Brick "wikilink")
+  - [Brick](Recipaedia/Items/Brick.md "wikilink")
 
 <!-- end list -->
 
@@ -86,13 +86,13 @@ some kind.*
 
 <!-- end list -->
 
-  - [Bombs](Bomb "wikilink") (Will explode about 5 seconds after being
+  - [Bombs](Recipaedia/Weapons/Bomb.md "wikilink") (Will explode about 5 seconds after being
     thrown. Will also explode with contact with fire, magma, or another
     explosion)
 
 <!-- end list -->
 
-  - [Incendiary Bombs](Incendiary_Bomb "wikilink")
+  - [Incendiary Bombs](Recipaedia/Weapons/Incendiary_Bomb.md "wikilink")
 
 <!-- end list -->
 
@@ -100,35 +100,35 @@ some kind.*
 
 <!-- end list -->
 
-  - [Wooden Spear](Wooden_Spear "wikilink")
+  - [Wooden Spear](Recipaedia/Weapons/Wooden_Spear.md "wikilink")
 
 <!-- end list -->
 
-  - [Stone Spear](Stone_Spear "wikilink")
+  - [Stone Spear](Recipaedia/Weapons/Stone_Spear.md "wikilink")
 
 <!-- end list -->
 
-  - [Copper Spear](Copper_Spear "wikilink")
+  - [Copper Spear](Recipaedia/Weapons/Copper_Spear.md "wikilink")
 
 <!-- end list -->
 
-  - [Iron Spear](Iron_Spear "wikilink")
+  - [Iron Spear](Recipaedia/Weapons/Iron_Spear.md "wikilink")
 
 <!-- end list -->
 
-  - [Diamond Tip Spear](Diamond_Tip_Spear "wikilink")
+  - [Diamond Tip Spear](Recipaedia/Weapons/Diamond_Tip_Spear.md "wikilink")
 
 <!-- end list -->
 
-  - [Bow](Bow "wikilink")
-  - [Crossbow](Crossbow "wikilink")
-  - [Musket](Musket "wikilink")
+  - [Bow](Recipaedia/Weapons/Bow.md "wikilink")
+  - [Crossbow](Recipaedia/Weapons/Crossbow.md "wikilink")
+  - [Musket](Recipaedia/Weapons/Musket.md "wikilink")
 
 ## Notes 
 
 In the reference file from Kaalus, these are called "aimable". Also
-included in this category are the [Bow](Bow "wikilink"),
-[Crossbow](Crossbow "wikilink") and [Musket](Musket "wikilink"). They
+included in this category are the [Bow](Recipaedia/Weapons/Bow.md "wikilink"),
+[Crossbow](Recipaedia/Weapons/Crossbow.md "wikilink") and [Musket](Recipaedia/Weapons/Musket.md "wikilink"). They
 are aimable but instead of throwing the weapon, it throws their
 respective ammo.
 

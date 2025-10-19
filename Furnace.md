@@ -23,8 +23,8 @@ unattended while working. It also emits a small amount of light.*
 
 The furnace is extremely useful for basic survival. It is used mainly to
 cook food, like [bread](bread "wikilink"), [raw
-bacon](Raw_Bacon "wikilink"), [raw fish](raw_fish "wikilink"), [raw
-bird](Raw_Bird "wikilink"), and [eggs](eggs "wikilink"), and to smelt
+bacon](Recipaedia/Food/Raw_Bacon.md "wikilink"), [raw fish](raw_fish "wikilink"), [raw
+bird](Recipaedia/Food/Raw_Bird.md "wikilink"), and [eggs](eggs "wikilink"), and to smelt
 ores. See the [smelting](smelting "wikilink") page for more details.
 
 ## Crafting

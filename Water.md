@@ -14,7 +14,7 @@ __NOTOC__ __NOEDITSECTION__
 
 This is a source block of water. It is an unobtainable block in all game
 modes. For more information on using water, see [Water
-Bucket](Water_Bucket "wikilink"). 
+Bucket](Recipaedia/Tools/Water_Bucket.md "wikilink"). 
 
 When a Water Bucket is 'placed', it will place a source block of water
 (this block) at the designed location. Breaking an ice block will also

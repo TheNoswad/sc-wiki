@@ -138,11 +138,11 @@ wiki](:ru:Survivalcraft_вики "wikilink")**
     the ingredients you need for crafting.
   - [Crafting](Crafting "wikilink") - learn how to use the crafting
     system to make the items that will help you survive.
-  - [Beginner's Guide](Beginner's_Guide "wikilink") - helps the new
+  - [Beginner's Guide](Guides/Beginner's_Guide.md "wikilink") - helps the new
     player learn the game and survive your first days in the world.
   - [Body Temperature](Body_Temperature "wikilink") - learn about
     getting cold and wet and how to avoid it.
-  - [Clothing](Clothing "wikilink") - learn how to make clothing and
+  - [Clothing](Recipaedia/Clothes/Clothing.md "wikilink") - learn how to make clothing and
     armor you will need to survive.
   - [Tips](Tips,_Tricks_and_Common_Mistakes "wikilink") - advice from
     players to help make playing Survival Craft a bit easier. Not all of
@@ -166,7 +166,7 @@ wiki](:ru:Survivalcraft_вики "wikilink")**
   - [8 Things for the perfect survival
     house\!](8_things_for_the_perfect_survival_house! "wikilink")- what
     to keep in your home to make surviving easier.
-  - [Survival Guide](Survival_Guide "wikilink") - once you can operate
+  - [Survival Guide](Guides/Survival_Guide.md "wikilink") - once you can operate
     the game and understand the basic principles, this page will help
     you learn to survive in the '[hard modes](game_modes "wikilink")'. 
   - [Official Survival Craft Forum](http://survivalcraft.lefora.com/) -
@@ -185,7 +185,7 @@ wiki](:ru:Survivalcraft_вики "wikilink")**
     warm without a fire in every room.
   - [Farming](Farming "wikilink") - once you have settled in, you can
     make a farm - for food or fun\!
-  - [Cattle Farming](Cattle_Farming "wikilink") - want to try your hand
+  - [Cattle Farming](Guides/Cattle_Farming.md "wikilink") - want to try your hand
     at ranching? Check this page out. 
 
 <mainpage-endcolumn />
@@ -221,7 +221,7 @@ The danger of SurvivalCraft:
 **Popular Pages**
 
   - [Tips and Tricks](Tips,_Tricks_and_Common_Mistakes "wikilink")
-  - [Beginner's Guide](Beginner's_Guide "wikilink")
+  - [Beginner's Guide](Guides/Beginner's_Guide.md "wikilink")
   - [CRUEL mode tips](Tips_For_Cruel_Gamemode "wikilink")
 
 -----

@@ -17,7 +17,7 @@ blocks can be combined, made interactive or made to work with
 electricity. Furniture designs can be combined into packs, shared
 between worlds and uploaded to Community Content.*
 
-*To design and create furniture use the [hammer](Iron_Hammer "wikilink")
+*To design and create furniture use the [hammer](Recipaedia/Tools/Iron_Hammer.md "wikilink")
 tool. You need to build the design from regular blocks in the world and
 then use the hammer on the resulting structure to shrink it down.
 Furniture design window will appear where you can tweak the design by
@@ -39,14 +39,14 @@ hammer tool. Allowed materials include: [planks](planks "wikilink"),
 [sand](sand "wikilink"), [clay](clay "wikilink"),
 [cobblestone](cobblestone "wikilink"), [stone
 bricks](Stone_Bricks "wikilink"), [sandstone](sandstone "wikilink"),
-[marble](marble "wikilink"), [bricks](Brick_Wall "wikilink"),
+[marble](marble "wikilink"), [bricks](Recipaedia/Construction/Brick_Wall.md "wikilink"),
 [coal](Solid_Coal_Block "wikilink"),
 [malachite](Malachite_Block "wikilink"),
-[diamond](Solid_Diamond_Block "wikilink"),
-[copper](Solid_Copper_Block "wikilink"),
-[iron](Solid_Iron_Block "wikilink"), [glass](glass "wikilink"),
-[carpet](carpet "wikilink"), [torches](Torch "wikilink"), [wicker
-lamps](Wicker_Lamp "wikilink"), [water](water "wikilink"),
+[diamond](Recipaedia/Construction/Solid_Diamond_Block.md "wikilink"),
+[copper](Recipaedia/Construction/Solid_Copper_Block.md "wikilink"),
+[iron](Recipaedia/Construction/Solid_Iron_Block.md "wikilink"), [glass](glass "wikilink"),
+[carpet](carpet "wikilink"), [torches](Recipaedia/Items/Torch.md "wikilink"), [wicker
+lamps](Recipaedia/Items/Wicker_Lamp.md "wikilink"), [water](water "wikilink"),
 [magma](magma "wikilink"). Source blocks of the design can be painted or
 dyed to make the design more colorful. Finished furniture can also be
 painted, this will cover any colors of the source blocks.*
@@ -322,20 +322,20 @@ page](Uploading_and_Downloading "wikilink") for uploading details.
 <!-- end list -->
 
   - [Basalt](Recipaedia/Terrain/Basalt.md "wikilink")
-  - [Brick Block](Brick_Wall "wikilink")
-  - [Carpet](Carpet "wikilink")
+  - [Brick Block](Recipaedia/Construction/Brick_Wall.md "wikilink")
+  - [Carpet](Recipaedia/Items/Carpet.md "wikilink")
   - [Clay](Recipaedia/Terrain/Clay.md "wikilink")
   - [Coal Block](Solid_Coal_Block "wikilink")
-  - [Cobblestone](Cobblestone "wikilink")
-  - [Copper Block](Solid_Copper_Block "wikilink")
-  - [Diamond Block](Solid_Diamond_Block "wikilink")
-  - [Glass](Glass "wikilink")
+  - [Cobblestone](Recipaedia/Construction/Cobblestone.md "wikilink")
+  - [Copper Block](Recipaedia/Construction/Solid_Copper_Block.md "wikilink")
+  - [Diamond Block](Recipaedia/Construction/Solid_Diamond_Block.md "wikilink")
+  - [Glass](Recipaedia/Construction/Glass.md "wikilink")
   - [Granite](Recipaedia/Terrain/Granite.md "wikilink")
-  - [Iron Block](Solid_Iron_Block "wikilink")
+  - [Iron Block](Recipaedia/Construction/Solid_Iron_Block.md "wikilink")
   - [Magma](Magma "wikilink")
   - [Malachite Block](Malachite_Block "wikilink")
-  - [Marble](Marble "wikilink")
-  - [Planks](Planks "wikilink")
+  - [Marble](Recipaedia/Construction/Marble.md "wikilink")
+  - [Planks](Recipaedia/Construction/Planks.md "wikilink")
   - [Sand](Recipaedia/Terrain/Sand.md "wikilink")
   - [Sandstone](Recipaedia/Terrain/Sandstone.md "wikilink")
   - [Stone Bricks](Stone_Bricks "wikilink")
@@ -353,10 +353,10 @@ page](Uploading_and_Downloading "wikilink") for uploading details.
 
 ## Useable Items List
 
-  - [Torch](Torch "wikilink")
-  - [Wicker Lamp](Wicker_Lamp "wikilink")
-  - [Button](Button "wikilink")
-  - [Switch](Switch "wikilink")
+  - [Torch](Recipaedia/Items/Torch.md "wikilink")
+  - [Wicker Lamp](Recipaedia/Items/Wicker_Lamp.md "wikilink")
+  - [Button](Recipaedia/Electrics/Button.md "wikilink")
+  - [Switch](Recipaedia/Electrics/Switch.md "wikilink")
 
 __NOEDITSECTION__
 

@@ -1,4 +1,4 @@
----
+--
 title: Strings
 description: 
 published: true
@@ -8,4 +8,4 @@ editor: markdown
 dateCreated: 2025-10-13T00:17:44.327Z
 ---
 
-1.  REDIRECT [String](String "wikilink")
+1.  REDIRECT [String](Recipaedia/Items/String.md "wikilink")

@@ -35,7 +35,7 @@ all cooking of meats, baking [bread](bread "wikilink") from
 [glass](glass "wikilink") from [sand](sand "wikilink"),
 [granite](granite "wikilink") from
 [cobblestone](cobblestone "wikilink"), [coal](Recipaedia/Minerals/Coal_Chunk.md "wikilink")
-from wood ,[bricks](Brick "wikilink") from [clay](clay "wikilink") and
+from wood ,[bricks](Recipaedia/Items/Brick.md "wikilink") from [clay](clay "wikilink") and
 [white pigment](White_Pigment "wikilink") from
 [limestone](limestone "wikilink"). 
 
@@ -81,7 +81,7 @@ materials box, the coal will only smelt that one and then go out\!\!\!**
 ### Cooking Eggs (batch use)
 
 [Eggs](Eggs "wikilink") must be cooked using a [water
-bucket](Water_Bucket "wikilink"). Each egg needs *one full bucket*  to
+bucket](Recipaedia/Tools/Water_Bucket.md "wikilink"). Each egg needs *one full bucket*  to
 cook. However, it does NOT use up the water - it simply has to be there.
 When each egg is cooked, it will be moved to the output box on the
 bottom. One water bucket will also be moved with it, into the other
@@ -144,7 +144,7 @@ the marble in the output box.
 
 All [colored paints](painting "wikilink") start off with a white paint
 bucket. To make white paint, you need a [bucket of
-water](Water_Bucket "wikilink") and one [white
+water](Recipaedia/Tools/Water_Bucket.md "wikilink") and one [white
 pigment](White_Pigment "wikilink") for *each* bucket of paint. Place the
 buckets in one batch box and the pigments in the other.
 
@@ -157,26 +157,26 @@ bucket in one batch box and the colorant in the other batch box. See
 |                                                                                           |          |        |                                                                                                        |
 | ----------------------------------------------------------------------------------------- | -------- | ------ | ------------------------------------------------------------------------------------------------------ |
 | **Item**                                                                                  | **Heat** | **XP** | **Produces**                                                                                           |
-| [Carpet](Carpet "wikilink") AND [Paint Bucket](Paint_Bucket "wikilink")                   | 1        | 0      | Dyed Carpet AND Paint Bucket                                                                           |
+| [Carpet](Recipaedia/Items/Carpet.md "wikilink") AND [Paint Bucket](Recipaedia/Tools/Paint_Bucket.md "wikilink")                   | 1        | 0      | Dyed Carpet AND Paint Bucket                                                                           |
 | Dyed Carpet AND [Paint Stripper Bucket](Paint_Stripper "wikilink")                        | 1        | 0      | White Carpet AND Paint Stripper Bucket                                                                 |
-| Laid [Egg](Egg "wikilink") AND [Water Bucket](Water_Bucket "wikilink")                    | 1        | 0      | Cooked Egg AND Water Bucket                                                                            |
+| Laid [Egg](Egg "wikilink") AND [Water Bucket](Recipaedia/Tools/Water_Bucket.md "wikilink")                    | 1        | 0      | Cooked Egg AND Water Bucket                                                                            |
 | Paint Bucket AND [Colorant](Painting "wikilink")                                          | 1        | 0      | Paint Bucket                                                                                           |
 | [Pumpkin](Recipaedia/Plants/Pumpkin.md "wikilink") AND Water Bucket                                            | 1        | 0      | [Pumpkin Soup](Recipaedia/Plants/Pumpkin_Soup.md "wikilink")                                                                |
-| 2 [Woods](Planks "wikilink")                                                              | 1        | 1      | [Coal Chunk](Recipaedia/Minerals/Coal_Chunk.md "wikilink")                                                                    |
-| [Clay](Recipaedia/Terrain/Clay.md "wikilink")                                                                   | 1        | 1      | 2 [Bricks](Brick "wikilink")                                                                           |
-| [Cobblestone](Cobblestone "wikilink")                                                     | 1        | 1      | [Granite](Recipaedia/Terrain/Granite.md "wikilink")                                                                          |
-| [Dough](Dough "wikilink")                                                                 | 1        | 1      | [Bread](Bread "wikilink")                                                                              |
-| [Germanium Ore Chunk](Recipaedia/Minerals/Germanium_Ore_Chunk.md "wikilink")                                     | 1        | 1      | [Germanium Crystal](Germanium_Crystal "wikilink")                                                      |
+| 2 [Woods](Recipaedia/Construction/Planks.md "wikilink")                                                              | 1        | 1      | [Coal Chunk](Recipaedia/Minerals/Coal_Chunk.md "wikilink")                                                                    |
+| [Clay](Recipaedia/Terrain/Clay.md "wikilink")                                                                   | 1        | 1      | 2 [Bricks](Recipaedia/Items/Brick.md "wikilink")                                                                           |
+| [Cobblestone](Recipaedia/Construction/Cobblestone.md "wikilink")                                                     | 1        | 1      | [Granite](Recipaedia/Terrain/Granite.md "wikilink")                                                                          |
+| [Dough](Recipaedia/Food/Dough.md "wikilink")                                                                 | 1        | 1      | [Bread](Recipaedia/Food/Bread.md "wikilink")                                                                              |
+| [Germanium Ore Chunk](Recipaedia/Minerals/Germanium_Ore_Chunk.md "wikilink")                                     | 1        | 1      | [Germanium Crystal](Recipaedia/Minerals/Germanium_Crystal.md "wikilink")                                                      |
 | [Limestone](Recipaedia/Terrain/Limestone.md "wikilink")                                                         | 1        | 1      | 2 [White Pigments](White_Pigment "wikilink")                                                           |
-| Limestone AND [Sand](Recipaedia/Terrain/Sand.md "wikilink")                                                     | 1        | 1      | [Marble](Marble "wikilink")                                                                            |
-| [Malachite Chunk](Recipaedia/Minerals/Malachite_Chunk.md "wikilink")                                             | 1        | 1      | [Copper Ingot](Copper_Ingot "wikilink")                                                                |
-| Raw [Bird](Raw_Bird "wikilink"), [Fish](Raw_Fish "wikilink"), [Meat](Raw_Meat "wikilink") | 1        | 1      | Cooked  [Bird](Cooked_Bird "wikilink"), [Fish](Cooked_Fish "wikilink"), [Meat](Cooked_Meat "wikilink") |
+| Limestone AND [Sand](Recipaedia/Terrain/Sand.md "wikilink")                                                     | 1        | 1      | [Marble](Recipaedia/Construction/Marble.md "wikilink")                                                                            |
+| [Malachite Chunk](Recipaedia/Minerals/Malachite_Chunk.md "wikilink")                                             | 1        | 1      | [Copper Ingot](Recipaedia/Items/Copper_Ingot.md "wikilink")                                                                |
+| Raw [Bird](Recipaedia/Food/Raw_Bird.md "wikilink"), [Fish](Recipaedia/Food/Raw_Fish.md "wikilink"), [Meat](Recipaedia/Food/Raw_Meat.md "wikilink") | 1        | 1      | Cooked  [Bird](Recipaedia/Food/Cooked_Bird.md "wikilink"), [Fish](Recipaedia/Food/Cooked_Fish.md "wikilink"), [Meat](Recipaedia/Food/Cooked_Meat.md "wikilink") |
 | [Saltpeter Chunk](Recipaedia/Minerals/Saltpeter_Chunk.md "wikilink") AND Water Bucket                            | 1        | 1      | Paint Stripper Bucket                                                                                  |
-| Sand                                                                                      | 1        | 1      | [Glass](Glass "wikilink")                                                                              |
+| Sand                                                                                      | 1        | 1      | [Glass](Recipaedia/Construction/Glass.md "wikilink")                                                                              |
 | White Pigment AND Water Bucket                                                            | 1        | 1      | White Paint Bucket                                                                                     |
-| [Iron Ore Chunk](Recipaedia/Minerals/Iron_Ore_Chunk.md "wikilink")                                               | 2        | 1      | [Iron Ingot](Iron_Ingot "wikilink")                                                                    |
-| 2 Iron Ingots                                                                             | 2        | 1      | 4 [Rods](Rod "wikilink")                                                                               |
-| [Cloth](Clothing "wikilink") AND Paint Bucket                                             | 1        | 1 to 4 | Dyed Cloth AND Paint Bucket                                                                            |
+| [Iron Ore Chunk](Recipaedia/Minerals/Iron_Ore_Chunk.md "wikilink")                                               | 2        | 1      | [Iron Ingot](Recipaedia/Items/Iron_Ingot.md "wikilink")                                                                    |
+| 2 Iron Ingots                                                                             | 2        | 1      | 4 [Rods](Recipaedia/Items/Rod.md "wikilink")                                                                               |
+| [Cloth](Recipaedia/Clothes/Clothing.md "wikilink") AND Paint Bucket                                             | 1        | 1 to 4 | Dyed Cloth AND Paint Bucket                                                                            |
 | Dyed Cloth AND Paint Stripper Bucket                                                      | 1        | 1 to 4 | Cloth AND Paint Stripper Bucket                                                                        |
 
 ## Fuel For The Furnace
@@ -188,48 +188,48 @@ following can be used as fuel, in decreasing order of their fuel value:
     600 (Keep in mind that using 9 coal chunks give more energy than a
     solid coal block since 9x80=720)
   - [Coal Chunk](Recipaedia/Minerals/Coal_Chunk.md "wikilink") 80
-  - [Solid Diamond Block](Solid_Diamond_Block "wikilink") 40 \*\*
+  - [Solid Diamond Block](Recipaedia/Construction/Solid_Diamond_Block.md "wikilink") 40 \*\*
   - [Oak Wood](Recipaedia/Plants/Oak_Wood.md "wikilink") 20 \*
   - [Spruce Wood](Recipaedia/Plants/Spruce_Wood.md "wikilink") 20 \*
   - [Birch Wood](Recipaedia/Plants/Birch_Wood.md "wikilink") 20 \*
   - [Diamond](Recipaedia/Minerals/Diamond.md "wikilink") Crystals 20 \*\*
-  - [Gunpowder](Gunpowder "wikilink") 10 (May Explode)
+  - [Gunpowder](Recipaedia/Items/Gunpowder.md "wikilink") 10 (May Explode)
   - [Sulphur Chunk](Recipaedia/Minerals/Sulphur_Chunk.md "wikilink") 10
-  - [Campfire](Campfire "wikilink") 10
-  - [Wooden Planks](Planks "wikilink") (Painted Planks Included) 5 \*
-  - [Wire Through Planks](Wire_Through_Planks "wikilink") 5
-  - [Christmas Tree](Christmas_tree "wikilink") 5
+  - [Campfire](Recipaedia/Items/Campfire.md "wikilink") 10
+  - [Wooden Planks](Recipaedia/Construction/Planks.md "wikilink") (Painted Planks Included) 5 \*
+  - [Wire Through Planks](Recipaedia/Electrics/Wire_Through_Planks.md "wikilink") 5
+  - [Christmas Tree](Recipaedia/Items/Christmas_tree.md "wikilink") 5
   - [Cactus](Recipaedia/Plants/Cactus.md "wikilink") 5
-  - [Wooden Slab](Wooden_Slab "wikilink") (Painted Slabs Included) 5 \*
-  - [Wooden Stairs](Wooden_Stairs "wikilink") (Painted Stairs Included)
+  - [Wooden Slab](Recipaedia/Construction/Wooden_Slab.md "wikilink") (Painted Slabs Included) 5 \*
+  - [Wooden Stairs](Recipaedia/Construction/Wooden_Stairs.md "wikilink") (Painted Stairs Included)
     5
-  - [Wooden Door](Wooden_Door "wikilink") 5 
-  - [Wooden Trapdoor](Wooden_Trapdoor "wikilink") 5
-  - [Ladder](Ladder "wikilink") 5
-  - [Spiked Plank](Spiked_Plank "wikilink") 5
-  - [Sign](Sign "wikilink") 5
-  - [Wooden Fence](Wooden_Fence "wikilink") (Painted Fences Included) 5
-  - [Wooden Fence Gate](Wooden_Fence_Gate "wikilink") (Painted Fence
+  - [Wooden Door](Recipaedia/Items/Wooden_Door.md "wikilink") 5 
+  - [Wooden Trapdoor](Recipaedia/Items/Wooden_Trapdoor.md "wikilink") 5
+  - [Ladder](Recipaedia/Items/Ladder.md "wikilink") 5
+  - [Spiked Plank](Recipaedia/Items/Spiked_Plank.md "wikilink") 5
+  - [Sign](Recipaedia/Items/Sign.md "wikilink") 5
+  - [Wooden Fence](Recipaedia/Items/Wooden_Fence.md "wikilink") (Painted Fences Included) 5
+  - [Wooden Fence Gate](Recipaedia/Items/Wooden_Fence_Gate.md "wikilink") (Painted Fence
     gates Included) 5
-  - [Crafting Table](Crafting_Table "wikilink") 5
-  - [Chest](Chest "wikilink") 5
-  - [Dispenser](Dispenser "wikilink") 5
-  - [Wicker Lamp](Wicker_Lamp "wikilink") 5
-  - [Carpet](Carpet "wikilink") 5
+  - [Crafting Table](Recipaedia/Items/Crafting_Table.md "wikilink") 5
+  - [Chest](Recipaedia/Items/Chest.md "wikilink") 5
+  - [Dispenser](Recipaedia/Items/Dispenser.md "wikilink") 5
+  - [Wicker Lamp](Recipaedia/Items/Wicker_Lamp.md "wikilink") 5
+  - [Carpet](Recipaedia/Items/Carpet.md "wikilink") 5
   - [Large Dry Bush](Recipaedia/Plants/Large_Dry_Bush.md "wikilink") 2
   - [Ivy](Recipaedia/Plants/Ivy.md "wikilink") 1
   - All [Cotton](Recipaedia/Plants/Cotton.md "wikilink") plants 1
-  - [Cotton Wad](Cotton_Wad "wikilink") 1
+  - [Cotton Wad](Recipaedia/Plants/Cotton_Wad.md "wikilink") 1
   - [Dry Bush](Recipaedia/Plants/Dry_Bush.md "wikilink") 1
   - [Oak Leaves](Recipaedia/Plants/Oak_Leaves.md "wikilink") 1
   - [Spruce Leaves](Recipaedia/Plants/Spruce_Leaves.md "wikilink") 1
   - [Birch Leaves](Recipaedia/Plants/Birch_Leaves.md "wikilink") 1
   - [Tall Spruce Leaves](Recipaedia/Plants/Tall_Spruce_Leaves.md "wikilink") 1
   - [String](Strings "wikilink") 1
-  - [Feather](Feather "wikilink") 1
-  - All [Clothing](Clothing "wikilink") 1
+  - [Feather](Recipaedia/Items/Feather.md "wikilink") 1
+  - All [Clothing](Recipaedia/Clothes/Clothing.md "wikilink") 1
   - [Tall Grass](Recipaedia/Plants/Tall_Grass.md "wikilink") 0.5
-  - [Wild Rye](Wild_Rye "wikilink") 0.5
+  - [Wild Rye](Recipaedia/Plants/Wild_Rye.md "wikilink") 0.5
   - [Rye](Recipaedia/Plants/Rye.md "wikilink") 0.5
   - All [Flowers](Recipaedia/Plants/Red_Flower.md "wikilink") 0.5
   - All [saplings](Recipaedia/Plants/Oak_Sapling.md "wikilink") 0.5
@@ -253,7 +253,7 @@ updates.
   - [Cacti](cactus "wikilink") will grow in any condition as long as
     it's on sand. This provides an infinitely renewable fuel source.
   - Any fuel that can be used for smelting can be used as a fuel for the
-    [Campfire](Campfire "wikilink") too.
+    [Campfire](Recipaedia/Items/Campfire.md "wikilink") too.
 
 [Category:Concepts](Category:Concepts "wikilink")
 [Category:Organization](Category:Organization "wikilink") [Category:Tips

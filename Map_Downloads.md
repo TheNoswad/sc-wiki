@@ -16,7 +16,7 @@ There are many more maps available in the [official forum at
 lefora](http://survivalcraft.lefora.com/) . 
 
 If you just want to see some interesting world seeds, look
-[HERE](List_of_the_Best_Seeds "wikilink"). 
+[HERE](Guides/List_of_the_Best_Seeds.md "wikilink"). 
 
 ## Guidelines:
 

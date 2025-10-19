@@ -24,7 +24,7 @@ they decide to set up camp (made of cobblestone). But after a while,
 things go terribly wrong. The camps collapse (ties to
 [cobblestone](cobblestone "wikilink") theory) and crew members start
 dying (ties to [gravestone](gravestone "wikilink") theory). To protect
-themselves, they set up traps (ties to [spike](Spiked_Plank "wikilink")
+themselves, they set up traps (ties to [spike](Recipaedia/Items/Spiked_Plank.md "wikilink")
 theory). The player was one of the remaining survivors, who tries a
 different approach: Tame [werewolves](Werewolf "wikilink") . When the
 other surviving crew members see this, they accuse him of being the
@@ -40,7 +40,7 @@ The ship is owned by pirates, and you were a part of the crew. After a
 while, they decide to maroon you. So now, you're stuck in the
 wilderness, marooned, by yourself with no help. - A contributor
 
-## [Graves](Gravestone "wikilink") and [Spikes](Spiked_Plank "wikilink")
+## [Graves](Gravestone "wikilink") and [Spikes](Recipaedia/Items/Spiked_Plank.md "wikilink")
 
 *Some of the naturally generated things in Survivalcraft include Graves
 and Spikes. Post in the comments any theories of why these are here.*

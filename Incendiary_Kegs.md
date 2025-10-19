@@ -18,7 +18,7 @@ objects on fire. Do not use near forests\!*
 
 ## Crafting
 
-You use [gunpowder kegs](Gunpowder_Kegs "wikilink") and
+You use [gunpowder kegs](Recipaedia/Items/Gunpowder_Kegs.md "wikilink") and
 [sulfur](Recipaedia/Minerals/Sulfur_Chunk.md "wikilink") to craft an incendiary keg of the same
 size.
 
@@ -31,7 +31,7 @@ size.
 
 ## Use
 
-Use these just like [regular kegs.](Gunpowder_Kegs "wikilink") But
+Use these just like [regular kegs.](Recipaedia/Items/Gunpowder_Kegs.md "wikilink") But
 remember, they are a lot weaker than those.
 
 ## Notes
@@ -42,8 +42,8 @@ recommended to stay far away when they explode.
 
 ## Related Pages
 
-  - [Gunpowder Kegs](Gunpowder_Kegs "wikilink")
-  - [Incendiary Bomb](Incendiary_Bomb "wikilink")
+  - [Gunpowder Kegs](Recipaedia/Items/Gunpowder_Kegs.md "wikilink")
+  - [Incendiary Bomb](Recipaedia/Weapons/Incendiary_Bomb.md "wikilink")
 
 [Category:Items](Category:Items "wikilink")
 [Category:Crafted](Category:Crafted "wikilink") [Category:Dangerous

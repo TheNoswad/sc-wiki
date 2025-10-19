@@ -100,7 +100,7 @@ cannot be recovered. Snowballs do more damage.
 ## Related Pages 
 
   - [Farming](Farming "wikilink")
-  - [Cattle Farm](Cattle_Farming "wikilink")
+  - [Cattle Farm](Guides/Cattle_Farming.md "wikilink")
 
 [Category:Tips and Guides](Category:Tips_and_Guides "wikilink")
 [Category:Concepts](Category:Concepts "wikilink")

@@ -15,12 +15,12 @@ and health.
 
 ## Types of Entities
 
-  - [Animals](Animals "wikilink")
-  - [Boats](Boats "wikilink")
+  - [Animals](Bestiary/Animals.md "wikilink")
+  - [Boats](Recipaedia/Items/Boats.md "wikilink")
   - [Magnets](Magnet "wikilink")
   - [Dropped](Dropped_Items "wikilink") items
   - [Falling](Falling_Blocks "wikilink") blocks
-  - [Explosives](Gunpowder "wikilink")
+  - [Explosives](Recipaedia/Items/Gunpowder.md "wikilink")
   - [Thrown](Throwable_items "wikilink") items
   - [Debris](Debris "wikilink")
   - [Fire](Fire "wikilink")
@@ -28,6 +28,6 @@ and health.
   - [Magma](Magma "wikilink")
   - Lightning
   - [Smoke](Smoke "wikilink")
-  - [Fences](Wooden_Fence "wikilink")
+  - [Fences](Recipaedia/Items/Wooden_Fence.md "wikilink")
 
 [Category:Entities](Category:Entities "wikilink")

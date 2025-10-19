@@ -53,7 +53,7 @@ are outside and there is one close enough. The biomes are typically not
 huge in the standard game so this is a good option.
 
 The best way to *stay* warm is to be dressed properly. You can dress in
-layers for best effect. See [Clothing](Clothing "wikilink") for more
+layers for best effect. See [Clothing](Recipaedia/Clothes/Clothing.md "wikilink") for more
 information. This will not help you if you get wet, however. Any
 insulation provided by clothing is removed while you are wet. Changing
 your clothes won't make a difference.
@@ -84,7 +84,7 @@ For the most heat, you need every side and the top of the block burning.
 Leave open all the blocks around the coal block and the fire block above
 it - a 3 x 3 x 2 high space with the coal block in the center.
 
-[Campfires](Campfire "wikilink") are very good at heating you up
+[Campfires](Recipaedia/Items/Campfire.md "wikilink") are very good at heating you up
 quickly. They are very effective outside, but only last a short time.
 They are good for emergency heat.
 
@@ -142,7 +142,7 @@ Being cold for a long period can cause the flu. See
 
 ## Related Pages
 
-  - [Clothing](Clothing "wikilink")
+  - [Clothing](Recipaedia/Clothes/Clothing.md "wikilink")
   - [Heating Your House](Heating_Your_House "wikilink")
   - [Health and Damage System](Health_and_Damage_System "wikilink")
 

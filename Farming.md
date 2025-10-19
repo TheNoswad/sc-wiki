@@ -34,7 +34,7 @@ grown pumpkins may be eaten raw, but can also be cooked in a furnace
 with a water bucket to get pumpkin soup.
 
 [Cotton](Recipaedia/Plants/Cotton.md "wikilink") can be grown to produce [Cotton
-Wads](Cotton_Wad "wikilink") which are used to make
+Wads](Recipaedia/Plants/Cotton_Wad.md "wikilink") which are used to make
 [canvas](canvas "wikilink") and is also used when loading a
 [musket](musket "wikilink"). Cotton seeds may be obtained by breaking
 wild cotton plants. They must then be planted on proper soil to grow
@@ -77,12 +77,12 @@ Tall grass can be grown in the same conditions as flowers.
     irrigated by water since if it's too cold the water can freeze and
     the soil will dry up. Also if you haven't found [malachite
     ore](Malachite_Block "wikilink") yet in order to make a
-    [Bucket](Bucket "wikilink") you'll need to place your farm next to
+    [Bucket](Recipaedia/Tools/Bucket.md "wikilink") you'll need to place your farm next to
     water in order to irrigate the soil. Also plants need light to grow
     (a block 1 higher than the plant must have lighting \>= 9, \>= 12 if
     cacti, any if ivy), so outdoors is better. You can also add some
     torches or lamps and make them grow even faster.  \< NOTE: See the
-    [thermometer page](Thermometer "wikilink") for information on bug
+    [thermometer page](Recipaedia/Tools/Thermometer.md "wikilink") for information on bug
     when holding it. \>
 2.  Once you have a good spot, you should lay out the area you wish to
     plant, especially with crops that need tilled soil such as
@@ -263,7 +263,7 @@ under any conditions.
 ## Related Pages 
 
   - [Egg Farm](Egg_Farms "wikilink")
-  - [Cattle Farm](Cattle_Farming "wikilink")
+  - [Cattle Farm](Guides/Cattle_Farming.md "wikilink")
 
 [Category:Tips and Guides](Category:Tips_and_Guides "wikilink")
 [Category:Concepts](Category:Concepts "wikilink") [Category:Help

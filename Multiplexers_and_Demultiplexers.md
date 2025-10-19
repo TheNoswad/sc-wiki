@@ -71,7 +71,7 @@ address is established. An example is an electric 'sundial' clock face
 which will always have one and only one point lit around the circle.
 
 A much simplified demux may be made with [memory
-banks](Memory_Bank "wikilink"). One or both of the address inputs are
+banks](Recipaedia/Electrics/Memory_Bank.md "wikilink"). One or both of the address inputs are
 connected to the address line in the demux. Memory banks always have to
 be programmed properly for their use. The simple demux only needs an 'F'
 in proper address, which depends on the application.
@@ -79,7 +79,7 @@ in proper address, which depends on the application.
 If you need to pass an analog signal, that can go to the other address
 input but the memory has to be programmed properly. Remember that analog
 signals do not 'pass through' a memory. Or the demux output can go to an
-[AND](Logic_AND_Gate "wikilink") gate with the analog signal going to
+[AND](Recipaedia/Electrics/Logic_AND_Gate.md "wikilink") gate with the analog signal going to
 the other input.
 
 ## **Download links**

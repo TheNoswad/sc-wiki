@@ -32,7 +32,7 @@ then saved in [Adventure Mode](Adventure_Gamemode "wikilink") or
   - Eating and sleeping are not necessary.
   - [Tools and](:Category:Tools "wikilink") [Weapons
     do](:Category:Weapons "wikilink") not break.
-  - [Clothing](Clothing "wikilink") and [Armor](Armor "wikilink") do not
+  - [Clothing](Recipaedia/Clothes/Clothing.md "wikilink") and [Armor](Recipaedia/Clothes/Armor.md "wikilink") do not
     wear down and are not damaged in attacks.
   - Animal [spawn eggs](Creative_Eggs "wikilink") are avaliable for all
     animals except: [Orca](Orca "wikilink"), [Beluga
@@ -103,7 +103,7 @@ This can be useful while building.
       - If you fly too high you will run out of air.
       - If you are buried, you will also run out of air.
       - You can be crushed in physical traps, such as one using [Spiked
-        Planks](Spiked_Plank "wikilink").
+        Planks](Recipaedia/Items/Spiked_Plank.md "wikilink").
       - If you manage to 'glitch' through the bedrock layer, you will
         die if you go too far below it.
       - Of course, you can still commit suicide.

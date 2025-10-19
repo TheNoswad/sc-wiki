@@ -41,7 +41,7 @@ of food either. You cannot find any pumpkins, and the only animals that
 live here are [reindeer](reindeer "wikilink"), the occasional herd of
 [black cattle](Black_Cow "wikilink"), [white
 tiger](White_Tiger "wikilink"), [polar bears](Polar_Bear "wikilink"),
-[ravens](Raven "wikilink"), and [wolves](Wolf "wikilink"). Polar bears
+[ravens](Bestiary/Raven.md "wikilink"), and [wolves](Bestiary/Wolf.md "wikilink"). Polar bears
 are found on the ice, close to oceans and shores.
 
 ## Tropical, Lush Areas
@@ -52,7 +52,7 @@ ivy to obtain [string](string "wikilink"), which is vital to making a
 [bow](bow "wikilink"). You can find [pumpkins](Recipaedia/Plants/Pumpkin.md "wikilink") as
 well. The animals that live here are [horses](Bestiary/Horse.md "wikilink"), cattle,
 [giraffes](Giraffe "wikilink"), [rhinos](Rhino "wikilink"),
-[tigers](Tiger "wikilink"), [wildboars](Wildboar "wikilink"),
+[tigers](Tiger "wikilink"), [wildboars](Bestiary/Wildboar.md "wikilink"),
 [piranhas](Piranha "wikilink") and bass in the lakes and ponds,
 [gnu](gnu "wikilink"), [brown bears](Brown_Bear "wikilink") and
 [ducks](Duck "wikilink"). Living in tropical areas gives you a food
@@ -66,8 +66,8 @@ their fence.
 
 Caves are very common in mountains. In caves, you can find
 [diamond](diamond "wikilink") , [coal](Recipaedia/Minerals/Coal_Chunk.md "wikilink") ,
-[iron](Iron_Ingot "wikilink") , [malachite](Recipaedia/Minerals/Malachite_Chunk.md "wikilink")
-, [germanium](Germanium_Crystal "wikilink") . There are a lot of
+[iron](Recipaedia/Items/Iron_Ingot.md "wikilink") , [malachite](Recipaedia/Minerals/Malachite_Chunk.md "wikilink")
+, [germanium](Recipaedia/Minerals/Germanium_Crystal.md "wikilink") . There are a lot of
 resources to be found, but is is not an ideal place to live because of
 it's rough terrain. You cannot keep any livestock here, and building a
 house is difficult. There are also many predators that call the caves
@@ -79,9 +79,9 @@ and mountains their home such as [tigers](Tiger "wikilink") and
 ## Oceans, Lakes, Ponds, and Pools
 
 In the oceans, you will find deep, deep water infested with
-[sharks](Shark "wikilink") , rays, [barracudas](Bestiary/Barracuda.md "wikilink") ,
+[sharks](Bestiary/Shark.md "wikilink") , rays, [barracudas](Bestiary/Barracuda.md "wikilink") ,
 and [piranhas](Piranha "wikilink") . There are also [sea
-bass](Sea_Bass "wikilink") , and if you are far out enough, an orca or
+bass](Bestiary/Sea_Bass.md "wikilink") , and if you are far out enough, an orca or
 two. The orca is the most dangerous animal in the game. Once one attacks
 you, you have zero chance of survival. And because they are found in the
 middle of oceans, there is no land to run to. The sharks are also very

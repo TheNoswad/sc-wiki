@@ -22,11 +22,11 @@ can spawn animals prodigiously.
 ## Finding an island
 
 Isolated islands can be found out in the ocean. To reach one in survival
-mode, [Boats](Boats "wikilink") must be used. This is because the player
+mode, [Boats](Recipaedia/Items/Boats.md "wikilink") must be used. This is because the player
 can't swim for long periods of time, as they will get tired and drown.
 It is recommended more then one boat and durable weapons are brought on
 the journey, as dangerous predators like piranhas, sharks, and orcas
-will attack you. See the [boat page](Boat "wikilink") for information on
+will attack you. See the [boat page](Recipaedia/Items/Boat.md "wikilink") for information on
 combat in boats.n
 
 ## Video

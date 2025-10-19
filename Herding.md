@@ -24,8 +24,8 @@ The following animals can be herded\*, as they will run from the
   - [Bison](Bison "wikilink")
   - [Camel](Camel "wikilink")
 
-\*The [Duck](Duck "wikilink"), [Raven](Raven "wikilink"), and
-[Seagull](Seagull "wikilink") will fly away from the whistle sound, but
+\*The [Duck](Duck "wikilink"), [Raven](Bestiary/Raven.md "wikilink"), and
+[Seagull](Bestiary/Seagull.md "wikilink") will fly away from the whistle sound, but
 because the fly, they cannot be "herded".
 
 ## Herding Animals
@@ -62,7 +62,7 @@ if it isn't in an area prone to lightning strikes.
 
 ## Related Pages
 
-  - [Cattle Farming](Cattle_Farming "wikilink")
+  - [Cattle Farming](Guides/Cattle_Farming.md "wikilink")
   - [Rideable Animals](Rideable_Animals "wikilink")
 
 [Category:Concepts](Category:Concepts "wikilink") [Category:Tips and

@@ -114,7 +114,7 @@ be edited:
 
   - Animals
   - Player (Customizable with [Skins](Skins "wikilink") instead)
-  - [Clothing](Clothing "wikilink")
+  - [Clothing](Recipaedia/Clothes/Clothing.md "wikilink")
   - Smoke Particles
   - Boats (only when placed)
   - Fire (partially, you can only add a background behind the fire

@@ -11,7 +11,7 @@ dateCreated: 2025-10-13T00:08:13.912Z
 ## Introduction
 
 This article presents several circuits that may be used to apply the
-[Memory Bank](Memory_Bank "wikilink") as a Read/Write memory, commonly
+[Memory Bank](Recipaedia/Electrics/Memory_Bank.md "wikilink") as a Read/Write memory, commonly
 called RAM. It assumes that the memory will be attached to a common data
 bus for input and output. This means there must be a way to tell this
 circuit two things – when the data on the bus is for it, and when to
@@ -168,7 +168,7 @@ carefully considered and is beyond the scope of this article.
 
 ## Related Pages
 
-  - [Memory Bank](Memory_Bank "wikilink")
+  - [Memory Bank](Recipaedia/Electrics/Memory_Bank.md "wikilink")
   - [Write Encoder](Write_Encoder "wikilink")
   - [Memory Arrays](Memory_Arrays "wikilink")
   - [Latch, Register Circuits](Latch,_Register_Circuits "wikilink")

@@ -22,11 +22,11 @@ will then have the same properties as a newly made weapon (or tool).
 
 ## Machete
 
-Also see   [Wooden Machete](Wooden_Machete "wikilink"), [Stone
-Machete](Stone_Machete "wikilink"), [Copper
-Machete](Copper_Machete "wikilink"), [Iron
-Machete](Iron_Machete "wikilink"), [Diamond Edge
-Machete](Diamond_Edge_Machete "wikilink")
+Also see   [Wooden Machete](Recipaedia/Weapons/Wooden_Machete.md "wikilink"), [Stone
+Machete](Recipaedia/Weapons/Stone_Machete.md "wikilink"), [Copper
+Machete](Recipaedia/Weapons/Copper_Machete.md "wikilink"), [Iron
+Machete](Recipaedia/Weapons/Iron_Machete.md "wikilink"), [Diamond Edge
+Machete](Recipaedia/Weapons/Diamond_Edge_Machete.md "wikilink")
 
 **Description**
 
@@ -52,10 +52,10 @@ N/A, You cannot do any harm to your character using a Machete.
 
 ## Spear
 
-Also see [Wooden Spear](Wooden_Spear "wikilink"), [Stone
-Spear](Stone_Spear "wikilink"), [Copper Spear](Copper_Spear "wikilink"),
-[Iron Spear](Iron_Spear "wikilink"), [Diamond Tip
-Spear](Diamond_Tip_Spear "wikilink")
+Also see [Wooden Spear](Recipaedia/Weapons/Wooden_Spear.md "wikilink"), [Stone
+Spear](Recipaedia/Weapons/Stone_Spear.md "wikilink"), [Copper Spear](Recipaedia/Weapons/Copper_Spear.md "wikilink"),
+[Iron Spear](Recipaedia/Weapons/Iron_Spear.md "wikilink"), [Diamond Tip
+Spear](Recipaedia/Weapons/Diamond_Tip_Spear.md "wikilink")
 
 **Description**
 
@@ -91,13 +91,13 @@ using a boat.
 
 ## Bow and Arrow
 
-Also see [Bow](Bow "wikilink"), [Wooden Tip
-Arrow](Wooden_Tip_Arrow "wikilink"), [Stone Tip
-Arrow](Stone_Tip_Arrow "wikilink"), [Copper Tip
-Arrow](Copper_Tip_Arrow "wikilink"), [Iron Tip
-Arrow](Iron_Tip_Arrow "wikilink"), [Diamond Tip
-Arrow](Diamond_Tip_Arrow "wikilink"), [Fire
-Arrow](Fire_Arrow "wikilink")
+Also see [Bow](Recipaedia/Weapons/Bow.md "wikilink"), [Wooden Tip
+Arrow](Recipaedia/Weapons/Wooden_Tip_Arrow.md "wikilink"), [Stone Tip
+Arrow](Recipaedia/Weapons/Stone_Tip_Arrow.md "wikilink"), [Copper Tip
+Arrow](Recipaedia/Weapons/Copper_Tip_Arrow.md "wikilink"), [Iron Tip
+Arrow](Recipaedia/Weapons/Iron_Tip_Arrow.md "wikilink"), [Diamond Tip
+Arrow](Recipaedia/Weapons/Diamond_Tip_Arrow.md "wikilink"), [Fire
+Arrow](Recipaedia/Weapons/Fire_Arrow.md "wikilink")
 
 **Description**
 
@@ -123,15 +123,15 @@ No
 **Caution**
 
 Arrows can bounce off bricks and come back and hit you. [Fire Arrow
-can](Fire_Arrows "wikilink") hit and ignite flammable blocks, so be
+can](Recipaedia/Weapons/Fire_Arrows.md "wikilink") hit and ignite flammable blocks, so be
 careful or you might catch your buildings on [Fire](Fire "wikilink").
 
 ## Crossbow and Bolts
 
-Also see [Crossbow](Crossbow "wikilink"), [Iron
-Bolt](Iron_Bolt "wikilink"), [Diamond Tip Iron
-Bolt](Diamond_Tip_Iron_Bolt "wikilink"), [Explosive
-Bolt](Explosive_Bolt "wikilink")
+Also see [Crossbow](Recipaedia/Weapons/Crossbow.md "wikilink"), [Iron
+Bolt](Recipaedia/Weapons/Iron_Bolt.md "wikilink"), [Diamond Tip Iron
+Bolt](Recipaedia/Weapons/Diamond_Tip_Iron_Bolt.md "wikilink"), [Explosive
+Bolt](Recipaedia/Weapons/Explosive_Bolt.md "wikilink")
 
 **Description**
 
@@ -149,9 +149,9 @@ Ranged
 
 **Explosive?**
 
-[Crossbow](Crossbow "wikilink"), [Iron Bolt](Iron_Bolt "wikilink"),
-[Diamond Tip Iron Bolt](Diamond_Tip_Iron_Bolt "wikilink") = No /
-[Explosive Bolt](Explosive_Bolt "wikilink") = Yes.
+[Crossbow](Recipaedia/Weapons/Crossbow.md "wikilink"), [Iron Bolt](Recipaedia/Weapons/Iron_Bolt.md "wikilink"),
+[Diamond Tip Iron Bolt](Recipaedia/Weapons/Diamond_Tip_Iron_Bolt.md "wikilink") = No /
+[Explosive Bolt](Recipaedia/Weapons/Explosive_Bolt.md "wikilink") = Yes.
 
 **Ingredients**
 
@@ -160,14 +160,14 @@ Ranged
 **Caution**
 
 Bolts can bounce off bricks and come back and hit you. If an [Explosive
-Bolt](Explosive_Bolt "wikilink") explodes near you, the explosion can
+Bolt](Recipaedia/Weapons/Explosive_Bolt.md "wikilink") explodes near you, the explosion can
 injure you and/or catch you on [Fire](Fire "wikilink").
 
 ## Musket
 
-Also see [Musket](Musket "wikilink"), [Musket
-Ball](Musket_Ball "wikilink"), [Buckshot](Buckshot "wikilink"),
-[Buckshot Ball](Buckshot_Ball "wikilink")
+Also see [Musket](Recipaedia/Weapons/Musket.md "wikilink"), [Musket
+Ball](Recipaedia/Weapons/Musket_Ball.md "wikilink"), [Buckshot](Recipaedia/Weapons/Buckshot.md "wikilink"),
+[Buckshot Ball](Recipaedia/Weapons/Buckshot_Ball.md "wikilink")
 
 **Description**
 
@@ -198,7 +198,7 @@ firearm.
 
 ## Bombs
 
-Also see [Bomb](Bomb "wikilink") **Description**
+Also see [Bomb](Recipaedia/Weapons/Bomb.md "wikilink") **Description**
 
 A bomb is an explosive weapon that you throw. The have a 5 second fuse
 before they blow up.
@@ -218,12 +218,12 @@ Iron and Gunpowder
 **Caution**
 
 Be sure to put about 10 blocks between you and the
-[Bomb](Bomb "wikilink") or else, when it explodes, it can seriously
+[Bomb](Recipaedia/Weapons/Bomb.md "wikilink") or else, when it explodes, it can seriously
 injure you and/or catch you on [Fire](Fire "wikilink").
 
 ## Incendiary Bombs
 
-Also see [Incendiary Bomb](Incendiary_Bomb "wikilink") **Description**
+Also see [Incendiary Bomb](Recipaedia/Weapons/Incendiary_Bomb.md "wikilink") **Description**
 
 An incendiary bomb is similar to an ordinary bomb but deals less of an
 explosion but more flaming debris.
@@ -247,8 +247,8 @@ watch for flaming debris. Watch out for spreading fires.
 
 ## Gunpowder
 
-Also see [Gunpowder](Gunpowder "wikilink"), [Gunpowder
-Kegs](Gunpowder_Kegs "wikilink"). **Description**
+Also see [Gunpowder](Recipaedia/Items/Gunpowder.md "wikilink"), [Gunpowder
+Kegs](Recipaedia/Items/Gunpowder_Kegs.md "wikilink"). **Description**
 
 Gunpowder is an explosive item used to make explosives. It is very
 powerful and has a variety of uses including mining, scaring animals
@@ -268,8 +268,8 @@ Saltpeter, Sulfur, and Coal Chunks
 
 **Caution**
 
-[Gunpowder](Gunpowder "wikilink") and [Gunpowder
-Kegs](Gunpowder_Kegs "wikilink") have a huge area of explosion, so to
+[Gunpowder](Recipaedia/Items/Gunpowder.md "wikilink") and [Gunpowder
+Kegs](Recipaedia/Items/Gunpowder_Kegs.md "wikilink") have a huge area of explosion, so to
 remain safe, be sure you are a very good distance away. (Because of the
 pressure feature, It is almost impossible to get away from the blast
 zone if you set a large Gunpowder Keg in a cave. It is much safer to

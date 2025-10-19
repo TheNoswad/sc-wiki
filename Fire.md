@@ -18,18 +18,18 @@ dateCreated: 2025-10-12T23:48:44.382Z
 ## Description
 
 Fire is an entity found in Survivalcraft. You can light flammable
-blocks/items\* aflame with [matches](Match "wikilink"), [gunpowder
-kegs](Gunpowder_Kegs "wikilink"), [magma](Magma "wikilink"), [fire
-arrows](Fire_Arrows "wikilink"), [explosive
-bolts](Explosive_Bolt "wikilink"), and lightning (summoned in [creative
-mode](Creative_Gamemode "wikilink") only). [Animals](Animals "wikilink")
+blocks/items\* aflame with [matches](Recipaedia/Tools/Match.md "wikilink"), [gunpowder
+kegs](Recipaedia/Items/Gunpowder_Kegs.md "wikilink"), [magma](Magma "wikilink"), [fire
+arrows](Recipaedia/Weapons/Fire_Arrows.md "wikilink"), [explosive
+bolts](Recipaedia/Weapons/Explosive_Bolt.md "wikilink"), and lightning (summoned in [creative
+mode](Creative_Gamemode "wikilink") only). [Animals](Bestiary/Animals.md "wikilink")
 and the player can be set afire and may die if not extinguished by
 [water](Water "wikilink").
 
 If the animal normally drops meat when killed and dies while afire, the
 animal will drop **cooked** meat. If they normally drop
-[feathers](Feather "wikilink"), [saddles](Saddle "wikilink"),
-[leather](Leather "wikilink"), or [fur](Fur "wikilink"), these items
+[feathers](Recipaedia/Items/Feather.md "wikilink"), [saddles](Saddle "wikilink"),
+[leather](Recipaedia/Items/Leather.md "wikilink"), or [fur](Recipaedia/Clothes/Fur.md "wikilink"), these items
 burn up and will not be available to the player. 
 
 \* Each block/item's individual infobox specifies whether or not it is

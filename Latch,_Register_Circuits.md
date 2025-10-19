@@ -10,12 +10,12 @@ dateCreated: 2025-10-12T23:58:47.247Z
 
 Before reading this article, you should have a basic grasp of
 survivalcraft electrics and understand how the [Memory
-Bank](Memory_Bank "wikilink") works and how to program it. Also note
+Bank](Recipaedia/Electrics/Memory_Bank.md "wikilink") works and how to program it. Also note
 that in these circuits the clock input of the bank is NOT used to write
 to the banks, so the ‘funniness’ of writing is not necessary.
 
 It is always important to remember that the timing of the [memory
-bank’s](Memory_Bank "wikilink") CLOCK input and its relationship to
+bank’s](Recipaedia/Electrics/Memory_Bank.md "wikilink") CLOCK input and its relationship to
 other signals could be critical. It is very wise to have an
 understanding of synchronous systems, such as most computers, when
 designing with latches and registers.
@@ -143,7 +143,7 @@ the first row.
 
 ## Related Pages
 
-[Memory Bank](Memory_Bank "wikilink")
+[Memory Bank](Recipaedia/Electrics/Memory_Bank.md "wikilink")
 
 [Memory Arrays](Memory_Arrays "wikilink")
 

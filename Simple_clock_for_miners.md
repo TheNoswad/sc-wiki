@@ -11,7 +11,7 @@ dateCreated: 2025-10-13T00:13:08.366Z
 ## **Description**
 
 *If you are looking for REAL clock, go
-[here](Real_Time_Clock "wikilink").*
+[here](Recipaedia/Electrics/Real_Time_Clock.md "wikilink").*
 
 Exactly, it's not a clock at all. It just tells you if it's night or day
 outside. This is the most simple thing that you can make. It's useful in

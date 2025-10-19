@@ -11,7 +11,7 @@ dateCreated: 2025-10-12T23:59:32.738Z
 Level and Experience is a new mechanic introduced with Survivalcraft
 2.1, allows to your [Character](Character "wikilink") to become
 stronger, faster, more resilient and improving other parameters by
-acquiring [Experience Orbs](Experience_Orb "wikilink").
+acquiring [Experience Orbs](Recipaedia/Items/Experience_Orb.md "wikilink").
 
 ## Description (From Help)
 
@@ -79,16 +79,16 @@ from different methods.
         (only with copper, iron or diamond tools)
   - Killing Animals
       - Killing
-        [Duck](Duck "wikilink")/[Seagull](Seagull "wikilink")/[Raven](Raven "wikilink"):
+        [Duck](Duck "wikilink")/[Seagull](Bestiary/Seagull.md "wikilink")/[Raven](Bestiary/Raven.md "wikilink"):
         1 experience orb
-      - Killing [Wildboar](Wildboar "wikilink"): 3 experience orbs
+      - Killing [Wildboar](Bestiary/Wildboar.md "wikilink"): 3 experience orbs
       - Killing [Brown Bull](Brown_Bull "wikilink")/[Black
         Bull](Black_Bull "wikilink")/[White
         Bull](White_Bull "wikilink"): 4 experience orbs
       - Killing [Brown Cow](Brown_Cow "wikilink")/[Black
         Cow](Black_Cow "wikilink"): 3 experience orbs
       - Killing [Coyote](Coyote "wikilink"): 2 experience orbs
-      - Killing [Wolf](Wolf "wikilink")/[Hyena](Hyena "wikilink"): 3
+      - Killing [Wolf](Bestiary/Wolf.md "wikilink")/[Hyena](Hyena "wikilink"): 3
         experience orbs
       - Killing [Brown Bear](Brown_Bear "wikilink")/[Black
         Bear](Black_Bear "wikilink")/[Polar
@@ -104,7 +104,7 @@ from different methods.
       - Killing
         [Lion](Lion "wikilink")/[Jaguar](Jaguar "wikilink")/[Leopard](Leopard "wikilink"):
         3 experience orbs
-      - Killing [Reindeer](Reindeer "wikilink"): 2 experience orbs
+      - Killing [Reindeer](Bestiary/Reindeer.md "wikilink"): 2 experience orbs
       - Killing [Moose](Moose "wikilink"): 4 experience orbs
       - Killing [Bison](Bison "wikilink"): 4 experience orbs
       - Killing
@@ -112,9 +112,9 @@ from different methods.
         2 experience orbs
       - Killing [Gnu](Gnu "wikilink"): 3 experience orbs
       - Killing [Werewolf](Werewolf "wikilink"): 4 experience orbs
-      - Killing [Freshwater Bass](Freshwater_Bass "wikilink")/[Sea
-        Bass](Sea_Bass "wikilink"): 2 experience orbs
-      - Killing [Brown Ray](Brown_Ray "wikilink")/[Yellow
+      - Killing [Freshwater Bass](Bestiary/Freshwater_Bass.md "wikilink")/[Sea
+        Bass](Bestiary/Sea_Bass.md "wikilink"): 2 experience orbs
+      - Killing [Brown Ray](Bestiary/Brown_Ray.md "wikilink")/[Yellow
         Ray](Yellow_Ray "wikilink"): 2 experience orbs
       - Killing
         [Piranha](Piranha "wikilink")/[Barracuda](Bestiary/Barracuda.md "wikilink"):

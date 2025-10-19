@@ -25,8 +25,8 @@ the proper amount of blocks attached to it.
 
 ## Crafting
 
-It takes 1 [Copper Ingot](Copper_Ingot "wikilink") and a
-[Piston](Piston "wikilink") to craft 1 strict-pull piston.
+It takes 1 [Copper Ingot](Recipaedia/Items/Copper_Ingot.md "wikilink") and a
+[Piston](Recipaedia/Electrics/Piston.md "wikilink") to craft 1 strict-pull piston.
 
 <div style="overflow:hidden">
 
@@ -42,12 +42,12 @@ and the speed must be fast.
 ## Use
 
 Place the piston where you want it. It is a directional block like the
-[Dispenser](Dispenser "wikilink") and will be aimed at you when you
+[Dispenser](Recipaedia/Items/Dispenser.md "wikilink") and will be aimed at you when you
 place it.
 
 This piston is a special case and can be very useful in a wide variety
 of applications. It is necessary to make compact [Piston
-Lifts](Piston_Lifts "wikilink"). With this piston, some very complex
+Lifts](Guides/Piston_Lifts.md "wikilink"). With this piston, some very complex
 machines may be designed.
 
 You can think of it as having a 'block detector' built into it. Once
@@ -75,15 +75,15 @@ it will pull back.
 
 ## Notes
 
-  - See [the Piston page](Piston#Moveable_Items_Lists "wikilink") for
+  - See [the Piston page](Recipaedia/Electrics/Piston.md#Moveable_Items_Lists "wikilink") for
     the lists of piston-abled and piston-blocker items.
   - Pistons were added in V2.0
 
 ## Related Pages
 
-  - [Semiconductor Block](Semiconductor_Block "wikilink")
-  - [Pulling Piston](Pulling_Piston "wikilink")
-  - [Piston](Piston "wikilink")
+  - [Semiconductor Block](Recipaedia/Construction/Semiconductor_Block.md "wikilink")
+  - [Pulling Piston](Recipaedia/Electrics/Pulling_Piston.md "wikilink")
+  - [Piston](Recipaedia/Electrics/Piston.md "wikilink")
 
 [Category:Electrics](Category:Electrics "wikilink")
 [Category:Electricity](Category:Electricity "wikilink")

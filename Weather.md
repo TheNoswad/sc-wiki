@@ -102,7 +102,7 @@ lightning has an explosion damage of up to at least 20.
 
 ## Notes
 
-  - See [Clothing](Clothing "wikilink") and [Body
+  - See [Clothing](Recipaedia/Clothes/Clothing.md "wikilink") and [Body
     Temperature](Body_Temperature "wikilink") for protection against
     being cold and wet.
   - Despite rainfall being[water](water "wikilink"), it doesn't

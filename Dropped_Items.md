@@ -32,7 +32,7 @@ such as glass, will drop nothing.
 
 Animals can also drop items. When an animal is killed, it may drop meat,
 [fur](fur "wikilink"), [leather](leather "wikilink"), a
-[saddle](saddle "wikilink"), or [feathers](Feather "wikilink")\*\*\*.
+[saddle](saddle "wikilink"), or [feathers](Recipaedia/Items/Feather.md "wikilink")\*\*\*.
 When birds are alive, they may drop [eggs](eggs "wikilink") randomly
 (but only on softer terrain).
 
@@ -55,9 +55,9 @@ may become dropped items that you may pick up.
 
   - 1.0- Initial release. Items could be dropped to make room in
     inventory.
-  - 1.22- [Animals](Animals "wikilink") eat food that is dropped.
+  - 1.22- [Animals](Bestiary/Animals.md "wikilink") eat food that is dropped.
   - 1.25- Dropped explosives will explode when dropped in fire,
-    [magma](magma "wikilink") or in a [Campfire](Campfire "wikilink").
+    [magma](magma "wikilink") or in a [Campfire](Recipaedia/Items/Campfire.md "wikilink").
 
 ## Related Pages
 

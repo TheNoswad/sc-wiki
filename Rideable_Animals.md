@@ -138,7 +138,7 @@ zero when the world loads, so you should not feed before quitting.
 ## Related Pages
 
   - [Herding](Herding "wikilink")
-  - [Cattle Farming](Cattle_Farming "wikilink")
+  - [Cattle Farming](Guides/Cattle_Farming.md "wikilink")
 
 [Category:Tips and Guides](Category:Tips_and_Guides "wikilink")
 [Category:Concepts](Category:Concepts "wikilink")

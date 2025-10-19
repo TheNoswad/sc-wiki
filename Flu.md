@@ -36,7 +36,7 @@ cold.*
 
 ## Recommendations
 
-Keep a [campfire](Campfire "wikilink") on you\! They are very cheap to
+Keep a [campfire](Recipaedia/Items/Campfire.md "wikilink") on you\! They are very cheap to
 make and warm you up quickly. Avoid being wet. Layer your clothes.
 
 ## Related Pages

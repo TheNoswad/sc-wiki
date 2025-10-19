@@ -41,7 +41,7 @@ Spruce and Mimosa.
 
   - Wood can be used as a building material
   - Each block can be made into 4 [planks](planks "wikilink")
-  - Leaves can be made into [grass traps](Grass_Trap "wikilink")
+  - Leaves can be made into [grass traps](Recipaedia/Items/Grass_Trap.md "wikilink")
   - Leaves can be crafted into [saplings](Recipaedia/Plants/Oak_Sapling.md "wikilink")
   - Only tree bearing [ivy](ivy "wikilink")
 
@@ -90,7 +90,7 @@ Spruce and Mimosa.
 
   - Wood can be used as building material
   - Each block can be made into 4 [planks](planks "wikilink")
-  - Leaves can be made into [christmas trees](Christmas_Tree "wikilink")
+  - Leaves can be made into [christmas trees](Recipaedia/Items/Christmas_Tree.md "wikilink")
   - Leaves can be crafted into [saplings](Recipaedia/Plants/Spruce_Sapling.md "wikilink")
 
 ### Tall Spruce Trees
@@ -210,7 +210,7 @@ but most commonly in forests and jungles.
 Oceans are deep bodies of water in Survival Craft found off of the shore
 where you are first abandoned when you start a new world. They can
 contain[islands](Islands "wikilink") and have certain animals living in
-them. [Orcas](Orca "wikilink"), [sharks](Shark "wikilink"), rays, bass,
+them. [Orcas](Orca "wikilink"), [sharks](Bestiary/Shark.md "wikilink"), rays, bass,
 and[piranhas](Piranha "wikilink") all call the ocean home.
 
 <div style=" overflow: hidden ">
@@ -224,7 +224,7 @@ and[piranhas](Piranha "wikilink") all call the ocean home.
 Graves are most commonly (80%) found 1-5 at a time, but occasionally
 (20%) you will find a graveyard consisting of 6-20 graves. If you dig up
 the graves, you can find items such as: [wicker
-lamps](Wicker_Lamp "wikilink"), [torches](Torch "wikilink"),
+lamps](Recipaedia/Items/Wicker_Lamp.md "wikilink"), [torches](Recipaedia/Items/Torch.md "wikilink"),
 [saddles](Saddle "wikilink"), diamond tools, etc. You can find the
 complete list on page [Treasure
 Generator](Treasure_Generator "wikilink").
@@ -256,8 +256,8 @@ not been observed in other blocks.
 
 Grasspits are found most commonly in wastelands and snowy habitats. They
 can be 3 to 5 blocks deep, 2 to 5 blocks long, 2 to 5 blocks wide and
-are completely covered by [Grass Traps](Grass_Trap "wikilink"). A half
-of them have [spiked planks](Spiked_Plank "wikilink") on the bottom, a
+are completely covered by [Grass Traps](Recipaedia/Items/Grass_Trap.md "wikilink"). A half
+of them have [spiked planks](Recipaedia/Items/Spiked_Plank.md "wikilink") on the bottom, a
 third of which are activated. They are hard to spot, as they can have
 [flowers](Recipaedia/Plants/Red_Flower.md "wikilink"), [pumpkins](Recipaedia/Plants/Pumpkin.md "wikilink"), etc.
 growing on top of them and blend with the [grass](grass "wikilink") very

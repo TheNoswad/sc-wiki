@@ -27,7 +27,7 @@ any other ingredient,this is the cheapest, put in as much as you want to
 destroy but \>7)
 
 An item of [gunpowder](gunpowder "wikilink") or a small, medium or large
-[gunpowder keg](Gunpowder_Kegs "wikilink") (depends on the size of the
+[gunpowder keg](Recipaedia/Items/Gunpowder_Kegs.md "wikilink") (depends on the size of the
 explosion you want)
 
 A [furnace](furnace "wikilink")

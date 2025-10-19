@@ -40,7 +40,7 @@ table, place it somewhere in the world and click on it.*
 You open the personal crafting area by touching the crafting button on
 the screen. This is the button with the four squares. See the [GUI
 page](Onscreen_Buttons/GUI "wikilink") for more information. You open
-the [crafting table](Crafting_Table "wikilink") by tapping on it when
+the [crafting table](Recipaedia/Items/Crafting_Table.md "wikilink") by tapping on it when
 you are close enough. The crafting window is similar for both. See the
 pictures below.
 
@@ -66,7 +66,7 @@ area.
     must have all the materials in your
     [inventory](Onscreen_Buttons/GUI "wikilink").
 3.  Exit the recipaedia and return to gameplay.
-4.  Open the [crafting table](Crafting_Table "wikilink") or the
+4.  Open the [crafting table](Recipaedia/Items/Crafting_Table.md "wikilink") or the
     handcrafting grid and place the specified materials in the pattern
     shown in the recipaedia.
 5.  When the pattern is correct, your item will appear at the bottom of
@@ -82,9 +82,9 @@ area.
 
 The 2x2 crafting area is also called handcrafting because you do not
 need a [workbench](workbench "wikilink") to use it. You can only make
-rather simple items like [sticks](Stick "wikilink"), [wooden
-planks](Planks "wikilink"), [crafting
-tables](Crafting_Table "wikilink"), etc.
+rather simple items like [sticks](Recipaedia/Items/Stick.md "wikilink"), [wooden
+planks](Recipaedia/Construction/Planks.md "wikilink"), [crafting
+tables](Recipaedia/Items/Crafting_Table.md "wikilink"), etc.
 
 If your inventory is full, you can even use the 4 slots in the personal
 crafting area as additional storage. However, you will NOT be able to
@@ -101,30 +101,30 @@ Workbench:
 
 Here is the list of things you can handcraft:
 
-[Planks](Planks "wikilink"), [Sticks](Stick "wikilink"),
-[Torch](Torch "wikilink"), [Campfire](Campfire "wikilink"),
-[Workbench](Workbench "wikilink"), [Match](Match "wikilink"),
-[Whistle](Whistle "wikilink"), [Jack O'
+[Planks](Recipaedia/Construction/Planks.md "wikilink"), [Sticks](Recipaedia/Items/Stick.md "wikilink"),
+[Torch](Recipaedia/Items/Torch.md "wikilink"), [Campfire](Recipaedia/Items/Campfire.md "wikilink"),
+[Workbench](Recipaedia/Items/Workbench.md "wikilink"), [Match](Recipaedia/Tools/Match.md "wikilink"),
+[Whistle](Recipaedia/Tools/Whistle.md "wikilink"), [Jack O'
 Lantern](Jack_O'_Lantern "wikilink"), [Pumpkin
 Seeds](Recipaedia/Plants/Pumpkin_Seeds.md "wikilink"), [Tall Grass
 Seeds](Recipaedia/Plants/Tall_Grass_Seeds.md "wikilink"), all Flower Seeds, all Saplings,
-[Dough](Dough "wikilink"), [Wooden Tip
-Arrow](Wooden_Tip_Arrow "wikilink"), [Diamond Tip
-Arrow](Diamond_Tip_Arrow "wikilink"), [Fire
-Arrow](Fire_Arrow "wikilink"), [Iron Bolt](Iron_Bolt "wikilink"),
-[Diamond Tip Iron Bolt](Diamond_Tip_Iron_Bolt "wikilink"), [Explosive
-Bolt](Explosive_Bolt "wikilink"), [Musket Ball](Musket_Ball "wikilink"),
-[Buckshot](Buckshot "wikilink"), [Buckshot
-Ball](Buckshot_Ball "wikilink"), [Shorts](Shorts "wikilink"),
-[Socks](Socks "wikilink"), [Leather
-Sandals](Leather_Sandals "wikilink"), [Leather
-Boots](Leather_Boots "wikilink"), [Electric
-Wire](Electric_Wire "wikilink"), [Stone
-Bricks](Stone_Bricks "wikilink"), [Brick Wall](Brick_Wall "wikilink")
+[Dough](Recipaedia/Food/Dough.md "wikilink"), [Wooden Tip
+Arrow](Recipaedia/Weapons/Wooden_Tip_Arrow.md "wikilink"), [Diamond Tip
+Arrow](Recipaedia/Weapons/Diamond_Tip_Arrow.md "wikilink"), [Fire
+Arrow](Recipaedia/Weapons/Fire_Arrow.md "wikilink"), [Iron Bolt](Recipaedia/Weapons/Iron_Bolt.md "wikilink"),
+[Diamond Tip Iron Bolt](Recipaedia/Weapons/Diamond_Tip_Iron_Bolt.md "wikilink"), [Explosive
+Bolt](Recipaedia/Weapons/Explosive_Bolt.md "wikilink"), [Musket Ball](Recipaedia/Weapons/Musket_Ball.md "wikilink"),
+[Buckshot](Recipaedia/Weapons/Buckshot.md "wikilink"), [Buckshot
+Ball](Recipaedia/Weapons/Buckshot_Ball.md "wikilink"), [Shorts](Recipaedia/Clothes/Shorts.md "wikilink"),
+[Socks](Recipaedia/Clothes/Socks.md "wikilink"), [Leather
+Sandals](Recipaedia/Clothes/Leather_Sandals.md "wikilink"), [Leather
+Boots](Recipaedia/Clothes/Leather_Boots.md "wikilink"), [Electric
+Wire](Recipaedia/Electrics/Electric_Wire.md "wikilink"), [Stone
+Bricks](Stone_Bricks "wikilink"), [Brick Wall](Recipaedia/Construction/Brick_Wall.md "wikilink")
 
 ## 3x3 Crafting
 
-Using the [Workbench](Workbench "wikilink"), you have a 3x3 crafting
+Using the [Workbench](Recipaedia/Items/Workbench.md "wikilink"), you have a 3x3 crafting
 area and can make more complex tools, items, etc. All crafted items may
 be made through the crafting table.
 

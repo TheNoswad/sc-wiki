@@ -9,7 +9,7 @@ dateCreated: 2025-10-13T00:21:18.260Z
 ---
 
 ![Imagensjs.jpg](Imagensjs.jpg "Imagensjs.jpg") 1. **Clothes**-
-[Clothes](Clothing "wikilink") are the most important thing to have
+[Clothes](Recipaedia/Clothes/Clothing.md "wikilink") are the most important thing to have
 considering temperature is the quickest killing survival effect in the
 game\! Always have a pair of clothes on and if you're on a long trip
 bring an extra pair in case those wear out. Certain layers can be worn

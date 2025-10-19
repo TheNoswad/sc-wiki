@@ -20,8 +20,8 @@ of the game when the ship maroons you. It goes under any shirt.
 
 ## Related pages
 
-  - [Old Shirt](Old_Shirt "wikilink")
-  - [Old Pants](Old_Pants "wikilink")
-  - [Old Hat](Old_Hat "wikilink")
+  - [Old Shirt](Recipaedia/Clothes/Old_Shirt.md "wikilink")
+  - [Old Pants](Recipaedia/Clothes/Old_Pants.md "wikilink")
+  - [Old Hat](Recipaedia/Clothes/Old_Hat.md "wikilink")
 
 [Category:Clothing](Category:Clothing "wikilink")

@@ -34,8 +34,8 @@ summon the animal with a whistle.
 **Walk Speed:** How fast does the animal walk?
 
 **Fly Speed:** How fast does the animal fly? \[Only used by
-[Raven](Raven "wikilink"), [Duck](Duck "wikilink"), and
-[Seagull](Seagull "wikilink")\]
+[Raven](Bestiary/Raven.md "wikilink"), [Duck](Duck "wikilink"), and
+[Seagull](Bestiary/Seagull.md "wikilink")\]
 
 **Swim Speed:** How fast does the animal swim?
 

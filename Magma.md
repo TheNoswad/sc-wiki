@@ -13,7 +13,7 @@ __NOTOC__ __NOEDITSECTION__
 ## Description
 
 Magma is a block in Survivalcraft that is unobtainable. Despite being
-able to transport and obtain into [buckets](Bucket "wikilink"), it is
+able to transport and obtain into [buckets](Recipaedia/Tools/Bucket.md "wikilink"), it is
 not the original block. Magma is really risky when going underground.
 Magma spawns in pools of granite or basalt but more commonly basalt. It
 is a really bad idea to pour magma in your house as it can kill you in

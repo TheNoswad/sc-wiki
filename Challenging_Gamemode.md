@@ -30,7 +30,7 @@ the second hardest gamemode.
     are provoked more easily than in [Harmless
     mode](Harmless_Gamemode "wikilink"). Simply touching a hostile
     animal will cause them to attack you.
-  - Animals cannot be easily set afire with [Matches](Match "wikilink").
+  - Animals cannot be easily set afire with [Matches](Recipaedia/Tools/Match.md "wikilink").
   - Sleep is necessary every 2 days. Without it, you may faint - usually
     when in a dangerous situation.
   - [Tools](http://survivalcraftgame.wikia.com/wiki/Category:Tools) and

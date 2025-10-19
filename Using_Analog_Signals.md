@@ -19,7 +19,7 @@ A digital output can only be 2 values. Either it is a 0 or a 1. This is
 called a binary signal, since bi- means two. A 'pure' digital input is
 one that has a specific yes/no response and that means either it does
 something or it doesn't. The digital input also does not 'pass through'
-an analog value.  An [LED](LED "wikilink") is an example of a pure
+an analog value.  An [LED](Recipaedia/Electrics/LED.md "wikilink") is an example of a pure
 digital input. All the inputs on an SR latch are pure digital. When an
 analog signal goes into a digital input, it will be treated as a 0 only
 if it is *less than* 0.8 Volts.
@@ -207,8 +207,8 @@ it's treated as a 0. If it's '8' or higher, it's treated as a 1. A
 'pure' digital input only looks at the first, highest bit.
 
 The only known exceptions to this rule at this time are the [Memory
-Bank](Memory_Bank "wikilink") clock input and the [Sound
-Generator](Sound_Generator "wikilink") tone input. These are true hybrid
+Bank](Recipaedia/Electrics/Memory_Bank.md "wikilink") clock input and the [Sound
+Generator](Recipaedia/Electrics/Sound_Generator.md "wikilink") tone input. These are true hybrid
 inputs and actually serve two separate digital functions and depend on
 the hybrid nature of the Survivalcraft electric signals to accomplish
 that. See those pages for more details.

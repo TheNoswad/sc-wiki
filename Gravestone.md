@@ -17,7 +17,7 @@ land.*
 
 ## Crafting
 
-Gravestones are made from [cobblestone slabs](Stone_Slab "wikilink") and
+Gravestones are made from [cobblestone slabs](Recipaedia/Construction/Stone_Slab.md "wikilink") and
 [granite](granite "wikilink")/[cobblestone](cobblestone "wikilink")
 blocks.
 

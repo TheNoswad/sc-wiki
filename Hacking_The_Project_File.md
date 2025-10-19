@@ -889,7 +889,7 @@ colors of each line are listed similarly. "Color1" is the color of the
 text in Line1, etc.
 
 The line "Url" holds the web address the sign will open if tapped in
-adventure mode. (See [Sign](Sign "wikilink").)
+adventure mode. (See [Sign](Recipaedia/Items/Sign.md "wikilink").)
 
 #### Custom text colors
 
@@ -1163,11 +1163,11 @@ program) contains all the possible block data.
 I propose to supplement this list as follows: ID, subroutines to set
 data, interesting values.
 
-  - 77 - [Raw Bird](Raw_Bird "wikilink"), stale - 262221
-  - 78 - [Cooked Bird](Cooked_Bird "wikilink"), stale - 262222
-  - 88 - [Raw Meat](Raw_Meat "wikilink"), stale - 262232
-  - 89 - [Cooked Meat](Cooked_Meat "wikilink"), stale - 262233
-  - 110 - [Milk](Milk "wikilink"), stale - 262254
+  - 77 - [Raw Bird](Recipaedia/Food/Raw_Bird.md "wikilink"), stale - 262221
+  - 78 - [Cooked Bird](Recipaedia/Food/Cooked_Bird.md "wikilink"), stale - 262222
+  - 88 - [Raw Meat](Recipaedia/Food/Raw_Meat.md "wikilink"), stale - 262232
+  - 89 - [Cooked Meat](Recipaedia/Food/Cooked_Meat.md "wikilink"), stale - 262233
+  - 110 - [Milk](Recipaedia/Food/Milk.md "wikilink"), stale - 262254
   - 118 - [Eggs](Eggs "wikilink")
 
 | Value      | Description                |
@@ -1234,8 +1234,8 @@ data, interesting values.
 | 131203 | Dead Size: 7 Pumpkin              |
 | 393347 | Dead Stale Size: 7 Pumpkin        |
 
-  - 161 - [Raw Fish](Raw_Fish "wikilink"), stale - 262305
-  - 162 - [Cooked Fish](Cooked_Fish "wikilink"), stale - 262306
+  - 161 - [Raw Fish](Recipaedia/Food/Raw_Fish.md "wikilink"), stale - 262305
+  - 162 - [Cooked Fish](Recipaedia/Food/Cooked_Fish.md "wikilink"), stale - 262306
   - 168 - [Soil](Recipaedia/Terrain/Soil.md "wikilink")
 
 | Value  | Description               |
@@ -1270,7 +1270,7 @@ data, interesting values.
 | 114862 | Size: 7 Rye      |
 | 245934 | Size: 7 Wild Rye |
 
-  - 177 - [Bread](Bread "wikilink"), stale - 262321
+  - 177 - [Bread](Recipaedia/Food/Bread.md "wikilink"), stale - 262321
   - 204 - [Cotton](Recipaedia/Plants/Cotton.md "wikilink")
 
 | Value  | Description         |
@@ -1282,10 +1282,10 @@ data, interesting values.
 | 32972  | Size: 2 Cotton      |
 | 164044 | Size: 2 Wild Cotton |
 
-  - 239 - [Rotten Bird](Rotten_Bird "wikilink"), stale - 262383
-  - 240 - [Rotten Meat](Rotten_Meat "wikilink"), stale - 262384
-  - 241 - [Rotten Fish](Rotten_Fish "wikilink"), stale - 262385
-  - 242 - [Moldy Bread](Moldy_Bread "wikilink"), stale - 262386
+  - 239 - [Rotten Bird](Recipaedia/Food/Rotten_Bird.md "wikilink"), stale - 262383
+  - 240 - [Rotten Meat](Recipaedia/Food/Rotten_Meat.md "wikilink"), stale - 262384
+  - 241 - [Rotten Fish](Recipaedia/Food/Rotten_Fish.md "wikilink"), stale - 262385
+  - 242 - [Moldy Bread](Recipaedia/Food/Moldy_Bread.md "wikilink"), stale - 262386
   - 244 - [Rotten Pumpkin](Recipaedia/Plants/Rotten_Pumpkin.md "wikilink")
 
 | Value  | Description                        |
