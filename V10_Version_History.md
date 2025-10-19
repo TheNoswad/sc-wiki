@@ -33,7 +33,7 @@ blog. 
   - [Red Flower](Recipaedia/Plants/Red_Flower.md "wikilink")
   - [White Flower](Recipaedia/Plants/White_Flower.md "wikilink")
   - [Purple Flower](Recipaedia/Plants/Purple_Flower.md "wikilink")
-  - [Water](Water "wikilink")
+  - [Water](Recipaedia/Terrain/Water.md "wikilink")
   - [Granite](Recipaedia/Terrain/Granite.md "wikilink")
   - [Cobblestone](Recipaedia/Construction/Cobblestone.md "wikilink")
   - [Sand](Recipaedia/Terrain/Sand.md "wikilink")
@@ -146,7 +146,7 @@ blog. 
   - New save format to fix slowdowns on large worlds
   - Fixed a bug with erratic jump behavior
   - Added [clay](clay "wikilink") at the bottoms of
-    [lakes](Generated_Structures "wikilink")
+    [lakes](Recipaedia/Construction/Mechanics/Generated_Structures.md "wikilink")
   - Added [Bricks](Recipaedia/Items/Brick.md "wikilink"), [brick
     blocks](Recipaedia/Construction/Brick_Wall.md "wikilink"), [brick
     stairs](Recipaedia/Construction/Brick_Stairs.md "wikilink") , [brick
@@ -162,18 +162,18 @@ blog. 
   - Birds added: [duck](duck "wikilink"), [seagull](seagull "wikilink")
     and [raven](raven "wikilink")
   - Melee capability added
-  - [Throwing capability added](Throwable_items "wikilink")
+  - [Throwing capability added](Mechanics/Throwable_items.md "wikilink")
   - Food added: [raw](Recipaedia/Food/Raw_Bird.md "wikilink") and [cooked
     bird](Recipaedia/Food/Cooked_Bird.md "wikilink")
   - [Eating restores health, health no longer
-    regenerates](Health_and_Damage_System "wikilink")
+    regenerates](Recipaedia/Construction/Mechanics/Health_and_Damage_System.md "wikilink")
   - [Wooden spear](Recipaedia/Weapons/Wooden_Spear.md "wikilink"), [stone
     spear](Recipaedia/Weapons/Stone_Spear.md "wikilink"), and [iron
     spear](Recipaedia/Weapons/Iron_Spear.md "wikilink") added
   - [Stone chunks](Recipaedia/Terrain/Stone_Chunk.md "wikilink") for throwing added
   - Stone skipping on water added
-  - [Worlds now have larger biomes](Terrain "wikilink")
-  - [World names are](New_World_Names "wikilink") randomized
+  - [Worlds now have larger biomes](Mechanics/Terrain.md "wikilink")
+  - [World names are](Technical/New_World_Names.md "wikilink") randomized
   - [World seed](Guides/List_of_the_Best_Seeds.md "wikilink") displayed in game
     menu
   - Trial period extended to 25 minutes
@@ -185,7 +185,7 @@ blog. 
   - Fixed a bug with loading old worlds
   - Slowed down the[spears a](Recipaedia/Weapons/Wooden_Spear.md "wikilink") bit
   - Fixed a bug with self-stabbing in sneak mode
-  - Reinstated [health](Health_and_Damage_System "wikilink")
+  - Reinstated [health](Recipaedia/Construction/Mechanics/Health_and_Damage_System.md "wikilink")
     regeneration
 
 #### 1.7
@@ -206,12 +206,12 @@ blog. 
   - Added [wildboar](wildboar "wikilink")
   - Added[raw bacon](Recipaedia/Food/Raw_Bacon.md "wikilink") and [cooked
     bacon](Recipaedia/Food/Cooked_Bacon.md "wikilink")
-  - [Water](Water "wikilink") current now carries character, creatures
+  - [Water](Recipaedia/Terrain/Water.md "wikilink") current now carries character, creatures
     and pickables
   - Reduced trial back to 15 minutes
-  - Added 3 game modes: [Harmless](Harmless_Gamemode "wikilink"),
-    [Challenging](Challenging_Gamemode "wikilink") and
-    [Cruel](Cruel_Gamemode "wikilink")
+  - Added 3 game modes: [Harmless](Recipaedia/Construction/Mechanics/Harmless_Gamemode.md "wikilink"),
+    [Challenging](Recipaedia/Construction/Mechanics/Challenging_Gamemode.md "wikilink") and
+    [Cruel](Recipaedia/Construction/Mechanics/Cruel_Gamemode.md "wikilink")
   - Reduced amount of [basalt](basalt "wikilink")
   - More [iron](Recipaedia/Minerals/Iron_Ore.md "wikilink") and
     [malachite](Recipaedia/Minerals/Copper_Ore.md "wikilink") is generated
@@ -228,14 +228,14 @@ blog. 
   - Added [magma](magma "wikilink")
   - Certain blocks will not drop items when wrong tools are used
   - Birds will fly away instantly after getting hit
-  - Added [creative mode](Creative_Gamemode "wikilink")
+  - Added [creative mode](Recipaedia/Construction/Mechanics/Creative_Gamemode.md "wikilink")
   - Changed lighting to make the [terrain](terrain "wikilink") brighter
   - Added world renaming
   - Added changing of game mode
   - Added renaming of worlds
   - World name and directory name are no longer the same
-  - [Terrain](Terrain "wikilink") generation tweaks
-  - Fixed a bug with blocked [cave](Generated_Structures "wikilink")
+  - [Terrain](Mechanics/Terrain.md "wikilink") generation tweaks
+  - Fixed a bug with blocked [cave](Recipaedia/Construction/Mechanics/Generated_Structures.md "wikilink")
     entrances
   - Added logging of perf information to analytics
 
@@ -256,14 +256,14 @@ blog. 
 
 (Released in April 19, 2012)
 
-  - Massive[terrain](Terrain "wikilink") vertex data generation speedup
+  - Massive[terrain](Mechanics/Terrain.md "wikilink") vertex data generation speedup
   - Dialogboxes back button fixed
   - [Black bulls](Black_Bull "wikilink"), [brown
     bulls](Brown_Bull "wikilink") and rare [white
     bulls](White_Bull "wikilink") added
   - [Signs](Recipaedia/Items/Sign.md "wikilink") added
   - Weblink signs added
-  - [Adventure Mode](Adventure_Gamemode "wikilink") added
+  - [Adventure Mode](Recipaedia/Construction/Mechanics/Adventure_Gamemode.md "wikilink") added
   - [Sulphur ore](Recipaedia/Minerals/Sulphur_Ore.md "wikilink") and [sulphur
     chunks](Recipaedia/Minerals/Sulphur_Chunk.md "wikilink") added
   - [Saltpeter ore](Recipaedia/Minerals/Saltpeter_Ore.md "wikilink") and [saltpeter
@@ -273,11 +273,11 @@ blog. 
 
 (Released in May 20, 2012)
 
-  - [Magma](Magma "wikilink") is fluid
-  - [Fire](Fire "wikilink") added
+  - [Magma](Recipaedia/Terrain/Magma.md "wikilink") is fluid
+  - [Fire](Recipaedia/Fire.md "wikilink") added
   - Setting of [animals](animals "wikilink") on fire added
   - [Matches](Recipaedia/Tools/Match.md "wikilink") added
-  - [Lighting and](Weather "wikilink") shadows improved
+  - [Lighting and](Mechanics/Weather.md "wikilink") shadows improved
 
 #### 1.12
 
@@ -289,7 +289,7 @@ blog. 
   - Adjustable creative mode dig time
   - [Black cows](Black_Cow "wikilink") & [brown
     cows](Brown_Cow "wikilink") added
-  - [Herding](Herding "wikilink")
+  - [Herding](Recipaedia/Construction/Mechanics/Herding.md "wikilink")
   - Milking and [milk bucket](Recipaedia/Tools/Milk_Bucket.md "wikilink")
   - Autojump fixed (does not trigger on animal collision)
 
@@ -305,7 +305,7 @@ blog. 
   - Added stars
   - [Animals](Creatures "wikilink") now remain even if you leave the
     area
-  - Added [Eggs](Egg "wikilink") and birds laying them
+  - Added [Eggs](Recipaedia/Egg.md "wikilink") and birds laying them
   - Added creature spawners
   - Added [compass](compass "wikilink")
   - Added [grass](grass "wikilink") growth
@@ -332,7 +332,7 @@ blog. 
 (Released in August 25, 2012)
 
   - UI rendering engine rewritten to improve performance
-  - [Terrain](Terrain "wikilink") rendering refactored to improve
+  - [Terrain](Mechanics/Terrain.md "wikilink") rendering refactored to improve
     performance (up to 65%)
   - Added [black](Black_Bear "wikilink") and [brown
     bears](Brown_Bear "wikilink")
@@ -348,11 +348,11 @@ blog. 
     [stone](Recipaedia/Weapons/Stone_Machete.md "wikilink"), [iron](Recipaedia/Weapons/Iron_Machete.md "wikilink")
     and [diamond edge](Recipaedia/Weapons/Diamond_Edge_Machete.md "wikilink"))
   - Added [diamond blocks](Recipaedia/Construction/Solid_Diamond_Block.md "wikilink")
-  - [Water](Water "wikilink") and [magma](magma "wikilink") can be
+  - [Water](Recipaedia/Terrain/Water.md "wikilink") and [magma](magma "wikilink") can be
     customized through texture packs
-  - [Water](Water "wikilink") and [magma](Recipaedia/Tools/Bucket_of_lava.md "wikilink")
+  - [Water](Recipaedia/Terrain/Water.md "wikilink") and [magma](Recipaedia/Tools/Bucket_of_lava.md "wikilink")
     bucket are now animated
-  - Added [adventure mode](Adventure_Gamemode "wikilink") restart to
+  - Added [adventure mode](Recipaedia/Construction/Mechanics/Adventure_Gamemode.md "wikilink") restart to
     game menu
   - Fixed a bug with plant growth deleting objects
   - Added [cacti](Recipaedia/Plants/Cactus.md "wikilink")
@@ -364,14 +364,14 @@ blog. 
   - Optimized [terrain](terrain "wikilink") generation to be smoother
   - Skipping generation of terrain geometry for out of range chunks
   - RestSharp/DropNet added as source, fixed RestSharp error on PC
-  - Added [falling blocks](Falling_Blocks "wikilink")
+  - Added [falling blocks](Recipaedia/Construction/Mechanics/Falling_Blocks.md "wikilink")
   - Optimized autosaving, moved to background thread
   - Added [living/static
     environment](Static/Living_Environments "wikilink") behavior modes
   - Optimized creature spawning CPU usage
   - Fixed smooth fade of chunks
-  - Added [white pigment](White_Pigment "wikilink")
-  - Added [painted planks](Painting "wikilink") in 16 colors
+  - Added [white pigment](Recipaedia/Items/White_Pigment.md "wikilink")
+  - Added [painted planks](Mechanics/Painting.md "wikilink") in 16 colors
   - Added [paint bucket](Recipaedia/Tools/Paint_Bucket.md "wikilink") in 16 colors
   - Fixed memory leak in WidgetsManager
   - Reduced memory allocations frequency
@@ -419,14 +419,14 @@ blog. 
 
   - Made [ingots](Recipaedia/Items/Copper_Ingot.md "wikilink") use 3d models
   - Spears stick into wood and other soft blocks
-  - [Rainfall](Weather "wikilink") added
-  - [Snowfall](Weather "wikilink") added
-  - [Thunderstorms](Weather "wikilink") added
+  - [Rainfall](Mechanics/Weather.md "wikilink") added
+  - [Snowfall](Mechanics/Weather.md "wikilink") added
+  - [Thunderstorms](Mechanics/Weather.md "wikilink") added
   - Fixed[Large Dry Bush](Recipaedia/Plants/Large_Dry_Bush.md "wikilink") not disappearing
     when support was removed
   - [Snow](Recipaedia/Terrain/Snow.md "wikilink") deposits on empty spaces
-    during[snowfall](Weather "wikilink")
-  - [Water](Water "wikilink") freezes into [icein](ice "wikilink") cold
+    during[snowfall](Mechanics/Weather.md "wikilink")
+  - [Water](Recipaedia/Terrain/Water.md "wikilink") freezes into [icein](ice "wikilink") cold
     areas
   - [Icethaws](Recipaedia/Terrain/Ice.md "wikilink") into [waterin](water "wikilink") warm
     areas
@@ -449,7 +449,7 @@ blog. 
 (Released in December 18, 2012)
 
   - Eliminated UI block during world upload
-  - Fixed [rain not](Weather "wikilink") affected by global volume
+  - Fixed [rain not](Mechanics/Weather.md "wikilink") affected by global volume
   - Added electricity system
   - Added [electric wires](Recipaedia/Electrics/Electric_Wire.md "wikilink")
   - Added electric gates ([and](Recipaedia/Electrics/Logic_AND_Gate.md "wikilink"),
@@ -467,7 +467,7 @@ blog. 
   - Made [trapdoors react](Recipaedia/Items/Cell_Trapdoor.md "wikilink") to electricity
   - Added upside-down[trapdoors](Recipaedia/Items/Wooden_Trapdoor.md "wikilink")
   - Upside-down [trapdoors](Recipaedia/Items/Cell_Trapdoor.md "wikilink") stop [falling
-    blocks](Falling_Blocks "wikilink")
+    blocks](Recipaedia/Construction/Mechanics/Falling_Blocks.md "wikilink")
   - Made [gunpowder kegs](Recipaedia/Items/Gunpowder_Kegs.md "wikilink") react to
     electricity
   - Made [spiked planks](Recipaedia/Items/Spiked_Plank.md "wikilink") react to electricity
@@ -485,14 +485,14 @@ blog. 
   - Made[thermometer and](Recipaedia/Tools/Thermometer.md "wikilink") [hygrometer
     drop](Recipaedia/Tools/Hydrometer.md "wikilink") when support is removed
   - Made explosions set surroundings on [fire](fire "wikilink")
-  - [Lightning no](Weather "wikilink") longer damages world in [creative
-    mode](Creative_Gamemode "wikilink")
+  - [Lightning no](Mechanics/Weather.md "wikilink") longer damages world in [creative
+    mode](Recipaedia/Construction/Mechanics/Creative_Gamemode.md "wikilink")
   - Fixed [sign rendering](Recipaedia/Items/Sign.md "wikilink") on certain Android phones
   - Added new [Recipaedia](Recipaedia "wikilink")
   - Added descriptions of all blocks to the new
     [Recipaedia](Recipaedia "wikilink")
   - Added blocks ordering in [creative mode
-    inventory](Creative_Gamemode "wikilink")
+    inventory](Recipaedia/Construction/Mechanics/Creative_Gamemode.md "wikilink")
   - Added a new help system
   - Made saving system more robust and less likely to lose worlds
   - Added automatic world repair on load
@@ -510,7 +510,7 @@ blog. 
   - Added Community Content Sharing via a central server
   - Can use SD Card for import/export (Android only)
   - Added Progress bars and cancel buttons during downloads/uploads
-  - Added [coal blocks](Solid_Coal_Block "wikilink") that burn
+  - Added [coal blocks](Recipaedia/Minerals/Solid_Coal_Block.md "wikilink") that burn
     infinitely long
   - Added framerate limiter to conserve battery / stop overheating
   - Added downloading of Worlds/Block Textures directly from a web link
@@ -520,7 +520,7 @@ blog. 
   - Added ability to hide move/look pads
   - Added split touch controls & crosshair
   - Added getting a web link from Dropbox files
-  - Made [rain/snow](Weather "wikilink") less frequent
+  - Made [rain/snow](Mechanics/Weather.md "wikilink") less frequent
   - Made growing trees slightly easier
   - Fixed misplaced [torches flame](Recipaedia/Items/Torch.md "wikilink")
   - Added setting to change flat [terrainlevel](terrain "wikilink")
@@ -539,7 +539,7 @@ blog. 
 
 (Released in April 16, 2013)
 
-  - Added new [hero model](Character "wikilink") to match other animals
+  - Added new [hero model](Bestiary/Character.md "wikilink") to match other animals
   - Added [sharks in](Bestiary/Shark.md "wikilink") the ocean
   - Added [yellow rays](Yellow_Ray "wikilink") and [brown
     rays](Bestiary/Brown_Ray.md "wikilink"), with dig-in behavior
@@ -547,7 +547,7 @@ blog. 
   - Added [horses](Bestiary/Horse.md "wikilink") with 5 colors
   - Added [camels](camel "wikilink")
   - Added [leatherand](leather "wikilink") [saddle](saddle "wikilink")
-  - Added [horseriding mechanic](Rideable_Animals "wikilink") and all
+  - Added [horseriding mechanic](Mechanics/Rideable_Animals.md "wikilink") and all
     associated elements
   - Added wire through blocks ([planks](Recipaedia/Electrics/Wire_Through_Planks.md "wikilink"),
     [stone](Recipaedia/Electrics/Wire_Through_Stone.md "wikilink") and
@@ -588,7 +588,7 @@ blog. 
     [cacti](Recipaedia/Plants/Cactus.md "wikilink")
   - Added [whistle](whistle "wikilink")
   - Added steed summon behavior
-  - Added [cattle drive behavior](Herding "wikilink")
+  - Added [cattle drive behavior](Recipaedia/Construction/Mechanics/Herding.md "wikilink")
   - Made noises scare animals
   - Added surprise animal
   - Tweaked some 3D models to look better
@@ -615,10 +615,10 @@ blog. 
   - Made [bricks](Recipaedia/Items/Brick.md "wikilink")
   - Made [granitepaintable](granite "wikilink")
   - Made [basaltpaintable](basalt "wikilink")
-  - Added [hunger](Health_and_Damage_System "wikilink")
-  - Added [stamina](Health_and_Damage_System "wikilink")
-  - Added [sleep deprivation](Health_and_Damage_System "wikilink")
-  - Added [drowning](Health_and_Damage_System "wikilink")
+  - Added [hunger](Recipaedia/Construction/Mechanics/Health_and_Damage_System.md "wikilink")
+  - Added [stamina](Recipaedia/Construction/Mechanics/Health_and_Damage_System.md "wikilink")
+  - Added [sleep deprivation](Recipaedia/Construction/Mechanics/Health_and_Damage_System.md "wikilink")
+  - Added [drowning](Recipaedia/Construction/Mechanics/Health_and_Damage_System.md "wikilink")
   - Added probabilistic loot drops
   - Automatic resetting of blocks texture on upgrade
   - Added [rhinos](Rhino "wikilink")
@@ -634,18 +634,18 @@ blog. 
   - Added [islandsfar](islands "wikilink") out in the ocean
   - Added [boats](boats "wikilink")
   - Added pickables buoyancy
-  - Added creatures [Pathfinding](Pathfinding "wikilink")
+  - Added creatures [Pathfinding](Technical/Pathfinding.md "wikilink")
   - Changes to AI to use pathfinding in various situations
   - Made creatures go after food using pathfinding
   - Added bodies swaying in the [water](water "wikilink")
   - Made [matches fail](Recipaedia/Tools/Match.md "wikilink") randomly when used on animals
-  - [Eggs are](Egg "wikilink") now cookable
+  - [Eggs are](Recipaedia/Egg.md "wikilink") now cookable
   - Tpp camera tweaks
   - Added vital stats panel
   - Added number of respawns statistic
   - Items now stay much longer in the world
   - Improved split touch controls
-  - Added [magnets that](Magnet "wikilink") influence
+  - Added [magnets that](Recipaedia/Items/Magnet.md "wikilink") influence
     [compass](compass "wikilink")
 
 #### 1.23
@@ -668,7 +668,7 @@ blog. 
     it
   - Added generation of [traps](Grass_Traps "wikilink")
   - Added generation of
-    [Gravestones](Gravestone "wikilink")[with](Generated_Structures#Graves "wikilink")
+    [Gravestones](Recipaedia/Items/Gravestone.md "wikilink")[with](Recipaedia/Construction/Mechanics/Generated_Structures.md#Graves "wikilink")
     a surprise
   - Fixed cave creatures spawning in buildings
   - Fixed dawn/dusk time when using time of day button
@@ -684,7 +684,7 @@ blog. 
     and difficult
   - Reduced hit frequency from 2 to 1.5/s
   - Character starts with 55% food, not 100% in
-    [challenging](Challenging_Gamemode "wikilink")
+    [challenging](Recipaedia/Construction/Mechanics/Challenging_Gamemode.md "wikilink")
   - Made [ryedrop](rye "wikilink") more seeds
   - Added ability to define block type of flat
     [terrain](terrain "wikilink")
@@ -703,7 +703,7 @@ blog. 
     device](Recipaedia/Electrics/Digital_to_Analog_Converter.md "wikilink")
   - Added [4-bit counter electric device](Guides/4-Bit_Counter.md "wikilink")
   - Added [memory bank electric device](Recipaedia/Electrics/Memory_Bank.md "wikilink")
-  - Added [truth table electric device](Truth_Table_Circuit "wikilink")
+  - Added [truth table electric device](Recipaedia/Electrics/Truth_Table_Circuit.md "wikilink")
   - Added new UI for editing certain items ([memory
     banks](Recipaedia/Electrics/Memory_Bank.md "wikilink"), [batteries
     etc](Recipaedia/Electrics/Battery.md "wikilink").)
@@ -711,7 +711,7 @@ blog. 
     [pressure](Recipaedia/Electrics/Wooden_Pressure_Plate.md "wikilink")[plates](Recipaedia/Electrics/Stone_Pressure_Plate.md "wikilink")
     emit analog signal indicating weight
   - Made [battery voltage](Recipaedia/Electrics/Battery.md "wikilink") editable
-  - Many changes to [creative inventory](Creative_Gamemode "wikilink").
+  - Many changes to [creative inventory](Recipaedia/Construction/Mechanics/Creative_Gamemode.md "wikilink").
     E.g. can drop items from it.
   - Cleaned up recipes for all electric elements to make them more
     consistent
@@ -729,7 +729,7 @@ blog. 
 
   - Added [bows](bows "wikilink")
   - Added 4 types of [arrows](Recipaedia/Weapons/Arrow.md "wikilink")
-  - Added [electric shooting target](Target "wikilink")
+  - Added [electric shooting target](Recipaedia/Electrics/Target.md "wikilink")
   - Added [reindeers](Bestiary/Reindeer.md "wikilink")
   - Added [tigers](Tiger "wikilink")
   - Added rare [white tigers](White_Tiger "wikilink")
@@ -740,10 +740,10 @@ blog. 
   - Added [iron fences](Recipaedia/Items/Iron_Fence.md "wikilink")
   - Added[iron fence gates](Recipaedia/Items/Iron_Fence_Gate.md "wikilink")
   - Allowed adjustment of global temperature & humidity in [creative
-    mode](Creative_Gamemode "wikilink")
+    mode](Recipaedia/Construction/Mechanics/Creative_Gamemode.md "wikilink")
   - Fixed a bug with [machete being](Recipaedia/Weapons/Diamond_Edge_Machete.md "wikilink")
     able to break wood in [adventure
-    mode](Adventure_Gamemode "wikilink")
+    mode](Recipaedia/Construction/Mechanics/Adventure_Gamemode.md "wikilink")
   - Added new pretty [Christmas Tree](Recipaedia/Items/Christmas_tree.md "wikilink")
   - Tweaked spawning code to produce more birds and fish, less land
     [animals](animals "wikilink")
@@ -762,21 +762,21 @@ blog. 
   - Added [fire arrows](Recipaedia/Weapons/Fire_Arrows.md "wikilink")
   - Added sound delay based on distance
   - Completely new explosions engine, faster, more realistic
-  - Explosions create [flying and flaming debris](Debris "wikilink")
-  - Last used [creative inventory](Creative_Gamemode "wikilink") page is
+  - Explosions create [flying and flaming debris](Recipaedia/Construction/Mechanics/Debris.md "wikilink")
+  - Last used [creative inventory](Recipaedia/Construction/Mechanics/Creative_Gamemode.md "wikilink") page is
     saved between world loads
   - Serious physics bug to do with velocity limiting fixed
   - Pickables and projectiles optimizations
   - [Tall grass](Recipaedia/Terrain/Grass.md "wikilink") is now a pickable item
   - Added crafting recipe to obtain seeds from tall grass item
   - Added [throwable bombs](Recipaedia/Weapons/Bomb.md "wikilink")
-  - Added [smoke trails](Smoke "wikilink")
+  - Added [smoke trails](Mechanics/Smoke.md "wikilink")
   - Added [stone fences](Recipaedia/Items/Stone_Fences.md "wikilink")
-  - Added rendering support for[custom skins](Skins "wikilink")
+  - Added rendering support for[custom skins](Mechanics/Skins.md "wikilink")
   - Changed UI to allow user select and manage [custom
-    skins](Skins "wikilink")
+    skins](Mechanics/Skins.md "wikilink")
   - Added support for skins to community content server
-  - [Custom skins and](Skins "wikilink") block textures are now
+  - [Custom skins and](Mechanics/Skins.md "wikilink") block textures are now
     associated with each world separately, not a global setting
   - Added content management screen
   - Explosive pickables and projectiles explode when in contact with
@@ -797,13 +797,13 @@ blog. 
     per slot
   - Added [armor](armor "wikilink")
   - Dying of [clothes](Recipaedia/Clothes/Clothing.md "wikilink")
-  - Added [cold and heat effects](Body_Temperature "wikilink") on the
+  - Added [cold and heat effects](Recipaedia/Construction/Mechanics/Body_Temperature.md "wikilink") on the
     body
   - Added wetness due to rain or immersion
   - Accurate temperature calculation engine, based on character
     surroundings
   - Made dangerous and exotic animals avoid character during the day
-  - Added 256 blocks [visibility range](View_Distance "wikilink") (16
+  - Added 256 blocks [visibility range](Mechanics/View_Distance.md "wikilink") (16
     chunks)
   - Added [pumpkin seeds](Recipaedia/Plants/Pumpkin_Seeds.md "wikilink") and pumpkin farming
   - Added [cotton](cotton "wikilink") and[cotton
@@ -818,7 +818,7 @@ blog. 
   - New[crafting table](Recipaedia/Items/Crafting_Table.md "wikilink") model
   - New [diamond](Recipaedia/Minerals/Diamond.md "wikilink") model
   - Sky color changes depending on temperature
-  - Bigger and more detailed [trees](Generated_Structures "wikilink")
+  - Bigger and more detailed [trees](Recipaedia/Construction/Mechanics/Generated_Structures.md "wikilink")
   - Fixed progress dialogs glitches
   - Fixed occasional text layout glitches
   - Speeded up UI when waiting for network operations
@@ -830,7 +830,7 @@ blog. 
   - Weakened explosions propagating too far in long shafts
   - Fixed invisible animals on some Windows 8 Phones
   - iOS 8.1 compatibility changes
-  - Added [coordinates display](Coordinates "wikilink") to game menu in
+  - Added [coordinates display](Recipaedia/Construction/Mechanics/Coordinates.md "wikilink") to game menu in
     creative mode
   - Fixed excessive throwables hitting power
   - Nicer [thermometer](thermometer "wikilink") model and reacts to true
@@ -848,7 +848,7 @@ blog. 
   - Removed obsolete compatibility settings
   - Made [chests](Recipaedia/Items/Chest.md "wikilink") collect items thrown at them
   - Added summoning of lightning in
-    [creative](Creative_Gamemode "wikilink")
+    [creative](Recipaedia/Construction/Mechanics/Creative_Gamemode.md "wikilink")
   - Added shader-based, proper [water](water "wikilink") translucency
   - Added [cavalry boots](Recipaedia/Clothes/Cavalry_Boots.md "wikilink"), [long
     johns](Recipaedia/Clothes/Long_Johns.md "wikilink"), [socks](Recipaedia/Clothes/Socks.md "wikilink"),
@@ -858,7 +858,7 @@ blog. 
   - Added [carpets](Recipaedia/Items/Carpet.md "wikilink")
   - Overhauled mouse/keyboard control to production quality
   - Fixed [Tall Grass](Recipaedia/Plants/Tall_Grass.md "wikilink"), flowers and
-    [Gravestone](Gravestone "wikilink") drops
+    [Gravestone](Recipaedia/Items/Gravestone.md "wikilink") drops
   - Increased short inventory slots to 6
   - New health, temperature, hunger bars
   - Chasing creatures will eventually get bored
@@ -920,7 +920,7 @@ blog. 
   - Most electric devices can be mounted on the floor/ceiling (all
     gates, delay, [SR Latch](Recipaedia/Electrics/SR_Latch.md "wikilink"), [Memory
     Bank](Recipaedia/Electrics/Memory_Bank.md "wikilink"), [Truth
-    Table](Truth_Table_Circuit "wikilink"), [RT
+    Table](Recipaedia/Electrics/Truth_Table_Circuit.md "wikilink"), [RT
     clock](Recipaedia/Electrics/Real_Time_Clock.md "wikilink"), [Random
     Generator](Recipaedia/Electrics/Random_Generator.md "wikilink"),
     [DAC](Recipaedia/Electrics/Digital_to_Analog_Converter.md "wikilink"),
@@ -944,7 +944,7 @@ blog. 
   - Made most solid construction blocks paintable
     ([bricks](brick "wikilink"), [granite](granite "wikilink"),
     [cobblestone](cobblestone "wikilink"), [planks](planks "wikilink"),
-    [marble](marble "wikilink"), [stone brick](Stone_Bricks "wikilink"),
+    [marble](marble "wikilink"), [stone brick](Recipaedia/Construction/Stone_Bricks.md "wikilink"),
     [sandstone](sandstone "wikilink"), [basalt](basalt "wikilink"))
   - Made all fences paintable
   - Made all fence gates paintable
@@ -954,7 +954,7 @@ blog. 
   - Made forests 20% denser
   - Added horizontal wood logs
   - Fallen wood logs generate deep forests
-  - Added [paint stripper bucket](Paint_Stripper "wikilink") to remove
+  - Added [paint stripper bucket](Recipaedia/Tools/Paint_Stripper.md "wikilink") to remove
     paint from painted blocks
   - Placing slab on top of another creates full block
   - Stone fence model updated to look better

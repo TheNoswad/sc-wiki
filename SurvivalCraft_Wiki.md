@@ -21,26 +21,26 @@ must learn to survive for as long as you can. You'll have to find food,
 make your own clothing and build a safe shelter; all while avoiding
 being eaten by lions, tigers or bears, and so much more\!
 
-**Survival Craft** has 5 main [play modes](Game_modes "wikilink"):
+**Survival Craft** has 5 main [play modes](Recipaedia/Construction/Mechanics/Game_modes.md "wikilink"):
 
-  - **[Harmless](Harmless_Gamemode "wikilink")  **- You don't have to
+  - **[Harmless](Recipaedia/Construction/Mechanics/Harmless_Gamemode.md "wikilink")  **- You don't have to
     eat or sleep, fall damage is reduced and the animals won't attack
     unless you hit them first. Otherwise, it is essentially the same as
     Challenging Mode:
-  - **[Challenging](Challenging_Gamemode "wikilink")** - You can die
+  - **[Challenging](Recipaedia/Construction/Mechanics/Challenging_Gamemode.md "wikilink")** - You can die
     (easily) but can respawn (without your clothing or anything you were
     carrying). This is the most common game-play mode. All the
     challenges of survival are active but you get another chance when
     you die.
-  - **[Cruel](Cruel_Gamemode "wikilink")** - You only get one chance to
+  - **[Cruel](Recipaedia/Construction/Mechanics/Cruel_Gamemode.md "wikilink")** - You only get one chance to
     stay alive. Once you die, the world is lost.
-  - **[Adventure](Adventure_Gamemode "wikilink")** - This is a world
+  - **[Adventure](Recipaedia/Construction/Mechanics/Adventure_Gamemode.md "wikilink")** - This is a world
     usually created by someone else and will usually have quests or
     missions. If you die, you must restart the world from the beginning,
     or may respawn if it's allowed. In adventure mode you cannot break
     block with your bare hands - you must have the proper tool. This can
     make it the most difficult mode of all.
-  - **[Creative](Creative_Gamemode "wikilink")** -  You can fly, you
+  - **[Creative](Recipaedia/Construction/Mechanics/Creative_Gamemode.md "wikilink")** -  You can fly, you
     don't have to dress, eat or sleep and you cannot be killed. Almost
     all blocks are freely available and easily broken.
 
@@ -128,19 +128,19 @@ wiki](:ru:Survivalcraft_вики "wikilink")**
 
   - [Onscreen Buttons](Onscreen_Buttons/GUI "wikilink") - tells you how
     to use the buttons and menus you see while playing the game. 
-  - [World Options](World_Options "wikilink") - helps you to make the
+  - [World Options](Mechanics/World_Options.md "wikilink") - helps you to make the
     type of world you want.
-  - [Game Settings](Game_Settings "wikilink") - shows how to find and
+  - [Game Settings](Recipaedia/Construction/Mechanics/Game_Settings.md "wikilink") - shows how to find and
     change the options and setting for the game. 
   - [Recipaedia](Recipaedia "wikilink") - tells you how to find the
     "recipe book" for all items and blocks you can make in the game. 
-  - [Smelting](Smelting "wikilink") - learn how to cook food and make
+  - [Smelting](Mechanics/Smelting.md "wikilink") - learn how to cook food and make
     the ingredients you need for crafting.
-  - [Crafting](Crafting "wikilink") - learn how to use the crafting
+  - [Crafting](Recipaedia/Construction/Mechanics/Crafting.md "wikilink") - learn how to use the crafting
     system to make the items that will help you survive.
   - [Beginner's Guide](Guides/Beginner's_Guide.md "wikilink") - helps the new
     player learn the game and survive your first days in the world.
-  - [Body Temperature](Body_Temperature "wikilink") - learn about
+  - [Body Temperature](Recipaedia/Construction/Mechanics/Body_Temperature.md "wikilink") - learn about
     getting cold and wet and how to avoid it.
   - [Clothing](Recipaedia/Clothes/Clothing.md "wikilink") - learn how to make clothing and
     armor you will need to survive.
@@ -153,7 +153,7 @@ wiki](:ru:Survivalcraft_вики "wikilink")**
 
 ## **General** pages and links
 
-  - [Uploading and Downloading](Uploading_and_Downloading "wikilink") -
+  - [Uploading and Downloading](Mechanics/Uploading_and_Downloading.md "wikilink") -
     here you can learn how to save your world or publish it so others
     can check it out. Or download worlds that other people have made.
   - [Tips, Tricks and Common
@@ -179,11 +179,11 @@ wiki](:ru:Survivalcraft_вики "wikilink")**
   - [Electricity](:Category:Electricity "wikilink") - all
     electrics-related pages are categorized under this topic, including
     advanced circuits.
-  - [Houses](House_Ideas "wikilink") - a few examples of houses provided
+  - [Houses](Guides/House_Ideas.md "wikilink") - a few examples of houses provided
     by users.
-  - [Heat Your House](Heating_Your_House "wikilink") - keep your house
+  - [Heat Your House](Guides/Heating_Your_House.md "wikilink") - keep your house
     warm without a fire in every room.
-  - [Farming](Farming "wikilink") - once you have settled in, you can
+  - [Farming](Recipaedia/Construction/Mechanics/Farming.md "wikilink") - once you have settled in, you can
     make a farm - for food or fun\!
   - [Cattle Farming](Guides/Cattle_Farming.md "wikilink") - want to try your hand
     at ranching? Check this page out. 
@@ -222,7 +222,7 @@ The danger of SurvivalCraft:
 
   - [Tips and Tricks](Tips,_Tricks_and_Common_Mistakes "wikilink")
   - [Beginner's Guide](Guides/Beginner's_Guide.md "wikilink")
-  - [CRUEL mode tips](Tips_For_Cruel_Gamemode "wikilink")
+  - [CRUEL mode tips](Guides/Tips_For_Cruel_Gamemode.md "wikilink")
 
 -----
 

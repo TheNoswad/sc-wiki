@@ -16,7 +16,7 @@ story might be (be accurate\!)*
 
 **Possible Theories:**
 
-The [ship](The_Ship "wikilink") belongs to pirates that had you as a
+The [ship](Mechanics/The_Ship.md "wikilink") belongs to pirates that had you as a
 slave: Theory by Tech3267
 
 The player was with a crew of explorers. They arrive at an island, where
@@ -40,7 +40,7 @@ The ship is owned by pirates, and you were a part of the crew. After a
 while, they decide to maroon you. So now, you're stuck in the
 wilderness, marooned, by yourself with no help. - A contributor
 
-## [Graves](Gravestone "wikilink") and [Spikes](Recipaedia/Items/Spiked_Plank.md "wikilink")
+## [Graves](Recipaedia/Items/Gravestone.md "wikilink") and [Spikes](Recipaedia/Items/Spiked_Plank.md "wikilink")
 
 *Some of the naturally generated things in Survivalcraft include Graves
 and Spikes. Post in the comments any theories of why these are here.*

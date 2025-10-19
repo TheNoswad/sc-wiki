@@ -19,24 +19,24 @@ website.
 ## Basic Survival
 
 These are some essential pages for your survival in
-[Challenging](Challenging_Gamemode "wikilink"),
-[Cruel](Cruel_Gamemode "wikilink") and
-[Harmless](Harmless_Gamemode "wikilink") modes.
+[Challenging](Recipaedia/Construction/Mechanics/Challenging_Gamemode.md "wikilink"),
+[Cruel](Recipaedia/Construction/Mechanics/Cruel_Gamemode.md "wikilink") and
+[Harmless](Recipaedia/Construction/Mechanics/Harmless_Gamemode.md "wikilink") modes.
 
   - [Beginner's Guide](Guides/Beginner's_Guide.md "wikilink")
-  - [Body Temperature](Body_Temperature "wikilink")
+  - [Body Temperature](Recipaedia/Construction/Mechanics/Body_Temperature.md "wikilink")
   - [8 things for the perfect survival
     house\!](8_things_for_the_perfect_survival_house! "wikilink")
-  - [Crafting](Crafting "wikilink")
-  - [Heating Your House](Heating_Your_House "wikilink")
-  - [Herding](Herding "wikilink")
+  - [Crafting](Recipaedia/Construction/Mechanics/Crafting.md "wikilink")
+  - [Heating Your House](Guides/Heating_Your_House.md "wikilink")
+  - [Herding](Recipaedia/Construction/Mechanics/Herding.md "wikilink")
   - [Survival Guide](Guides/Survival_Guide.md "wikilink")
   - [Tips, Tricks and Common
     Mistakes](Tips,_Tricks_and_Common_Mistakes "wikilink")
   - [Top 5 Things to Have at All
     Times](Top_5_Things_to_Have_at_All_Times "wikilink")
-  - [Health and Damage System](Health_and_Damage_System "wikilink")
-  - [Smelting](Smelting "wikilink")
+  - [Health and Damage System](Recipaedia/Construction/Mechanics/Health_and_Damage_System.md "wikilink")
+  - [Smelting](Mechanics/Smelting.md "wikilink")
   - [Clothing](Recipaedia/Clothes/Clothing.md "wikilink")
 
 ## Controls
@@ -44,10 +44,10 @@ These are some essential pages for your survival in
 These are for the new player, they are about controls and movement,
 settings and preferations.
 
-  - [Controls](Controls "wikilink")
-  - [World Options](World_Options "wikilink")
-  - [Game Settings](Game_Settings "wikilink")
-  - [Files](Files "wikilink")
+  - [Controls](Recipaedia/Construction/Mechanics/Controls.md "wikilink")
+  - [World Options](Mechanics/World_Options.md "wikilink")
+  - [Game Settings](Recipaedia/Construction/Mechanics/Game_Settings.md "wikilink")
+  - [Files](Technical/Files.md "wikilink")
   - [Community Content Problems and Wanted
     Features](Community_Content_Problems_and_Wanted_Features "wikilink")
   - [Onscreen Buttons/GUI](Onscreen_Buttons/GUI "wikilink")
@@ -59,9 +59,9 @@ and can survive the first night, but cannot do much else.
 
   - [Intermediate guide](Guides/Intermediate_guide.md "wikilink")
   - [Recipaedia](Recipaedia "wikilink")
-  - [Farming](Farming "wikilink")
+  - [Farming](Recipaedia/Construction/Mechanics/Farming.md "wikilink")
   - [Cattle Farming](Guides/Cattle_Farming.md "wikilink")
-  - [House Ideas](House_Ideas "wikilink")
+  - [House Ideas](Guides/House_Ideas.md "wikilink")
   - [8 things for the perfect survival
     house\!](8_things_for_the_perfect_survival_house! "wikilink")
 
@@ -76,10 +76,10 @@ These are things to do for the advanced player, who does not want to be
 bound by realistic limits while playing.
 
   - [Building Adventure Maps](Guides/Building_Adventure_Maps.md "wikilink")
-  - [Furniture](Furniture "wikilink")
+  - [Furniture](Recipaedia/Furniture.md "wikilink")
   - [Advanced Furniture](Advanced_Furniture "wikilink")
   - [How to Make A Good Adventure Map
-    Story](How_to_Make_A_Good_Adventure_Map_Story "wikilink")
+    Story](Guides/How_to_Make_A_Good_Adventure_Map_Story.md "wikilink")
 
 ## Electricity
 

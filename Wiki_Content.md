@@ -16,13 +16,13 @@ List of useful pages in Survivalcraft wikia
 
 [Onscreen Buttons/GUI](Onscreen_Buttons/GUI "wikilink")
 
-[World Options](World_Options "wikilink")
+[World Options](Mechanics/World_Options.md "wikilink")
 
-[Game modes](Game_modes "wikilink")
+[Game modes](Recipaedia/Construction/Mechanics/Game_modes.md "wikilink")
 
-[Game Settings](Game_Settings "wikilink")
+[Game Settings](Recipaedia/Construction/Mechanics/Game_Settings.md "wikilink")
 
-[Uploading and Downloading](Uploading_and_Downloading "wikilink")
+[Uploading and Downloading](Mechanics/Uploading_and_Downloading.md "wikilink")
 
 ## Basic Gameplay
 
@@ -30,9 +30,9 @@ List of useful pages in Survivalcraft wikia
 
 [Recipaedia](Recipaedia "wikilink")
 
-[Crafting](Crafting "wikilink")
+[Crafting](Recipaedia/Construction/Mechanics/Crafting.md "wikilink")
 
-[Smelting](Smelting "wikilink")
+[Smelting](Mechanics/Smelting.md "wikilink")
 
 [Clothing](Recipaedia/Clothes/Clothing.md "wikilink")
 
@@ -40,14 +40,14 @@ List of useful pages in Survivalcraft wikia
 
 ## Advanced Gameplay
 
-[Furniture](Furniture "wikilink") and [Advanced
+[Furniture](Recipaedia/Furniture.md "wikilink") and [Advanced
 Furniture](Advanced_Furniture "wikilink")
 
-[Health and Damage System](Health_and_Damage_System "wikilink")
+[Health and Damage System](Recipaedia/Construction/Mechanics/Health_and_Damage_System.md "wikilink")
 
-[Body Temperature](Body_Temperature "wikilink")
+[Body Temperature](Recipaedia/Construction/Mechanics/Body_Temperature.md "wikilink")
 
-[Farming](Farming "wikilink")
+[Farming](Recipaedia/Construction/Mechanics/Farming.md "wikilink")
 
 [Cattle Farming](Guides/Cattle_Farming.md "wikilink")
 
@@ -57,9 +57,9 @@ Furniture](Advanced_Furniture "wikilink")
 
 ### Housing
 
-[House Ideas](House_Ideas "wikilink")
+[House Ideas](Guides/House_Ideas.md "wikilink")
 
-[Heating Your House](Heating_Your_House "wikilink")
+[Heating Your House](Guides/Heating_Your_House.md "wikilink")
 
 [Things for your
 house](8_things_for_the_perfect_survival_house! "wikilink")
@@ -80,11 +80,11 @@ Circuits](http://survivalcraftgame.wikia.com/wiki/Category:Circuits)
 
 ## Blocks, Items and Textures
 
-[Block Textures](Block_Textures "wikilink")
+[Block Textures](Recipaedia/Construction/Mechanics/Block_Textures.md "wikilink")
 
 [Skin](Skin "wikilink")
 
-[Block ID](Block_ID "wikilink")
+[Block ID](Technical/Block_ID.md "wikilink")
 
 [Blocks
 Category](http://survivalcraftgame.wikia.com/wiki/Category:Blocks)
