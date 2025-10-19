@@ -1,16 +1,12 @@
 ---
-title: SurvivalCraft_Wiki
+title: Home
 description: 
 published: true
-date: 2025-10-13T00:18:34.862Z
+date: 2025-10-19T22:37:16.588Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-13T00:18:29.189Z
 ---
-
-<mainpage-leftcolumn-start />
-
-__NOTOC__ __NOEDITSECTION__
 
 ### **The  wiki  for  everything  SURVIVALCRAFT**
 
