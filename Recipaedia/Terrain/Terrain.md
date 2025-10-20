@@ -2,14 +2,11 @@
 title: Terrain
 description: Terrain items in Survivalcraft
 published: true
-date: 2025-10-20T01:14:38.776Z
+date: 2025-10-20T01:14:49.339Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T22:52:26.736Z
 ---
-
-# Terrain
-Terrain in survivalcraft todo blablabla
 
 # [Dirt](/Recipaedia/Terrain/Dirt)
 ![dirt-0.png](/blocks-24/dirt-0.png)
