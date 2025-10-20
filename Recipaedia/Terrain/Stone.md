@@ -1,8 +1,8 @@
 ---
-title: Stone
+title: Rock
 description: 
 published: true
-date: 2025-10-20T01:05:08.585Z
+date: 2025-10-20T01:06:03.629Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-13T00:16:17.634Z
