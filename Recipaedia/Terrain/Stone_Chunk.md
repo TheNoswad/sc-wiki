@@ -1,8 +1,8 @@
 ---
-title: Stone_Chunk
+title: Stone
 description: 
 published: true
-date: 2025-10-13T00:16:21.572Z
+date: 2025-10-20T01:05:08.585Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-13T00:16:17.634Z
