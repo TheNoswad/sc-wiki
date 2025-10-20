@@ -2,7 +2,7 @@
 title: Terrain
 description: 
 published: true
-date: 2025-10-19T23:24:50.657Z
+date: 2025-10-20T01:06:33.226Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T22:52:26.736Z
@@ -53,5 +53,5 @@ Terrain in survivalcraft todo blablabla
 # [Ice](/Recipaedia/Terrain/Ice)
 ![Ice-0.png](/blocks-24/Ice-0.png)
 
-# [Rock](/Recipaedia/Terrain/Rock)
+# [Stone](/Recipaedia/Terrain/Stone)
 ![Rock-0.png](/blocks-24/Rock-0.png)
