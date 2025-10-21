@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-10-21T01:50:29.581Z
+date: 2025-10-21T02:02:36.065Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-13T00:18:29.189Z
@@ -80,16 +80,36 @@ Browse by [category list](Special:Categories) or jump into the [Recipaedia](Reci
 - [Cruel Mode Tips](Guides/Tips_For_Cruel_Gamemode.md)
 
 ---
+<div style="display: flex; gap: 1em; flex-wrap: wrap; align-items: flex-start; justify-content: center;">
 
-## 📱 Get the Game
+<div>
 
-| Platform | Link |
-|-----------|------|
-| 🪟 Windows | [Microsoft Store](http://apps.microsoft.com/windows/app/survivalcraft/0fc8e272-1ad6-4c3b-ba89-54a4b2f08f91) |
-| 📱 Android | [Google Play](http://play.google.com/store/apps/details?id=com.candyrufusgames.survivalcraft) |
-| 📦 Amazon Appstore | [Download](http://www.amazon.com/gp/mas/dl/android?p=com.candyrufusgames.survivalcraft) |
-| 🍎 iOS | [App Store](https://itunes.apple.com/app/survivalcraft/id622613679) |
-| 📞 Windows Mobile | [Store Link](http://windowsphone.com/s?appId=a23292c3-6d76-4a4d-ae7a-7e7379325671) |
+| 🏝️ Survivalcraft ||
+|------------------|--|
+| 🪟 Windows        | [Microsoft Store](#) |
+| 📱 Android        | [Google Play](#) |
+| 📦 Amazon Appstore | [Amazon Appstore](#) |
+| 🍎 iOS           | [App Store](#) |
+| 📞 Windows Mobile | [Windows Phone Store](#) |
+
+</div>
+
+<div>
+
+| 🧭 Survivalcraft 2 ||
+|-------------------|--|
+| 🪟 Windows        | [Microsoft Store](#) |
+| 📱 Android        | [Google Play](#) |
+| 📦 Amazon Appstore | [Amazon Appstore](#) |
+| 🍎 iOS           | [App Store](#) |
+| 📞 Windows Mobile | [Windows Phone Store](#) |
+
+</div>
+
+</div>
+
+
+
 
 ---
 
