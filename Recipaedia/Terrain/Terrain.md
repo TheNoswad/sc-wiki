@@ -2,7 +2,7 @@
 title: Terrain
 description: Terrain items in Survivalcraft
 published: true
-date: 2025-10-21T00:42:47.781Z
+date: 2025-10-21T22:18:23.361Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T22:52:26.736Z
@@ -13,12 +13,12 @@ Dirt is a very common block found near the surface in most environments. It can 
 ![dirt-0.png](/blocks-24/dirt-0.png)
 
 
-<a href="/Recipaedia/Terrain/Dirt" style="text-decoration:none; color:inherit;">
-  <blockquote style="cursor:pointer; border-left:0.5em solid #ccc; padding:0.5em; display:flex; align-items:flex-start;">
-    <img src="/blocks-24/dirt-0.png" alt="icon"
-         style="width:8em; height:8em; flex-shrink:0;">
+<a href="/Recipaedia/Terrain/Dirt" style="text-decoration: none; color: inherit;">
+  <blockquote style="cursor: pointer; border-left: 0.5em solid #ccc; padding: 0.5em; display: flex; align-items: flex-start;">
+    <img src="/blocks-24/dirt-0.png" alt="Dirt block icon"
+         style="width: 8em; height: 8em; flex-shrink: 0; margin-right: 1em;">
     <div>
-      <strong style="font-size:2em; display:block; margin-bottom:4px;">Dirt</strong>
+      <strong style="font-size: 2em; display: block; margin-bottom: 0.25em;">Dirt</strong>
       <span>
         Dirt is a very common block found near the surface in most environments.
         It can be easily dug even with bare hands, but is best dug with a shovel.
