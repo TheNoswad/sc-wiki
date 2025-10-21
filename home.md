@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-10-19T22:43:01.732Z
+date: 2025-10-21T01:38:57.859Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-13T00:18:29.189Z
@@ -19,30 +19,32 @@ being eaten by lions, tigers or bears, and so much more\!
 
 **Survival Craft** has 5 main [play modes](Recipaedia/Construction/Mechanics/Game_modes.md "wikilink"):
 
-  - **[Harmless](Recipaedia/Construction/Mechanics/Harmless_Gamemode.md "wikilink")  **- You don't have to
+  - [**Harmless**](Recipaedia/Construction/Mechanics/Harmless_Gamemode.md "wikilink")
+  	- You don't have to
     eat or sleep, fall damage is reduced and the animals won't attack
     unless you hit them first. Otherwise, it is essentially the same as
-    Challenging Mode:
-  - **[Challenging](Recipaedia/Construction/Mechanics/Challenging_Gamemode.md "wikilink")** - You can die
+  - [**Challenging**](Recipaedia/Construction/Mechanics/Challenging_Gamemode.md "wikilink")
+  	- You can die
     (easily) but can respawn (without your clothing or anything you were
     carrying). This is the most common game-play mode. All the
     challenges of survival are active but you get another chance when
     you die.
-  - **[Cruel](Recipaedia/Construction/Mechanics/Cruel_Gamemode.md "wikilink")** - You only get one chance to
+  - [**Cruel**](Recipaedia/Construction/Mechanics/Cruel_Gamemode.md "wikilink")
+  	- You only get one chance to
     stay alive. Once you die, the world is lost.
-  - **[Adventure](Recipaedia/Construction/Mechanics/Adventure_Gamemode.md "wikilink")** - This is a world
+  - [**Adventure**](Recipaedia/Construction/Mechanics/Adventure_Gamemode.md "wikilink")
+  	- This is a world
     usually created by someone else and will usually have quests or
     missions. If you die, you must restart the world from the beginning,
     or may respawn if it's allowed. In adventure mode you cannot break
     block with your bare hands - you must have the proper tool. This can
     make it the most difficult mode of all.
-  - **[Creative](Recipaedia/Construction/Mechanics/Creative_Gamemode.md "wikilink")** -  You can fly, you
+  - [**Creative**](Recipaedia/Construction/Mechanics/Creative_Gamemode.md "wikilink")
+  	-  You can fly, you
     don't have to dress, eat or sleep and you cannot be killed. Almost
     all blocks are freely available and easily broken.
 
------
 
------
 
 >   -
 >
