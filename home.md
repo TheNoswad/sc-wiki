@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-10-21T02:02:36.065Z
+date: 2025-10-21T02:06:26.353Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-13T00:18:29.189Z
@@ -80,6 +80,7 @@ Browse by [category list](Special:Categories) or jump into the [Recipaedia](Reci
 - [Cruel Mode Tips](Guides/Tips_For_Cruel_Gamemode.md)
 
 ---
+# Download the Game Now!
 <div style="display: flex; gap: 1em; flex-wrap: wrap; align-items: flex-start; justify-content: center;">
 
 <div>
