@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-10-21T02:06:26.353Z
+date: 2025-10-21T02:21:43.389Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-13T00:18:29.189Z
@@ -85,13 +85,15 @@ Browse by [category list](Special:Categories) or jump into the [Recipaedia](Reci
 
 <div>
 
-| 🏝️ Survivalcraft ||
-|------------------|--|
-| 🪟 Windows        | [Microsoft Store](#) |
-| 📱 Android        | [Google Play](#) |
-| 📦 Amazon Appstore | [Amazon Appstore](#) |
-| 🍎 iOS           | [App Store](#) |
-| 📞 Windows Mobile | [Windows Phone Store](#) |
+| 🏝️ Survivalcraft |
+|
+|[![Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9wzdncrfhvnl)|
+[![Android](/getitongoogleplay_badge_web_color_english-01.svg)](https://apps.microsoft.com/detail/9wzdncrfhvnl)|
+[![Amazon]( https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-black.png)](https://apps.microsoft.com/detail/9wzdncrfhvnl)|
+[![App Store](app-storeus-uk_rgb_blk_092917.svg)](https://apps.microsoft.com/detail/9wzdncrfhvnl)|
+
+| 🍎 iOS           |
+| 📞 Windows Mobile |
 
 </div>
 
