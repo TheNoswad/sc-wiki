@@ -2,21 +2,18 @@
 title: Home
 description: 
 published: true
-date: 2025-10-21T02:39:57.010Z
+date: 2025-10-22T19:02:44.172Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-13T00:18:29.189Z
 ---
 
-# 🏝️ Welcome to the Survivalcraft Wiki
-
-> A community-driven resource for *Survivalcraft* — a block-based survival and crafting game where every minute is a fight for survival.
+# Welcome to the Survivalcraft Wiki
 
 > This wiki is a fork of the [Survivalcraft Wiki hosted on Fandom](https://survivalcraftgame.fandom.com/wiki/SurvivalCraft_Wiki). Work in progress — contributions are always welcome!
 {.is-warning}
----
 
-## 🌍 About the Game
+## About the Game
 
 **Survivalcraft** drops you on a deserted island with nothing but your wits.  
 You’ll need to find food, craft tools, build shelter, and face the dangers of wildlife and weather.  
@@ -24,9 +21,7 @@ The world is infinite — how long can you survive?
 
 ![SurvivalCraft Screenshot](uploads/New_sunset.jpg){ width=100% }
 
----
-
-## 🎮 Game Modes
+## Game Modes
 
 SurvivalCraft features five main [game modes](Recipaedia/Construction/Mechanics/Game_modes.md)
 
@@ -36,9 +31,7 @@ SurvivalCraft features five main [game modes](Recipaedia/Construction/Mechanics/
 - 🗺️ [**Adventure**](Recipaedia/Construction/Mechanics/Adventure_Gamemode.md) — Explore custom maps and quests.
 - 🛠️ [**Creative**](Recipaedia/Construction/Mechanics/Creative_Gamemode.md) — Build freely and fly without limits.
 
----
-
-## 🧭 For New Players
+## For New Players
 
 Start here if you’re new to SurvivalCraft:
 
@@ -50,9 +43,7 @@ Start here if you’re new to SurvivalCraft:
 - [Clothing](Recipaedia/Clothes/Clothing.md)
 - [Tips and Common Mistakes](Tips,_Tricks_and_Common_Mistakes)
 
----
-
-## ⚙️ For Advanced Players
+## For Advanced Players
 
 Explore deeper mechanics and advanced building:
 
@@ -61,8 +52,6 @@ Explore deeper mechanics and advanced building:
 - [Cattle Farming](Guides/Cattle_Farming.md)
 - [Heat Your House](Guides/Heating_Your_House.md)
 - [House Ideas](Guides/House_Ideas.md)
-
----
 
 ## 📚 Explore the Wiki
 
