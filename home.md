@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-10-22T23:19:56.154Z
+date: 2025-10-22T23:22:05.255Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-13T00:18:29.189Z
@@ -84,9 +84,9 @@ Browse by sidebar or jump into the [Recipaedia](Recipaedia) to discover everythi
 - [Developer's Blog](https://kaalus.wordpress.com/) — Game updates and announcements
 - [Official Changelog](https://kaalus.wordpress.com/updates-history/) — Detailed version history
 - [Official Forum](https://www.tapatalk.com/groups/survivalcraft/) — Guides and discussions
-- [Discord Server](https://discord.gg/N7ZKwsCJd6/) — Join the largest Survivalcraft community
-- [Subreddit](https://www.reddit.com/r/SurvivalCraft/Official) — Reddit community
-- [Developer's Twitter](https://x.com/CandyRufusGames/) — Follow for updates
+- [Discord Server](https://discord.gg/Xc35K8KC3m) — Join the largest Survivalcraft community
+- [Subreddit](https://www.reddit.com/r/SurvivalCraft/) — Reddit community
+- [Developer's ~~Twitter~~ X](https://x.com/CandyRufusGames/) — Follow for updates from the developer
 - [Developer's YouTube](https://www.youtube.com/user/kaalus/) — Official video content
 - [Uploading and Downloading](Uploading_and_Downloading) — Share your creations on Community Content
 
