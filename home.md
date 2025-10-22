@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-10-22T23:22:39.272Z
+date: 2025-10-22T23:24:26.126Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-13T00:18:29.189Z
@@ -61,7 +61,7 @@ Explore deeper mechanics and advanced building:
 
 - [Survival Guide](Survival_Guide) — Master the hardest game modes
 - [Cruel Mode Tips](Guides/Tips_For_Cruel_Gamemode.md) — Survive the ultimate challenge
-- [Electricity](Category:Electricity) — Advanced circuits and electrical systems
+- [Electricity](Guides/Electricity) — Advanced circuits and electrical systems
 - [Crop Farming](Crop_Farming) — Grow your own food supply
 - [Cattle Farming](Guides/Cattle_Farming.md) — Build a ranch and domesticate animals
 - [Heating Your House](Guides/Heating_Your_House.md) — Keep warm without fires in every room
@@ -75,7 +75,7 @@ We have comprehensive pages on:
 
 **Animals** • **Resources** • **Clothing** • **Electrics** • **Food** • **Blocks** • **Items** • **Modding** • **Technical Information**
 
-Browse by sidebar or jump into the [Recipedia](Recipedia) to discover everything you can craft and build.
+Browse by sidebar or jump into the [Recipaedia](Recipaedia/Recipaedia) to discover everything you can craft and build.
 
 ---
 
