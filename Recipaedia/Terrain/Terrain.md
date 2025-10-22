@@ -2,7 +2,7 @@
 title: Terrain
 description: Terrain items in Survivalcraft
 published: true
-date: 2025-10-22T18:17:52.692Z
+date: 2025-10-22T18:18:29.070Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T22:52:26.736Z
@@ -24,7 +24,7 @@ dateCreated: 2025-10-19T22:52:26.736Z
   </div>
 </a>
 
-<a href="/Recipaedia/Terrain/Dirt" style="text-decoration: none; color: inherit;">
+<a href="/Recipaedia/Terrain/Dirt" style="text-decoration: none; color: inherit; padding: 50px">
   <div class="blockquote-container" style="cursor: pointer; border: 2px solid rgba(128, 128, 128, 0.3); border-radius: 8px; padding: 1em; display: flex; align-items: flex-start; background: rgba(128, 128, 128, 0.1);">
     <img src="/blocks-24/Soil-0.png" alt="Soil block icon"
          style="width: 8em; height: 8em; flex-shrink: 0; margin-right: 1em;">
