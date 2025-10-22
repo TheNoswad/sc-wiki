@@ -1,8 +1,8 @@
 ---
 title: Terrain
-description: Terrain items in Survivalcraft
+description: All Survivalcraft terrain blocks.
 published: true
-date: 2025-10-22T18:54:35.050Z
+date: 2025-10-22T19:26:44.942Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T22:52:26.736Z
