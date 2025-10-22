@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-10-22T23:22:05.255Z
+date: 2025-10-22T23:22:39.272Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-13T00:18:29.189Z
@@ -75,7 +75,7 @@ We have comprehensive pages on:
 
 **Animals** • **Resources** • **Clothing** • **Electrics** • **Food** • **Blocks** • **Items** • **Modding** • **Technical Information**
 
-Browse by sidebar or jump into the [Recipaedia](Recipaedia) to discover everything you can craft and build.
+Browse by sidebar or jump into the [Recipedia](Recipedia) to discover everything you can craft and build.
 
 ---
 
