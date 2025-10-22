@@ -2,7 +2,7 @@
 title: Terrain
 description: Terrain items in Survivalcraft
 published: true
-date: 2025-10-22T18:04:10.575Z
+date: 2025-10-22T18:04:48.447Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T22:52:26.736Z
@@ -26,13 +26,6 @@ dateCreated: 2025-10-19T22:52:26.736Z
     </div>
   </div>
 </a>
-
-<style>
-.test {
-  color: green
-}
-</style>
-
 
 # [Soil](/Recipaedia/Terrain/Soil)
 ![Soil-0.png](/blocks-24/Soil-0.png)
