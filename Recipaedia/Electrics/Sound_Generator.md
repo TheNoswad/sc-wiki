@@ -1,166 +1,433 @@
 ---
-title: Sound_Generator
-description: 
+title: Sound Generator
+description: The sound generator is an electrical component that can be used to play audible sounds.
 published: true
-date: 2025-10-13T00:14:48.992Z
+date: 2025-10-22T23:54:38.146Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-13T00:14:44.837Z
 ---
 
-__NOEDITSECTION__
+The sound generator is an electrical component that can be
+used to play audible sounds.
 
-Creates various sounds played through the speakers that can be
-controlled electrically.
+## Description (from [Recipaedia](Recipaedia))
 
-## Description (From [Recipaedia](.. "wikilink"))
-
-*Electric sound generator. Takes 4 inputs: Pitch (left), Octave (right),
-Volume (top) and Tone (bottom). All of these inputs are analog. The
-pitch ranges from C note (value of 0V) to D note in the next octave
-(value of 1.4V). 1.5V at pitch input means pause, no sound is played.
-The octave input can be used to shift the pitch by up to two octaves.
-The volume input sets the volume of played sound, with 0V being muted
-and 1.5V being the loudest. The actual sound is played whenever tone
-input goes from zero to non-zero. The value supplied to the tone input
-when it goes from zero to non-zero determines which instrument should be
-played: 0.1=Bell, 0.2=Organ, 0.3=Ping, 0.4=String, 0.5=Trumpet,
-0.6=Voice, 0.7=Piano, 0.8=PianoSustain, 0.9=Drums. With drums, pitch
-input determines one of 10 drums: 0.0=Snare, 0.1=BassDrum,
-0.2=ClosedHighHat, 0.3=PedalHighHat, 0.4=OpenHighHat, 0.5=LowTom,
-0.6=HighTom, 0.7=Crash, 0.8=Ride, 0.9=Handclap. Some animals, especially
-birds, are afraid of the loud sounds. This element can be placed on any
-surface and rotated to desired orientation.*
+> Electric sound generator. Takes 4 inputs: Pitch (left), Octave
+> (right), Volume (top) and Tone (bottom). All of these inputs are
+> analog. The pitch ranges from C note (value of 0V) to D note in the
+> next octave (value of 1.4V). 1.5V at pitch input means pause, no sound
+> is played. The octave input can be used to shift the pitch by up to
+> two octaves. The volume input sets the volume of played sound, with 0V
+> being muted and 1.5V being the loudest. The actual sound is played
+> whenever tone input goes from zero to non-zero. The value supplied to
+> the tone input when it goes from zero to non-zero determines which
+> instrument should be played: 0.1=Bell, 0.2=Organ, 0.3=Ping,
+> 0.4=String, 0.5=Trumpet, 0.6=Voice, 0.7=Piano, 0.8=PianoSustain,
+> 0.9=Drums, 1.0=Bass. With drums, pitch input determines one of 10
+> drums: 0.0=Snare, 0.1=BassDrum, 0.2=ClosedHighHat, 0.3=PedalHighHat,
+> 0.4=OpenHighHat, 0.5=LowTom, 0.6=HighTom, 0.7=Crash, 0.8=Ride,
+> 0.9=Handclap. Some animals, especially birds, are afraid of the loud
+> sounds. This element can be placed on any surface and rotated to
+> desired orientation.
 
 ## Crafting
 
-It requires 1 [iron ingot](Iron_Ingot "wikilink"), 2 [copper
-ingots](Copper_Ingot "wikilink") and 4 [germanium
-crystals](Germanium_Crystals "wikilink") to craft Sound Generator.
+Crafting requires 1 [Iron Ingot](/Recipaedia/Items/Iron_Ingot), 2 [Copper Ingots](/Recipaedia/Items/Copper_Ingot) and 4 [Germanium Crystals](/Recipaedia/Minerals/Germanium_Crystal). You get 4 sound generator items.
+![Sound Generator](Sound_Generator.webp)
 
-You get 4 generator 'chips'. ![Sound_Generator.png](Sound_Generator.png
-"Sound_Generator.png")
+## Connections
 
-## Hooking it Up
+The sound generator has four primary connections, located around all four sides of the component. These are the **pitch**, **volume**, **octave**, and **tone** inputs. They must be supplied by a device with analog-based outputs, such as a [Switch](Switch "wikilink"), [Button](Button "wikilink"), [Digital to Analog Converter](Digital_to_Analog_Converter "wikilink"), or [Memory Bank](/Recipaedia/Electrics/Memory_Bank). There is also a secondary tone connection, which can be accessed by placing the Sound Generator on a wire-through-block.
 
-### Connections
+### Tone
 
-There are 4 inputs, one on each edge and all of them are analog signals.
-They must be supplied by a device with analog outputs such as a
-[DAC](Digital_to_Analog_Converter.md "wikilink") or a [memory
-bank](Memory_Bank.md "wikilink").
+The tone connection doubles as the trigger and instrument input. The
+actual audible sound is only played when the tone input changes from a
+value of zero to a value that isn't zero. This is also known as the
+*rising edge* or *null value*. The duration of any given sound will last
+for approximately 1 second and fade out quickly. If the tone input
+reverts to zero and then back to non-zero before the first note fades,
+then the second note will be played and the first note will be cut
+short.
 
-The TONE input needs more attention. It has to go to '0 then to the
-value wanted. One way to do this is to use a memory bank as a gate. It
-requires programming but is compact. ![Sound_pins.jpg](Sound_pins.jpg
-"Sound_pins.jpg")Another is to use an AND gate. One input to this gate
-is the analog value and the other is a digital 'enable' signal. (See
-[Using Analog Signals](Using_Analog_Signals "wikilink") for more details
-on this technique.)
+<figure>
+<img src="Sound_pins.webp" title="Sound_pins.webp" />
+<figcaption>Sound_pins.webp</figcaption>
+</figure>
 
-### Operation
+### Instrument
 
-The **TONE** input doubles as the 'GO' switch. It must be held at '0'
-until the sound is to be played.
+The analog value (1-F) supplied to the tone input determines the
+instrument type used when playing a sound. As of the 2.4 update, there
+are a total of ten different instruments, as depicted below:
 
-The sound begins only when this input *changes from '0'\!*  Then it will
-play a sound with the voice specified by what that value is.
-<see table below> The sound will last only about 1 second and fades
-away. If the tone input goes to '0' and then ''changes from '0'  ''again
-before the first note fades, then the second note will be played and the
-first note will be cut short.
+- **Bell** = 1
+- **Organ** = 2
+- **Ping** = 3
+- **Strings** = 4
+- **Trumpet** = 5
+- **Voice** = 6
+- **Piano** = 7,F
+- **Piano Sustain** = 8
+- **Drums** = 9
+- **Bass** = A
 
-The **PITCH** input controls the frequency of the sound and spans one
-octave. The pitch equals the "western scale" where C = '0', C\# = '1', D
-= '2' . . . C2 = 'C'.  \<lol - C is C\>  Then C2\# = 'D' and D2 = 'E' 
-If the pitch value is 'F' (1.5V) the generator plays a silent note or
-'pause'. The frequencies played are very close to standard reference
-pitches. You can play along with your real piano and they should be in
-tune\! If this input is not connected, it plays the lowest pitch.
+### Pitch
 
-The **OCTAVE** input shifts the frequency of the sound down an octave or
-two according to its value. However it can only be changed by 2 octaves
-(or the values '0' through '2'). Any value over '2' is played as the
-highest pitch. If this input is not connected, it acts as if it were a
-'2'.
+Pitch controls note frequency using hexadecimal notation (0-F). Value 0 = lowest note (C), B = highest (B). Values C, D, E play notes in the next octave. **Value F = mute** (no sound plays).
 
-The **VOLUME** input controls -of course- the volume of the sound. When
-it is '0' the ouput is muted and an 'F' is full volume output. If this
-input is not connected, the volume will be at maximum.
+The pitch connection raises or lowers the pitch, or frequency, of the
+note being played. Think of a piano note scale (cCdDefFgGaAb), except
+instead of using only letters, a combination of numbers and letters are
+used (in hexadecimal notation). Value 0 is the lowest note (flat c),
+while value B is the highest (flat b). Values C,D,E are often
+irrelevant, as they play notes c,C,d but in the next octave. Value F
+acts as a mute; no sound will be played when the pitch is set to F.
 
-### TONE  (or Voice) chart
+### Octave
 
-|   |                |
-| - | -------------- |
-| 0 | **ready mode** |
-| 1 | Bell           |
-| 2 | Organ          |
-| 3 | Ping           |
-| 4 | Strings        |
-| 5 | Trumpet        |
-| 6 | Vocal "doo"    |
-| 7 | Piano          |
-| 8 | Piano Sustain  |
-| 9 | Drums          |
+The octave connection shifts the note range up or down by a matter of 12
+notes. While there are only a maximum of four octaves, the number and
+relative range of supported octaves depends on the instrument. When a
+note is played outside of its supported octave range, it will always
+play a note with the pitch of 0 in the highest octave, regardless of the
+supplied pitch or octave.
 
-For the drum channel, the tone input sets the drum sound as follows:
+The default octave value is set to 2 when no wire or component is
+connected. The full octave ranges of all instruments are listed below:
 
-|   |                 |
-| - | --------------- |
-| 0 | Snare           |
-| 1 | Bass Drum       |
-| 2 | Closed High Hat |
-| 3 | Pedal High Hat  |
-| 4 | Open High Hat   |
-| 5 | Low Tom         |
-| 6 | High Tom        |
-| 7 | Crash           |
-| 8 | Ride            |
-| 9 | Handclap        |
+- **Bell** = 0,1,2,3
+- **Organ** = 0,1,2
+- **Ping** = 0,1,2,3
+- **String** = 0,1,2,3
+- **Trumpet** = 0,1,2,3
+- **Voice** = 0,1,2,3
+- **Piano** = 0,1,2,3
+- **Piano Sustain** = 0,1,2,3
+- **Drums** = N/A
+- **Bass** = 0,1,2,3
 
-## Uses
+Depicted below are the octave ranges for all instruments in relation to
+a piano scale. It should be noted that the octaves ranges for the Ping
+and Voice instruments are shifted up by one octave (3,4,5,6). You can
+cover a wider range of octaves (5 in this case) by combining similar
+sounding instruments together, such as the Piano and Ping or Bell and
+Voice.
 
-  - It can be used to scare some animals away.
+<div style="display:inline-block; padding: 0.75rem 1rem 0.75rem 1rem;">
 
-<!-- end list -->
+<figure>
+<img src="Octave-range_1.webp" title="Octave-range_1.webp" />
+<figcaption>Octave-range_1.webp</figcaption>
+</figure>
 
-  - With a lot of other circuitry, it can play music.
+</div>
+<div style="display:inline-block; padding: 0.75rem 1rem 0.75rem 1rem;">
 
-<!-- end list -->
+<figure>
+<img src="Octave-range_2.webp" title="Octave-range_2.webp" />
+<figcaption>Octave-range_2.webp</figcaption>
+</figure>
 
-  - Hook it up to a RTC and it can chime different tones at different
-    times.
+</div>
 
-<!-- end list -->
+\<div style="display:inline-block; padding: 0.75rem 1rem 0.75rem
+1rem;\>![](Octave-range_3.webp "Octave-range_3.webp")
 
-  - Connected to other circuitry, it can play warning tones in adventure
-    maps.
+</div>
+
+#### Drum Sounds
+
+It should be noted that the drum instrument does not respond to octave.
+There are only ten total drum sounds, which are determined by the
+respective pitch values:
+
+- **Snare** = 0
+- **Bass Drum** = 1
+- **Closed High-Hat** = 2
+- **Pedal High-Hat** = 3
+- **Open High-Hat** = 4
+- **Low Tom** = 5
+- **High Tom** = 6
+- **Crash** = 7
+- **Ride** = 8
+- **Handclap** = 9
+
+### Volume
+
+The volume connection determines the number of blocks a sound generator
+can be heard from, relative to the player. A value of F is the highest
+possible volume, while a value of 1 is the lowest possible audible
+volume. A value of 0 completely mutes the sound generator.
+
+The default volume value is set to F when no wire or component is
+connected.
+
+## Potential Uses
+
+- With a lot of additional circuitry, it can be used to play music.
+  Popular music maps include [Music 45
+  Songs](https://www.youtube.com/watch?v=0WoFjP6DLDo) and various
+  [Standalone Music
+  Maps](https://www.youtube.com/playlist?list=PLGt3W-nliAhB-RMYCoj3F__uLCwytiwVj).
+- Some animals are frightened by sounds, and can be used to deter them.
+- Alarms or small multi-note jingles can be created when connected to
+  other circuitry.
+- Can be used to play audio (the ping instrument usually works best) in
+  a button interface or control panel.
+- Using a [Real Time Clock](Real_Time_Clock "wikilink"), it can be
+  programmed to chime different tones at different times (almost like a
+  Coo Coo-clock).
+
+## Game Limitations
+
+- The 'sustain' sound effect for the Sustained Piano cannot be cancelled
+  or muted prematurely. It will always sustain every note played,
+  regardless if the sound generator is muted after a note is played or a
+  non-sustained note is played right afterwards. This is either a game
+  limitation or simply an unintended issue.
+- There is a soft limit for how many instruments can be used at a given
+  time, which is around 5-6. You will know you have reached the limit
+  when you can audibly hear notes being skipped/muted, even though a
+  visual note is played. This phenomenon is especially noticeable with a
+  primary melody or mid-range tracks. Not much is currently known about
+  the specifics; this is only a real concern when working with sound
+  generators on a mass-scale.
+
+## History
+
+|      |                                                                                                                                                                                                                    |
+|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.23 | Added sound generator.                                                                                                                                                                                             |
+| 1.29 | Sound generators now emit small colored notes when sounds are produced. Improved the piano instrument. Added Piano Sustain and Drum instruments. Sound generators are now able to be mounted on the floor/ceiling. |
+| 2.4  | Octave ranges for the Bell, Ping, String, Trumpet, and Voice instruments were all increased by one. Fixed many invalid sounds for the Bell and Ping instruments. Added the Bass instrument.                        |
 
 ## Notes
 
-  - The sound generator was added in version 1.23.
+- As of update 1.29, sound generators emit small visual colored notes
+  when they produce sounds. The color of the note is determined by the
+  respective pitch, while the visual style of note is simply random.
+- Update 2.4 made a lot of improvements to the sound generator. Some
+  sounds for certain instruments were adjusted, while others were
+  completely changed (such as the ping instrument). More octaves were
+  added to the majority of instruments, with the organ being the only
+  instrument left untouched. The bass instrument was also added.
+- As of update 2.4, there are a total of 439 unique sound generator
+  sounds.
+- The wording in the description and chip label may unfortunately be
+  confusing. The term 'note' has multiple meanings in music theory. It
+  properly describes the totality of one continuous sound, including the
+  pitch, octave, tonal quality, and duration. However, it is often used
+  to just describe the frequency, or pitch, of a sound. The term 'tone'
+  is often misused as well, and is often used in place of pitch. The
+  pitch of a note is actually the combined effect of the pitch plus its
+  octave.
+- The actual effect on scaring away animals is still unknown. Whether
+  the relative distance of animals to the device or the player has any
+  affect is currently still a mystery. More information will be
+  provided, if it is discovered.
 
-<!-- end list -->
 
-  - The wording in the description and chip label may unfortunately be
-    confusing. The term 'note' gets multiple meanings in music theory.
-    It properly describes the totality of one continuous sound,
-    including the pitch, octave, tonal quality and duration. However it
-    is often used to describe just the frequency (pitch) of a sound. The
-    term 'tone' is often misused as well, also often used in place of
-    pitch. The pitch of a note is actually the combined effect of the
-    'pitch' plus octave.
 
-<!-- end list -->
 
-  - The actual effect on animals is still unknown. Whether animals
-    nearer to the device or the player are affected more or not is one
-    outstanding question. When these issues are known, the information
-    will be provided...
-  - As of 1.29, Sound generators produce small notes when they produce
-    sounds. The piano sustain and drum channels were also added.
 
-[Category:Electricity](Category:Electricity "wikilink")
-[Category:Electric Chip](Category:Electric_Chip "wikilink")
-[Category:Electrics](Category:Electrics "wikilink")
-[Category:Crafted](Category:Crafted "wikilink")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+---
+# NEW VERSION WORK IN PROGRESS
+# .
+# .
+# .
+# .
+# .
+# .
+# .
+# .
+# .
+# .
+# .
+# .
+# .
+# .
+---
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Description (from [Recipaedia](Recipaedia))
+
+> Electric sound generator. Takes 4 inputs: pitch (left), octave (right), volume (top) and tone (bottom). All of these inputs are analog. The pitch ranges from C note (value of 0V) to D note in the next octave (value of 1.4V). 1.5V at pitch input means pause, no sound is played. The octave input can be used to shift the pitch by up to two octaves. The volume input sets the volume of played sound, with 0V being muted and 1.5V being the loudest. The actual sound is played whenever tone input goes from zero to non-zero. The value supplied to the tone input when it goes from zero to non-zero determines which instrument should be played: 0.1=Bell, 0.2=Organ, 0.3=Ping, 0.4=String, 0.5=Trumpet, 0.6=Voice, 0.7=Piano, 0.8=PianoSustain, 0.9=Drums, 1.0=Bass. With drums, pitch input determines one of 10 drums: 0.0=Snare, 0.1=BassDrum, 0.2=ClosedHiHat, 0.3=PedalHiHat, 0.4=OpenHiHat, 0.5=LowTom, 0.6=HighTom, 0.7=Crash, 0.8=Ride, 0.9=HandClap. Some animals, especially birds, are afraid of the loud sounds. This element can be placed on any surface and rotated to desired orientation.
+
+## Crafting
+
+**Ingredients:**
+* 1 [Iron Ingot](/Recipaedia/Items/Iron_Ingot)
+* 2 [Copper Ingots](/Recipaedia/Items/Copper_Ingot)
+* 4 [Germanium Crystals](/Recipaedia/Minerals/Germanium_Crystal)
+
+**Yield:** 4 sound generator items
+
+![Sound Generator](Sound_Generator.webp)
+
+## Connections
+
+The sound generator has four primary connections, located around all four sides of the component. These are the **pitch**, **volume**, **octave**, and **tone** inputs. They must be supplied by a device with analog-based outputs, such as a [Switch](Switch), [Button](Button), [Digital to Analog Converter](Digital_to_Analog_Converter), or [Memory Bank](/Recipaedia/Electrics/Memory_Bank). There is also a secondary tone connection, which can be accessed by placing the Sound Generator on a wire-through-block.
+
+### Tone
+
+The tone connection doubles as the trigger and instrument input. The actual audible sound is only played when the tone input changes from a value of zero to a value that isn't zero. This is also known as the *rising edge* or *null value*. The duration of any given sound will last for approximately 1 second and fade out quickly. If the tone input reverts to zero and then back to non-zero before the first note fades, then the second note will be played and the first note will be cut short.
+
+<figure>
+<img src="Sound_pins.webp" title="Sound Pins" />
+<figcaption>Sound pins layout</figcaption>
+</figure>
+
+### Instrument
+
+The analog value supplied to the tone input determines the instrument type used when playing a sound. As of the 2.4 update, there are a total of ten different instruments:
+
+| Decimal Value | Hex Value | Instrument    |
+| ------------- | --------- | ------------- |
+| 0.1           | 1         | Bell          |
+| 0.2           | 2         | Organ         |
+| 0.3           | 3         | Ping          |
+| 0.4           | 4         | Strings       |
+| 0.5           | 5         | Trumpet       |
+| 0.6           | 6         | Voice         |
+| 0.7           | 7, F      | Piano         |
+| 0.8           | 8         | Piano Sustain |
+| 0.9           | 9         | Drums         |
+| 1.0           | A         | Bass          |
+
+### Pitch
+
+The pitch connection raises or lowers the pitch, or frequency, of the note being played. Think of a piano note scale (cCdDefFgGaAb), except instead of using only letters, a combination of numbers and letters are used (in hexadecimal notation). Value 0 is the lowest note (flat c), while value B is the highest (flat b). Values C, D, E are often irrelevant, as they play notes c, C, d but in the next octave. Value F acts as a mute; no sound will be played when the pitch is set to F.
+
+### Octave
+
+The octave connection shifts the note range up or down by a matter of 12 notes. While there are only a maximum of four octaves, the number and relative range of supported octaves depends on the instrument. When a note is played outside of its supported octave range, it will always play a note with the pitch of 0 in the highest octave, regardless of the supplied pitch or octave.
+
+The default octave value is set to 2 when no wire or component is connected. The full octave ranges of all instruments are listed below:
+
+| Instrument    | Octave Range |
+| ------------- | ------------ |
+| Bell          | 0-3          |
+| Organ         | 0-2          |
+| Ping          | 0-3          |
+| String        | 0-3          |
+| Trumpet       | 0-3          |
+| Voice         | 0-3          |
+| Piano         | 0-3          |
+| Piano Sustain | 0-3          |
+| Drums         | N/A          |
+| Bass          | 0-3          |
+
+Depicted below are the octave ranges for all instruments in relation to a piano scale. It should be noted that the octaves ranges for the Ping and Voice instruments are shifted up by one octave (3, 4, 5, 6). You can cover a wider range of octaves (5 in this case) by combining similar sounding instruments together, such as the Piano and Ping or Bell and Voice.
+
+<figure>
+<img src="Octave-range_1.webp" title="Octave Ranges 1" />
+<figcaption>Octave ranges illustration 1</figcaption>
+</figure>
+
+<figure>
+<img src="Octave-range_2.webp" title="Octave Ranges 2" />
+<figcaption>Octave ranges illustration 2</figcaption>
+</figure>
+
+<figure>
+<img src="Octave-range_3.webp" title="Octave Ranges 3" />
+<figcaption>Octave ranges illustration 3</figcaption>
+</figure>
+
+#### Drum Sounds
+
+It should be noted that the drum instrument does not respond to octave. There are only ten total drum sounds, which are determined by the respective pitch values:
+
+| Pitch | Drum            |
+| ----- | --------------- |
+| 0     | Snare           |
+| 1     | Bass Drum       |
+| 2     | Closed High-Hat |
+| 3     | Pedal High-Hat  |
+| 4     | Open High-Hat   |
+| 5     | Low Tom         |
+| 6     | High Tom        |
+| 7     | Crash           |
+| 8     | Ride            |
+| 9     | Handclap        |
+
+### Volume
+
+The volume connection determines the number of blocks a sound generator can be heard from, relative to the player. A value of F is the highest possible volume, while a value of 1 is the lowest possible audible volume. A value of 0 completely mutes the sound generator.
+
+The default volume value is set to F when no wire or component is connected.
+
+## Potential Uses
+
+* With a lot of additional circuitry, it can be used to play music. Popular music maps include [Music 45 Songs](https://www.youtube.com/watch?v=0WoFjP6DLDo) and various [Standalone Music Maps](https://www.youtube.com/playlist?list=PLGt3W-nliAhB-RMYCoj3F__uLCwytiwVj).
+* Some animals are frightened by sounds, and can be used to deter them.
+* Alarms or small multi-note jingles can be created when connected to other circuitry.
+* Can be used to play audio (the ping instrument usually works best) in a button interface or control panel.
+* Using a [Real Time Clock](Real_Time_Clock), it can be programmed to chime different tones at different times (almost like a Coo Coo-clock).
+
+## Game Limitations
+
+* The 'sustain' sound effect for the Sustained Piano cannot be cancelled or muted prematurely. It will always sustain every note played, regardless if the sound generator is muted after a note is played or a non-sustained note is played right afterwards. This is either a game limitation or simply an unintended issue.
+* There is a soft limit for how many instruments can be used at a given time, which is around 5-6. You will know you have reached the limit when you can audibly hear notes being skipped/muted, even though a visual note is played. This phenomenon is especially noticeable with a primary melody or mid-range tracks. Not much is currently known about the specifics; this is only a real concern when working with sound generators on a mass-scale.
+
+## History
+
+| Version | Changes                                                                                                                                                                                                            |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1.23    | Added sound generator.                                                                                                                                                                                             |
+| 1.29    | Sound generators now emit small colored notes when sounds are produced. Improved the piano instrument. Added Piano Sustain and Drum instruments. Sound generators are now able to be mounted on the floor/ceiling. |
+| 2.4     | Octave ranges for the Bell, Ping, String, Trumpet, and Voice instruments were all increased by one. Fixed many invalid sounds for the Bell and Ping instruments. Added the Bass instrument.                        |
+
+## Notes
+
+* As of update 1.29, sound generators emit small visual colored notes when they produce sounds. The color of the note is determined by the respective pitch, while the visual style of note is simply random.
+* Update 2.4 made a lot of improvements to the sound generator. Some sounds for certain instruments were adjusted, while others were completely changed (such as the ping instrument). More octaves were added to the majority of instruments, with the organ being the only instrument left untouched. The bass instrument was also added.
+* As of update 2.4, there are a total of 439 unique sound generator sounds.
+* The wording in the description and chip label may unfortunately be confusing. The term 'note' has multiple meanings in music theory. It properly describes the totality of one continuous sound, including the pitch, octave, tonal quality, and duration. However, it is often used to just describe the frequency, or pitch, of a sound. The term 'tone' is often misused as well, and is often used in place of pitch. The pitch of a note is actually the combined effect of the pitch plus its octave.
+* The actual effect on scaring away animals is still unknown. Whether the relative distance of animals to the device or the player has any affect is currently still a mystery. More information will be provided, if it is discovered.
