@@ -2,7 +2,7 @@
 title: Terrain
 description: Terrain items in Survivalcraft
 published: true
-date: 2025-10-22T18:52:14.450Z
+date: 2025-10-22T18:54:35.050Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T22:52:26.736Z
@@ -59,9 +59,23 @@ dateCreated: 2025-10-19T22:52:26.736Z
     <img src="/blocks-24/Moist_Compost-7.png" alt="Soil block icon"
          style="width: 8em; height: 8em; flex-shrink: 0; margin-right: 1em;">
     <div>
-      <strong style="font-size: 2em; display: block; margin-bottom: 0.25em;">Moist Soil</strong>
+      <strong style="font-size: 2em; display: block; margin-bottom: 0.25em;">Moist Compost</strong>
       <span>
         Soil is dirt that has been made suitable for cultivation by using a rake. It can be easily damaged by walking or jumping on it. Soil can be fertilized by sprinkling saltpeter on it, plants will grow faster and slowly use up the fertilizer. Soil that is near water will become moist, making plants grow even faster. Rotten food will eventually turn into compost, which can be used in place of fertilized soil to grow plants just as quickly
+      </span>
+    </div>
+  </div>
+</a>
+
+<!-- Limestone -->
+<a href="/Recipaedia/Terrain/Limestone" style="text-decoration: none; color: inherit; padding: 50px">
+  <div class="blockquote-container" style="cursor: pointer; border: 2px solid rgba(128, 128, 128, 0.3); border-radius: 8px; padding: 1em; display: flex; align-items: flex-start; background: rgba(128, 128, 128, 0.1);">
+    <img src="/blocks-24/Limestone-0.png" alt="Soil block icon"
+         style="width: 8em; height: 8em; flex-shrink: 0; margin-right: 1em;">
+    <div>
+      <strong style="font-size: 2em; display: block; margin-bottom: 0.25em;">Limestone</strong>
+      <span>
+        Limestone is a brittle whitish stone occasionally found near the surface close to water bodies. It can be easily quarried with a pickaxe, and because of its brittleness even with bare hands. It can be used for making pigments and marble.
       </span>
     </div>
   </div>
@@ -76,13 +90,6 @@ dateCreated: 2025-10-19T22:52:26.736Z
 }  
 </style>
 
-# [Moist Compost](/Recipaedia/Terrain/Moist_Compost)
-![Moist_Compost-7.png](/blocks-24/Moist_Compost-7.png)
-Soil is dirt that has been made suitable for cultivation by using a rake. It can be easily damaged by walking or jumping on it. Soil can be fertilized by sprinkling saltpeter on it, plants will grow faster and slowly use up the fertilizer. Soil that is near water will become moist, making plants grow even faster. Rotten food will eventually turn into compost, which can be used in place of fertilized soil to grow plants just as quickly
-
-# [Limestone](/Recipaedia/Terrain/Limestone)
-![Limestone-0.png](/blocks-24/Limestone-0.png)
-Limestone is a brittle whitish stone occasionally found near the surface close to water bodies. It can be easily quarried with a pickaxe, and because of its brittleness even with bare hands. It can be used for making pigments and marble.
 
 # [Granite](/Recipaedia/Terrain/Granite)
 ![Granite-0.png](/blocks-24/Granite-0.png)
