@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-10-22T23:19:34.218Z
+date: 2025-10-22T23:19:56.154Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-13T00:18:29.189Z
@@ -112,7 +112,7 @@ Browse by sidebar or jump into the [Recipaedia](Recipaedia) to discover everythi
 
 ---
 
-## Other Languages
+## Other Wikis and Languages
 
 - [Spanish Fandom Wiki](https://survivalcraft.fandom.com/es/wiki/Survivalcraft_Wiki)
 - [Russian Fandom Wiki](https://survivalcraft.fandom.com/ru/wiki/Survivalcraft_%D0%B2%D0%B8%D0%BA%D0%B8)
