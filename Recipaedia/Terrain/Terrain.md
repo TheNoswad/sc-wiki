@@ -2,14 +2,14 @@
 title: Terrain
 description: Terrain items in Survivalcraft
 published: true
-date: 2025-10-22T17:46:58.809Z
+date: 2025-10-22T17:51:38.626Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T22:52:26.736Z
 ---
 
 <a href="/Recipaedia/Terrain/Dirt" style="text-decoration: none; color: inherit;">
-  <div style="cursor: pointer; border: 2px solid rgba(128, 128, 128, 0.3); border-radius: 8px; padding: 1em; display: flex; align-items: flex-start; background: rgba(128, 128, 128, 0.1);">
+  <div class="blockquote-container" style="cursor: pointer; border: 2px solid rgba(128, 128, 128, 0.3); border-radius: 8px; padding: 1em; display: flex; align-items: flex-start; background: rgba(128, 128, 128, 0.1);">
     <img src="/blocks-24/dirt-0.png" alt="Dirt block icon"
          style="width: 8em; height: 8em; flex-shrink: 0; margin-right: 1em;">
     <div>
