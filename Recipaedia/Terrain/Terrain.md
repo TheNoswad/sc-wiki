@@ -2,12 +2,13 @@
 title: Terrain
 description: Terrain items in Survivalcraft
 published: true
-date: 2025-10-22T18:46:48.111Z
+date: 2025-10-22T18:52:14.450Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T22:52:26.736Z
 ---
 
+<!-- Dirt -->
 <a href="/Recipaedia/Terrain/Dirt" style="text-decoration: none; color: inherit;">
   <div class="test" style="cursor: pointer; border: 2px solid rgba(128, 128, 128, 0.3); border-radius: 8px; padding: 1em; display: flex; align-items: flex-start; background: rgba(128, 128, 128, 0.1);">
     <img src="/blocks-24/dirt-0.png" alt="Dirt block icon"
@@ -24,6 +25,7 @@ dateCreated: 2025-10-19T22:52:26.736Z
   </div>
 </a>
 
+<!-- Soil -->
 <a href="/Recipaedia/Terrain/Soil" style="text-decoration: none; color: inherit; padding: 50px">
   <div class="blockquote-container" style="cursor: pointer; border: 2px solid rgba(128, 128, 128, 0.3); border-radius: 8px; padding: 1em; display: flex; align-items: flex-start; background: rgba(128, 128, 128, 0.1);">
     <img src="/blocks-24/Soil-0.png" alt="Soil block icon"
@@ -37,14 +39,29 @@ dateCreated: 2025-10-19T22:52:26.736Z
   </div>
 </a>
 
-<a href="/Recipaedia/Terrain/Dirt" style="text-decoration: none; color: inherit; padding: 50px">
+<!-- Moist Soil -->
+<a href="/Recipaedia/Terrain/Moist_Soil" style="text-decoration: none; color: inherit; padding: 50px">
   <div class="blockquote-container" style="cursor: pointer; border: 2px solid rgba(128, 128, 128, 0.3); border-radius: 8px; padding: 1em; display: flex; align-items: flex-start; background: rgba(128, 128, 128, 0.1);">
     <img src="/blocks-24/Moist_soil-1.png" alt="Soil block icon"
          style="width: 8em; height: 8em; flex-shrink: 0; margin-right: 1em;">
     <div>
       <strong style="font-size: 2em; display: block; margin-bottom: 0.25em;">Moist Soil</strong>
       <span>
-        Temp.
+        Soil is dirt that has been made suitable for cultivation by using a rake. It can be easily damaged by walking or jumping on it. Soil can be fertilized by sprinkling saltpeter on it, plants will grow faster and slowly use up the fertilizer. Soil that is near water will become moist, making plants grow even faster. Rotten food will eventually turn into compost, which can be used in place of fertilized soil to grow plants just as quickly
+      </span>
+    </div>
+  </div>
+</a>
+
+<!-- Moist Compost -->
+<a href="/Recipaedia/Terrain/Moist_Compost" style="text-decoration: none; color: inherit; padding: 50px">
+  <div class="blockquote-container" style="cursor: pointer; border: 2px solid rgba(128, 128, 128, 0.3); border-radius: 8px; padding: 1em; display: flex; align-items: flex-start; background: rgba(128, 128, 128, 0.1);">
+    <img src="/blocks-24/Moist_Compost-7.png" alt="Soil block icon"
+         style="width: 8em; height: 8em; flex-shrink: 0; margin-right: 1em;">
+    <div>
+      <strong style="font-size: 2em; display: block; margin-bottom: 0.25em;">Moist Soil</strong>
+      <span>
+        Soil is dirt that has been made suitable for cultivation by using a rake. It can be easily damaged by walking or jumping on it. Soil can be fertilized by sprinkling saltpeter on it, plants will grow faster and slowly use up the fertilizer. Soil that is near water will become moist, making plants grow even faster. Rotten food will eventually turn into compost, which can be used in place of fertilized soil to grow plants just as quickly
       </span>
     </div>
   </div>
@@ -61,6 +78,7 @@ dateCreated: 2025-10-19T22:52:26.736Z
 
 # [Moist Compost](/Recipaedia/Terrain/Moist_Compost)
 ![Moist_Compost-7.png](/blocks-24/Moist_Compost-7.png)
+Soil is dirt that has been made suitable for cultivation by using a rake. It can be easily damaged by walking or jumping on it. Soil can be fertilized by sprinkling saltpeter on it, plants will grow faster and slowly use up the fertilizer. Soil that is near water will become moist, making plants grow even faster. Rotten food will eventually turn into compost, which can be used in place of fertilized soil to grow plants just as quickly
 
 # [Limestone](/Recipaedia/Terrain/Limestone)
 ![Limestone-0.png](/blocks-24/Limestone-0.png)
