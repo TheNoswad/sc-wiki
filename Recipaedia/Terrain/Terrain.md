@@ -2,7 +2,7 @@
 title: Terrain
 description: Terrain items in Survivalcraft
 published: true
-date: 2025-10-22T18:01:15.529Z
+date: 2025-10-22T18:04:10.575Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T22:52:26.736Z
@@ -28,11 +28,8 @@ dateCreated: 2025-10-19T22:52:26.736Z
 </a>
 
 <style>
-.blockquote-container {
-   transition-duration: 0.2s;
-}
-.blockquote-container:hover {
-   background-color: #333333;
+.test {
+  color: green
 }
 </style>
 
