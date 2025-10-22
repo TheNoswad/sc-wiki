@@ -2,14 +2,11 @@
 title: Terrain
 description: Terrain items in Survivalcraft
 published: true
-date: 2025-10-22T18:12:27.612Z
+date: 2025-10-22T18:15:40.403Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T22:52:26.736Z
 ---
-
-<h2 class="test">test</h2>
-
 
 <a href="/Recipaedia/Terrain/Dirt" style="text-decoration: none; color: inherit;">
   <div class="blockquote-container" style="cursor: pointer; border: 2px solid rgba(128, 128, 128, 0.3); border-radius: 8px; padding: 1em; display: flex; align-items: flex-start; background: rgba(128, 128, 128, 0.1);">
@@ -27,9 +24,18 @@ dateCreated: 2025-10-19T22:52:26.736Z
   </div>
 </a>
 
-# [Soil](/Recipaedia/Terrain/Soil)
-Soil is dirt that has been made suitable for cultivation by using a rake. It can be easily damaged by walking or jumping on it. Soil can be fertilized by sprinkling saltpeter on it, plants will grow faster and slowly use up the fertilizer. Soil that is near water will become moist, making plants grow even faster. Rotten food will eventually turn into compost, which can be used in place of fertilized soil to grow plants just as quickly.
-![Soil-0.png](/blocks-24/Soil-0.png)
+<a href="/Recipaedia/Terrain/Dirt" style="text-decoration: none; color: inherit;">
+  <div class="blockquote-container" style="cursor: pointer; border: 2px solid rgba(128, 128, 128, 0.3); border-radius: 8px; padding: 1em; display: flex; align-items: flex-start; background: rgba(128, 128, 128, 0.1);">
+    <img src="/blocks-24/Soil-0.png" alt="Soil block icon"
+         style="width: 8em; height: 8em; flex-shrink: 0; margin-right: 1em;">
+    <div>
+      <strong style="font-size: 2em; display: block; margin-bottom: 0.25em;">Soil</strong>
+      <span>
+        Soil is dirt that has been made suitable for cultivation by using a rake. It can be easily damaged by walking or jumping on it. Soil can be fertilized by sprinkling saltpeter on it, plants will grow faster and slowly use up the fertilizer. Soil that is near water will become moist, making plants grow even faster. Rotten food will eventually turn into compost, which can be used in place of fertilized soil to grow plants just as quickly.
+      </span>
+    </div>
+  </div>
+</a>
 
 # [Moist Soil](/Recipaedia/Terrain/Moist_Soil)
 ![Moist_soil-1.png](/blocks-24/Moist_soil-1.png)
