@@ -2,7 +2,7 @@
 title: Terrain
 description: Terrain items in Survivalcraft
 published: true
-date: 2025-10-22T18:31:48.400Z
+date: 2025-10-22T18:32:28.838Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-19T22:52:26.736Z
@@ -59,8 +59,8 @@ dateCreated: 2025-10-19T22:52:26.736Z
 <p id="test">test</p>
 
 <script>
-const element = document.getElementById("test");
-element.classList.add("test");
+	const element = document.getElementById("#test");
+	element.classList.add(".test");
 </script>
 
 # [Moist Compost](/Recipaedia/Terrain/Moist_Compost)
