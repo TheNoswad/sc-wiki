@@ -2,38 +2,13 @@
 title: Bestiary
 description: A list of all creatures in Survivalcraft
 published: true
-date: 2025-10-23T18:42:34.619Z
+date: 2025-10-23T18:43:44.751Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-23T04:44:56.051Z
 ---
 
 <!-- Bull -->
-<a href="/Bestiary/Bull" style="text-decoration: none; color: inherit; padding: 0em;">
-  <div class="bestiary-card" style="cursor: pointer; border: 2px solid rgba(139, 69, 19, 0.3); border-radius: 8px; padding: 1em; display: flex; align-items: flex-start; background: rgba(139, 69, 19, 0.1);">
-    <model-viewer src="/media/converted_glb/creatures/Bull_Bull_Black.glb" 
-                  tone-mapping="neutral" 
-                  poster="/media/converted_glb/creatures/bear_black.webp" 
-                  shadow-intensity="1" 
-                  camera-orbit="220deg 75deg 5m" 
-                  field-of-view="30deg"
-                  auto-rotate
-                  auto-rotate-delay="0"
-                  rotation-per-second="60deg"
-                  interaction-prompt="none"
-                  disable-zoom
-                  style="width: 8em; height: 8em; flex-shrink: 0; margin-right: 1em; background: rgba(0,0,0,0.05); border-radius: 4px; pointer-events: none;">
-    </model-viewer>
-    <div>
-      <strong style="font-size: 2em; display: block; margin-bottom: 0.25em;">Bull</strong>
-      <span>
-        A large grass-eating mammal. Not normally aggressive but does not like anyone who approaches too close. Very protective towards the cows. Dangerous when enraged. Delicious to eat.
-      </span>
-    </div>
-  </div>
-</a>
-
-
 <a class="bestiary-link" href="/Bestiary/Bull">
   <div class="bestiary-card">
     <model-viewer class="bestiary-thumb"
