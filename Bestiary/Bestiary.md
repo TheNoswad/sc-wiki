@@ -2,7 +2,7 @@
 title: Bestiary
 description: A list of all creatures in Survivalcraft
 published: true
-date: 2025-10-23T16:51:14.324Z
+date: 2025-10-23T16:55:05.922Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-23T04:44:56.051Z
@@ -87,6 +87,19 @@ dateCreated: 2025-10-23T04:44:56.051Z
     <button slot="ar-button" id="ar-button">
         📱 View in AR
     </button>
+</model-viewer>
+
+
+<model-viewer src="/media/converted_glb/creatures/Bull_Bull_Black.glb" 
+              ar 
+              ar-modes="webxr scene-viewer quick-look" 
+              camera-controls 
+              tone-mapping="neutral" 
+              poster="/media/converted_glb/creatures/bear_black.webp" 
+              shadow-intensity="1" 
+              camera-orbit="220deg 75deg 4m" 
+              field-of-view="30deg"
+              style="width: 100%; height: 600px;">
 </model-viewer>
 
 
