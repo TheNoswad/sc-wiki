@@ -2,7 +2,7 @@
 title: Bestiary
 description: A list of all creatures in Survivalcraft
 published: true
-date: 2025-10-23T18:43:44.751Z
+date: 2025-10-23T18:45:49.299Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-23T04:44:56.051Z
@@ -18,41 +18,100 @@ dateCreated: 2025-10-23T04:44:56.051Z
       shadow-intensity="1"
       camera-orbit="220deg 75deg 5m"
       field-of-view="30deg"
-      auto-rotate
-      rotation-per-second="60deg"
+      auto-rotate rotation-per-second="60deg"
       interaction-prompt="none"
-      disable-zoom>
-    </model-viewer>
+      disable-zoom></model-viewer>
     <div class="bestiary-content">
       <strong class="bestiary-title">Bull</strong>
-      <span class="bestiary-desc">
-        A large grass-eating mammal. Not normally aggressive but does not like anyone who approaches too close. Very protective towards the cows. Dangerous when enraged. Delicious to eat.
-      </span>
+      <span class="bestiary-desc">A large grass-eating mammal. Not normally aggressive but does not like anyone who approaches too close. Very protective towards the cows. Dangerous when enraged. Delicious to eat.</span>
     </div>
   </div>
 </a>
 
+<!-- Horse -->
+<a class="bestiary-link" href="/Bestiary/Horse">
+  <div class="bestiary-card">
+    <model-viewer class="bestiary-thumb" src="/media/converted_glb/creatures/Horse.glb" poster="/media/converted_glb/creatures/horse.webp"
+      tone-mapping="neutral" shadow-intensity="1" camera-orbit="220deg 75deg 5m"
+      field-of-view="30deg" auto-rotate disable-zoom></model-viewer>
+    <div class="bestiary-content">
+      <strong class="bestiary-title">Horse</strong>
+      <span class="bestiary-desc">A docile animal which can be ridden if equipped with a saddle. Once saddled, will respond to whistle. Very fast moving and not aggressive.</span>
+    </div>
+  </div>
+</a>
 
-# [Horse](Horse)
-> A docile animal which can be ridden if equipped with a saddle. Once saddled, will respond to whistle. Very fast moving and not aggressive.
+<!-- Brown Bear -->
+<a class="bestiary-link" href="/Bestiary/Bear_Brown">
+  <div class="bestiary-card">
+    <model-viewer class="bestiary-thumb" src="/media/converted_glb/creatures/Bear_Brown.glb" poster="/media/converted_glb/creatures/bear_brown.webp"
+      tone-mapping="neutral" shadow-intensity="1" camera-orbit="220deg 75deg 5m" field-of-view="30deg" auto-rotate disable-zoom></model-viewer>
+    <div class="bestiary-content">
+      <strong class="bestiary-title">Brown Bear</strong>
+      <span class="bestiary-desc">A large, dangerous mammal omnivore. Will chase anything that approaches it. Fairly slow, but powerful. Unlike black bear, likes warm areas. Not edible, but provides fur when hunted.</span>
+    </div>
+  </div>
+</a>
 
-# [Brown Bear](Bear_Brown)
-> A large, dangerous mammal omnivore. Will chase anything that approaches it. Fairly slow, but powerful. Unlike black bear, likes warm areas. Not edible, but provides fur when hunted.
+<!-- Freshwater Bass -->
+<a class="bestiary-link" href="/Bestiary/Bass_Freshwater">
+  <div class="bestiary-card">
+    <model-viewer class="bestiary-thumb" src="/media/converted_glb/creatures/Bass_Freshwater.glb" poster="/media/converted_glb/creatures/bass_freshwater.webp"
+      tone-mapping="neutral" shadow-intensity="1" camera-orbit="220deg 75deg 5m" field-of-view="30deg" auto-rotate disable-zoom></model-viewer>
+    <div class="bestiary-content">
+      <strong class="bestiary-title">Freshwater Bass</strong>
+      <span class="bestiary-desc">A medium-sized freshwater fish, not aggressive. Delicious to eat.</span>
+    </div>
+  </div>
+</a>
 
-# [Freshwater Bass](Bass_Freshwater)
-> A medium-sized freshwater fish, not aggressive. Delicious to eat.
+<!-- Black Cow -->
+<a class="bestiary-link" href="/Bestiary/Cow_Black">
+  <div class="bestiary-card">
+    <model-viewer class="bestiary-thumb" src="/media/converted_glb/creatures/Cow_Black.glb" poster="/media/converted_glb/creatures/cow_black.webp"
+      tone-mapping="neutral" shadow-intensity="1" camera-orbit="220deg 75deg 5m" field-of-view="30deg" auto-rotate disable-zoom></model-viewer>
+    <div class="bestiary-content">
+      <strong class="bestiary-title">Black Cow</strong>
+      <span class="bestiary-desc">A large grass-eating mammal. Can be milked with a bucket. Milk is regenerated after some time, faster than by a brown cow. Docile, but sometimes decides to stand its ground when attacked. Often protected by nearby bulls. Delicious to eat.</span>
+    </div>
+  </div>
+</a>
 
-# [Black Cow](Cow_Black)
-> A large grass-eating mammal. Can be milked with a bucket. Milk is regenerated after some time, faster than by a brown cow. Docile, but sometimes decides to stand its ground when attacked. Often protected by nearby bulls. Delicious to eat.
+<!-- Beluga -->
+<a class="bestiary-link" href="/Bestiary/Beluga">
+  <div class="bestiary-card">
+    <model-viewer class="bestiary-thumb" src="/media/converted_glb/creatures/Beluga.glb" poster="/media/converted_glb/creatures/beluga.webp"
+      tone-mapping="neutral" shadow-intensity="1" camera-orbit="220deg 75deg 5m" field-of-view="30deg" auto-rotate disable-zoom></model-viewer>
+    <div class="bestiary-content">
+      <strong class="bestiary-title">Beluga</strong>
+      <span class="bestiary-desc">A very large, non aggressive mammal which lives in deep ocean. Provides plenty of food when hunted.</span>
+    </div>
+  </div>
+</a>
 
-# [Beluga](Beluga)
-> A very large, non aggressive mammal which lives in deep ocean. Provides plenty of food when hunted.
+<!-- Ostrich -->
+<a class="bestiary-link" href="/Bestiary/Ostrich">
+  <div class="bestiary-card">
+    <model-viewer class="bestiary-thumb" src="/media/converted_glb/creatures/Ostrich.glb" poster="/media/converted_glb/creatures/ostrich.webp"
+      tone-mapping="neutral" shadow-intensity="1" camera-orbit="220deg 75deg 5m" field-of-view="30deg" auto-rotate disable-zoom></model-viewer>
+    <div class="bestiary-content">
+      <strong class="bestiary-title">Ostrich</strong>
+      <span class="bestiary-desc">A large flightless bird. Not aggressive, but runs very fast. Sometimes lays large, edible eggs.</span>
+    </div>
+  </div>
+</a>
 
-# [Ostrich](Ostrich)
-> A large flightless bird. Not aggressive, but runs very fast. Sometimes lays large, edible eggs.
-
-# [Leopard](Leopard)
-> A medium-sized cat. Powerful, fast and able to jump very high. It is almost impossible to run away from it once it starts the chase. Smaller than Jaguar or Tiger.
+<!-- Leopard -->
+<a class="bestiary-link" href="/Bestiary/Leopard">
+  <div class="bestiary-card">
+    <model-viewer class="bestiary-thumb" src="/media/converted_glb/creatures/Leopard.glb" poster="/media/converted_glb/creatures/leopard.webp"
+      tone-mapping="neutral" shadow-intensity="1" camera-orbit="220deg 75deg 5m" field-of-view="30deg" auto-rotate disable-zoom></model-viewer>
+    <div class="bestiary-content">
+      <strong class="bestiary-title">Leopard</strong>
+      <span class="bestiary-desc">A medium-sized cat. Powerful, fast and able to jump very high. It is almost impossible to run away from it once it starts the chase. Smaller than Jaguar or Tiger.</span>
+    </div>
+  </div>
+</a>
 
 # [Gnu](Gnu)
 > A large antelope. Not normally aggressive but can defend itself if attacked. Delicious to eat.
