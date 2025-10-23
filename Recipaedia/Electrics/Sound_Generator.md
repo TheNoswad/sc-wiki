@@ -2,7 +2,7 @@
 title: Sound Generator
 description: The sound generator is an electrical component that can be used to play audible sounds.
 published: true
-date: 2025-10-23T00:16:50.928Z
+date: 2025-10-23T01:58:39.162Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-13T00:14:44.837Z
@@ -21,7 +21,7 @@ dateCreated: 2025-10-13T00:14:44.837Z
 
 **Yield:** 4 sound generator items
 
-![sound_generator_recipe.webp](/media/sound_generator/sound_generator_recipe.webp)
+![sound_generator_recipe.webp](/media/recipes/sound_generator_recipe_1.png)
 
 ## Connections
 
