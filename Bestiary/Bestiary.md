@@ -2,7 +2,7 @@
 title: Bestiary
 description: A list of all creatures in Survivalcraft
 published: true
-date: 2025-10-23T16:58:27.283Z
+date: 2025-10-23T16:59:38.802Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-23T04:44:56.051Z
@@ -24,27 +24,27 @@ dateCreated: 2025-10-23T04:44:56.051Z
 
 
 <!-- Bull -->
-<a href="/Bestiary/Bull" style="text-decoration: none; color: inherit; padding: 0em;">
-  <div class="bestiary-card" style="cursor: pointer; border: 2px solid rgba(139, 69, 19, 0.3); border-radius: 8px; padding: 1em; display: flex; align-items: flex-start; background: rgba(139, 69, 19, 0.1);">
-    <model-viewer src="/media/converted_glb/creatures/Bull_Bull_Black.glb" 
-                  ar 
-                  ar-modes="webxr scene-viewer quick-look" 
-                  camera-controls 
-                  tone-mapping="neutral" 
-                  poster="/media/converted_glb/creatures/bear_black.webp" 
-                  shadow-intensity="1" 
-                  camera-orbit="220deg 75deg 4m" 
-                  field-of-view="30deg"
-                  style="width: 8em; height: 8em; flex-shrink: 0; margin-right: 1em; background: rgba(0,0,0,0.05); border-radius: 4px;">
-    </model-viewer>
-    <div>
+<div class="bestiary-card" style="border: 2px solid rgba(139, 69, 19, 0.3); border-radius: 8px; padding: 1em; display: flex; align-items: flex-start; background: rgba(139, 69, 19, 0.1);">
+  <model-viewer src="/media/converted_glb/creatures/Bull_Bull_Black.glb" 
+                ar 
+                ar-modes="webxr scene-viewer quick-look" 
+                camera-controls 
+                tone-mapping="neutral" 
+                poster="/media/converted_glb/creatures/bear_black.webp" 
+                shadow-intensity="1" 
+                camera-orbit="220deg 75deg 4m" 
+                field-of-view="30deg"
+                style="width: 8em; height: 8em; flex-shrink: 0; margin-right: 1em; background: rgba(0,0,0,0.05); border-radius: 4px; pointer-events: all;">
+  </model-viewer>
+  <a href="/Bestiary/Bull" style="text-decoration: none; color: inherit; flex: 1;">
+    <div style="cursor: pointer;">
       <strong style="font-size: 2em; display: block; margin-bottom: 0.25em;">Bull</strong>
       <span>
         A large grass-eating mammal. Not normally aggressive but does not like anyone who approaches too close. Very protective towards the cows. Dangerous when enraged. Delicious to eat.
       </span>
     </div>
-  </div>
-</a>
+  </a>
+</div>
 
 # [Horse](Horse)
 > A docile animal which can be ridden if equipped with a saddle. Once saddled, will respond to whistle. Very fast moving and not aggressive.
