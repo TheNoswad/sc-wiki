@@ -2,7 +2,7 @@
 title: Bestiary
 description: A list of all creatures in Survivalcraft
 published: true
-date: 2025-10-23T16:14:51.031Z
+date: 2025-10-23T16:16:20.279Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-23T04:44:56.051Z
