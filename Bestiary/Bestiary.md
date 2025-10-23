@@ -2,7 +2,7 @@
 title: Bestiary
 description: A list of all creatures in Survivalcraft
 published: true
-date: 2025-10-23T18:13:34.301Z
+date: 2025-10-23T18:42:34.619Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-23T04:44:56.051Z
@@ -32,6 +32,31 @@ dateCreated: 2025-10-23T04:44:56.051Z
     </div>
   </div>
 </a>
+
+
+<a class="bestiary-link" href="/Bestiary/Bull">
+  <div class="bestiary-card">
+    <model-viewer class="bestiary-thumb"
+      src="/media/converted_glb/creatures/Bull_Bull_Black.glb"
+      poster="/media/converted_glb/creatures/bull_black.webp"
+      tone-mapping="neutral"
+      shadow-intensity="1"
+      camera-orbit="220deg 75deg 5m"
+      field-of-view="30deg"
+      auto-rotate
+      rotation-per-second="60deg"
+      interaction-prompt="none"
+      disable-zoom>
+    </model-viewer>
+    <div class="bestiary-content">
+      <strong class="bestiary-title">Bull</strong>
+      <span class="bestiary-desc">
+        A large grass-eating mammal. Not normally aggressive but does not like anyone who approaches too close. Very protective towards the cows. Dangerous when enraged. Delicious to eat.
+      </span>
+    </div>
+  </div>
+</a>
+
 
 # [Horse](Horse)
 > A docile animal which can be ridden if equipped with a saddle. Once saddled, will respond to whistle. Very fast moving and not aggressive.
