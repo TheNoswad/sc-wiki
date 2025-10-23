@@ -2,14 +2,11 @@
 title: Bestiary
 description: A list of all creatures in Survivalcraft
 published: true
-date: 2025-10-23T17:21:55.613Z
+date: 2025-10-23T18:13:34.301Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-23T04:44:56.051Z
 ---
-
-# [Bull](Bull)
-> A large grass-eating mammal. Not normally aggressive but does not like anyone who approaches too close. Very protective towards the cows. Dangerous when enraged. Delicious to eat.
 
 <!-- Bull -->
 <a href="/Bestiary/Bull" style="text-decoration: none; color: inherit; padding: 0em;">
@@ -148,7 +145,16 @@ dateCreated: 2025-10-23T04:44:56.051Z
 > A small bird which lives near to the ocean shore. Sometimes lays edible eggs. Delicious to eat when hunted.
 
 # [White Bull](Bull_White)
-> A very rare albino mutation of a large grass-eating mammal. Not normally aggressive but does not like anyone who approaches too close. Dangerous when enraged. Delicious to eat. Provides more meat than regular cattle.
+> A very rare albino mutation of a large grass-eating mammal. Not normally aggressive but does not like anyone who approaches too close. Dangerous when enraged. Delicio<model-viewer src="/media/converted_glb/creatures/Bull_Bull_Black.glb" 
+              ar 
+              ar-modes="webxr scene-viewer quick-look" 
+              camera-controls 
+              tone-mapping="neutral" 
+              poster="/media/converted_glb/creatures/bear_black.webp" 
+              shadow-intensity="1" 
+              camera-orbit="220deg 75deg 4m" 
+              field-of-view="30deg">
+</model-viewer>us to eat. Provides more meat than regular cattle.
 
 # [Great White](Shark_GreatWhite)
 > A huge, aggressive ocean shark. Will chase anything that comes close in the water. Has very good smell and will home on its prey from far away. Extremely strong, will kill all land animals easily. Only whales can withstand its ferocious attack.
