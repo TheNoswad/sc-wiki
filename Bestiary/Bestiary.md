@@ -2,7 +2,7 @@
 title: Bestiary
 description: A list of all creatures in Survivalcraft
 published: true
-date: 2025-10-23T16:12:26.421Z
+date: 2025-10-23T16:14:41.241Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-23T04:44:56.051Z
@@ -23,7 +23,7 @@ dateCreated: 2025-10-23T04:44:56.051Z
     </div>
 </model-viewer>
 
-
+<model-viewer src="https://survivalcraft.wiki/media/converted_glb/creatures/Bull_Bull_Black.glb"></model-viewer>
 
 # [Horse](Horse)
 > A docile animal which can be ridden if equipped with a saddle. Once saddled, will respond to whistle. Very fast moving and not aggressive.
