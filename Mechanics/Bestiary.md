@@ -2,11 +2,14 @@
 title: Bestiary
 description: 
 published: true
-date: 2025-10-23T04:39:00.096Z
+date: 2025-10-23T04:43:56.684Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-13T01:45:11.977Z
 ---
+
+> This page is about the Bestiary screen in the game. If you are looking for the wiki Bestiary, you can find it [here](../Bestiary/Bestiary)
+{.is-info}
 
 The Bestiary is an in-game menu that gives you descriptions for all available [creatures](Creatures) (including the main [characters](Character)) in the game. It was added in version 2.1.
 
