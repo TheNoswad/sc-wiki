@@ -2,7 +2,7 @@
 title: Bestiary
 description: A list of all creatures in Survivalcraft
 published: true
-date: 2025-10-23T17:05:02.505Z
+date: 2025-10-23T17:07:36.365Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-23T04:44:56.051Z
@@ -26,12 +26,10 @@ dateCreated: 2025-10-23T04:44:56.051Z
 <a href="/Bestiary/Bull" style="text-decoration: none; color: inherit; padding: 0em;">
   <div class="bestiary-card" style="cursor: pointer; border: 2px solid rgba(139, 69, 19, 0.3); border-radius: 8px; padding: 1em; display: flex; align-items: flex-start; background: rgba(139, 69, 19, 0.1);">
     <model-viewer src="/media/converted_glb/creatures/Bull_Bull_Black.glb" 
-                  ar 
-                  ar-modes="webxr scene-viewer quick-look" 
                   tone-mapping="neutral" 
                   poster="/media/converted_glb/creatures/bear_black.webp" 
                   shadow-intensity="1" 
-                  camera-orbit="220deg 75deg 4m" 
+                  camera-orbit="220deg 75deg 5m" 
                   field-of-view="30deg"
                   auto-rotate
                   auto-rotate-delay="0"
