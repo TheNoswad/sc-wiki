@@ -2,7 +2,7 @@
 title: Bestiary
 description: A list of all creatures in Survivalcraft
 published: true
-date: 2025-10-23T16:46:38.005Z
+date: 2025-10-23T16:51:14.324Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-23T04:44:56.051Z
@@ -17,6 +17,75 @@ dateCreated: 2025-10-23T04:44:56.051Z
     </div>
     <button slot="ar-button" id="ar-button">
         View in your space
+    </button>
+</model-viewer>
+
+
+<style>
+  model-viewer {
+    width: 100%;
+    height: 600px;
+    background-color: #f0f0f0;
+  }
+
+  #ar-button {
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 24px;
+    font-size: 16px;
+    color: #333;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    font-weight: 500;
+    transition: all 0.3s ease;
+    /* Position it nicely */
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+  }
+
+  #ar-button:hover {
+    background-color: #4285f4;
+    color: white;
+    box-shadow: 0 4px 12px rgba(66,133,244,0.3);
+  }
+
+  #ar-button:active {
+    transform: scale(0.98);
+  }
+
+  /* Style the progress bar if you want */
+  .progress-bar {
+    width: 100%;
+    height: 4px;
+    background-color: rgba(0,0,0,0.1);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+
+  .update-bar {
+    height: 100%;
+    background-color: #4285f4;
+    transition: width 0.3s ease;
+  }
+</style>
+
+<model-viewer src="/media/converted_glb/creatures/Bull_Bull_Black.glb" 
+              ar 
+              ar-modes="webxr scene-viewer quick-look" 
+              camera-controls 
+              tone-mapping="neutral" 
+              poster="/media/converted_glb/creatures/bear_black.webp" 
+              shadow-intensity="1" 
+              camera-orbit="220deg 75deg 4m" 
+              field-of-view="30deg">
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+    <button slot="ar-button" id="ar-button">
+        📱 View in AR
     </button>
 </model-viewer>
 
