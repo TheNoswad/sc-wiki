@@ -2,13 +2,22 @@
 title: Black_Bull
 description: 
 published: true
-date: 2025-10-12T23:33:45.983Z
+date: 2025-10-23T17:22:27.463Z
 tags: 
 editor: markdown
-dateCreated: 2025-10-12T23:33:42.108Z
+dateCreated: 2025-10-13T06:10:33.570Z
 ---
 
-__NOTOC__ __NOEDITSECTION__
+<model-viewer src="/media/converted_glb/creatures/Bull_Bull_Black.glb" 
+              ar 
+              ar-modes="webxr scene-viewer quick-look" 
+              camera-controls 
+              tone-mapping="neutral" 
+              poster="/media/converted_glb/creatures/bear_black.webp" 
+              shadow-intensity="1" 
+              camera-orbit="220deg 75deg 4m" 
+              field-of-view="30deg">
+</model-viewer>
 
 ## Description (from [Bestiary](Bestiary "wikilink"))
 
