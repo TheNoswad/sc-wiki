@@ -2,7 +2,7 @@
 title: Sound Generator
 description: The sound generator is an electrical component that can be used to play audible sounds.
 published: true
-date: 2025-10-23T00:02:26.272Z
+date: 2025-10-23T00:16:50.928Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-13T00:14:44.837Z
@@ -122,6 +122,44 @@ The default volume value is set to F when no wire or component is connected.
 | 1.23    | Added sound generator.                                                                                                                                                                                             |
 | 1.29    | Sound generators now emit small colored notes when sounds are produced. Improved the piano instrument. Added Piano Sustain and Drum instruments. Sound generators are now able to be mounted on the floor/ceiling. |
 | 2.4     | Octave ranges for the Bell, Ping, String, Trumpet, and Voice instruments were all increased by one. Fixed many invalid sounds for the Bell and Ping instruments. Added the Bass instrument.                        |
+
+
+## Technical Information
+| Property | Value |
+|----------|-------|
+| **Class Name** | SoundGeneratorBlock |
+| **Display Name** | Sound Generator |
+| **Category** | Electrics |
+| **Display Order** | 250 |
+| **Crafting ID** | soundgenerator |
+| **Texture Slot** | 78 |
+| **Is Collidable** | FALSE |
+| **Is Placeable** | TRUE |
+| **Is Digging Transparent** | FALSE |
+| **Is Placement Transparent** | TRUE |
+| **Is Interactive** | TRUE |
+| **Is Editable** | FALSE |
+| **Is Gatherable** | FALSE |
+| **Is Fluid Blocker** | FALSE |
+| **Is Transparent** | TRUE |
+| **Max Stacking** | 40 |
+| **Friction Factor** | 1 |
+| **Density** | 3 |
+| **Sound Material** | Stone |
+| **Shovel Power** | 1 |
+| **Quarry Power** | 1 |
+| **Hack Power** | 1 |
+| **Melee Power** | 1 |
+| **Melee Hit Probability** | 1 |
+| **Projectile Power** | 1 |
+| **Tool Level Required** | -1 |
+| **Durability** | -1 |
+| **Dig Method** | Hack |
+| **Dig Resilience** | 1 |
+| **Explosion Resilience** | 5 |
+| **Destruction Debris Scale** | 0.5 |
+
+Would you like me to adjust which properties are included or change the formatting?
 
 ## Notes
 
