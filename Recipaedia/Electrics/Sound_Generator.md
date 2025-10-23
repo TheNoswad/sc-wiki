@@ -21,7 +21,7 @@ dateCreated: 2025-10-13T00:14:44.837Z
 
 **Yield:** 4 sound generator items
 
-![sound_generator_recipe.webp](/sound_generator/sound_generator_recipe.webp)
+![sound_generator_recipe.webp](/media/sound_generator/sound_generator_recipe.webp)
 
 ## Connections
 
@@ -30,7 +30,7 @@ The sound generator has four primary connections, located around all four sides 
 ### Tone
 
 The tone connection doubles as the trigger and instrument input. The actual audible sound is only played when the tone input changes from a value of zero to a value that isn't zero. This is also known as the *rising edge* or *null value*. The duration of any given sound will last for approximately 1 second and fade out quickly. If the tone input reverts to zero and then back to non-zero before the first note fades, then the second note will be played and the first note will be cut short.
-![sound_pins.webp](/sound_generator/sound_pins.webp)
+![sound_pins.webp](/media/sound_generator/sound_pins.webp)
 
 
 ### Instrument
@@ -75,9 +75,9 @@ The default octave value is set to 2 when no wire or component is connected. The
 
 Depicted below are the octave ranges for all instruments in relation to a piano scale. It should be noted that the octaves ranges for the Ping and Voice instruments are shifted up by one octave (3, 4, 5, 6). You can cover a wider range of octaves (5 in this case) by combining similar sounding instruments together, such as the Piano and Ping or Bell and Voice.
 
-![octave-range_1.webp](/sound_generator/octave-range_1.webp)
-![octave-range_2.webp](/sound_generator/octave-range_2.webp)
-![octave-range_3.webp](/sound_generator/octave-range_3.webp)
+![octave-range_1.webp](/media/sound_generator/octave-range_1.webp)
+![octave-range_2.webp](/media/sound_generator/octave-range_2.webp)
+![octave-range_3.webp](/media/sound_generator/octave-range_3.webp)
 
 #### Drum Sounds
 
