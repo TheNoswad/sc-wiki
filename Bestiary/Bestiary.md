@@ -2,7 +2,7 @@
 title: Bestiary
 description: A list of all creatures in Survivalcraft
 published: true
-date: 2025-10-23T18:45:49.299Z
+date: 2025-10-23T18:47:03.490Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-23T04:44:56.051Z
@@ -44,7 +44,7 @@ dateCreated: 2025-10-23T04:44:56.051Z
 <!-- Brown Bear -->
 <a class="bestiary-link" href="/Bestiary/Bear_Brown">
   <div class="bestiary-card">
-    <model-viewer class="bestiary-thumb" src="/media/converted_glb/creatures/Bear_Brown.glb" poster="/media/converted_glb/creatures/bear_brown.webp"
+    <model-viewer class="bestiary-thumb" src="/media/converted_glb/creatures/Bear_Bear_Brown.glb" poster="/media/converted_glb/creatures/bear_brown.webp"
       tone-mapping="neutral" shadow-intensity="1" camera-orbit="220deg 75deg 5m" field-of-view="30deg" auto-rotate disable-zoom></model-viewer>
     <div class="bestiary-content">
       <strong class="bestiary-title">Brown Bear</strong>
@@ -56,7 +56,7 @@ dateCreated: 2025-10-23T04:44:56.051Z
 <!-- Freshwater Bass -->
 <a class="bestiary-link" href="/Bestiary/Bass_Freshwater">
   <div class="bestiary-card">
-    <model-viewer class="bestiary-thumb" src="/media/converted_glb/creatures/Bass_Freshwater.glb" poster="/media/converted_glb/creatures/bass_freshwater.webp"
+    <model-viewer class="bestiary-thumb" src="/media/converted_glb/creatures/Bass_Bass_Freshwater.glb" poster="/media/converted_glb/creatures/bass_freshwater.webp"
       tone-mapping="neutral" shadow-intensity="1" camera-orbit="220deg 75deg 5m" field-of-view="30deg" auto-rotate disable-zoom></model-viewer>
     <div class="bestiary-content">
       <strong class="bestiary-title">Freshwater Bass</strong>
@@ -68,7 +68,7 @@ dateCreated: 2025-10-23T04:44:56.051Z
 <!-- Black Cow -->
 <a class="bestiary-link" href="/Bestiary/Cow_Black">
   <div class="bestiary-card">
-    <model-viewer class="bestiary-thumb" src="/media/converted_glb/creatures/Cow_Black.glb" poster="/media/converted_glb/creatures/cow_black.webp"
+    <model-viewer class="bestiary-thumb" src="/media/converted_glb/creatures/Cow_Cow_Black.glb" poster="/media/converted_glb/creatures/cow_black.webp"
       tone-mapping="neutral" shadow-intensity="1" camera-orbit="220deg 75deg 5m" field-of-view="30deg" auto-rotate disable-zoom></model-viewer>
     <div class="bestiary-content">
       <strong class="bestiary-title">Black Cow</strong>
@@ -80,7 +80,7 @@ dateCreated: 2025-10-23T04:44:56.051Z
 <!-- Beluga -->
 <a class="bestiary-link" href="/Bestiary/Beluga">
   <div class="bestiary-card">
-    <model-viewer class="bestiary-thumb" src="/media/converted_glb/creatures/Beluga.glb" poster="/media/converted_glb/creatures/beluga.webp"
+    <model-viewer class="bestiary-thumb" src="/media/converted_glb/creatures/Beluga_Beluga.glb" poster="/media/converted_glb/creatures/beluga.webp"
       tone-mapping="neutral" shadow-intensity="1" camera-orbit="220deg 75deg 5m" field-of-view="30deg" auto-rotate disable-zoom></model-viewer>
     <div class="bestiary-content">
       <strong class="bestiary-title">Beluga</strong>
@@ -92,7 +92,7 @@ dateCreated: 2025-10-23T04:44:56.051Z
 <!-- Ostrich -->
 <a class="bestiary-link" href="/Bestiary/Ostrich">
   <div class="bestiary-card">
-    <model-viewer class="bestiary-thumb" src="/media/converted_glb/creatures/Ostrich.glb" poster="/media/converted_glb/creatures/ostrich.webp"
+    <model-viewer class="bestiary-thumb" src="/media/converted_glb/creatures/Ostrich_Ostrich.glb" poster="/media/converted_glb/creatures/ostrich.webp"
       tone-mapping="neutral" shadow-intensity="1" camera-orbit="220deg 75deg 5m" field-of-view="30deg" auto-rotate disable-zoom></model-viewer>
     <div class="bestiary-content">
       <strong class="bestiary-title">Ostrich</strong>
