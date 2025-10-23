@@ -863,7 +863,7 @@ blog. 
   - New health, temperature, hunger bars
   - Chasing creatures will eventually get bored
   - Dangerous [animals](animals "wikilink") will chase when touched
-  - [Animals](Bestiary/Animals.md "wikilink") will get out of character’s way when
+  - [Animals](Bestiary/Creatures.md "wikilink") will get out of character’s way when
     pushed
   - Added Engine logo
   - Pathfinding algorithm improvements

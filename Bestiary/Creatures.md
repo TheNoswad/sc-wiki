@@ -72,7 +72,7 @@ phases of the moon.
   - All creatures will despawn (disappear) if you are far away from them
     for too long. You should get close enough to hear them at least
     every 20 game-days to make sure they are still there. See the
-    [Animal Spawning](Animal_Spawning "wikilink") page for more
+    [Animal Spawning](../Mechanics/Animal_Spawning.md "wikilink") page for more
     information. 
   - Nearly every creature has a chance to fight back when attacked. Some
     are less likely than others. Some will attack if you simply touch

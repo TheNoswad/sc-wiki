@@ -231,7 +231,7 @@ updated visit time, it may disappear, although you do not expect it.
 
 ## Related Pages 
 
-  - [Animals](Animals "wikilink")
+  - [Animals](../Bestiary/Creatures.md "wikilink")
   - [Animal Behaviors](Animal's_Behavior_list "wikilink")
   - [Cattle Farming](Cattle_Farming "wikilink")
 
