@@ -2,51 +2,11 @@
 title: Bestiary
 description: A list of all creatures in Survivalcraft
 published: true
-date: 2025-10-29T02:41:05.317Z
+date: 2025-10-29T02:53:55.026Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-23T04:44:56.051Z
 ---
-
-<!-- Female Player -->
-<a class="bestiary-link" href="/Bestiary/Female_Player">
-  <div class="bestiary-card">
-    <model-viewer class="bestiary-thumb"
-      src="/media/converted_glb/creatures/HumanFemale_HumanFemale1.glb"
-      poster="/media/converted_glb/creatures/player_female.webp"
-      tone-mapping="neutral"
-      shadow-intensity="1"
-      camera-orbit="220deg 75deg 5m"
-      field-of-view="30deg"
-      auto-rotate rotation-per-second="60deg"
-      interaction-prompt="none"
-      disable-zoom></model-viewer>
-    <div class="bestiary-content">
-      <strong class="bestiary-title">Female Player</strong>
-      <span class="bestiary-desc">The female playable character. Customize your appearance and survive in the harsh world of Survivalcraft.</span>
-    </div>
-  </div>
-</a>
-
-<!-- Male Player -->
-<a class="bestiary-link" href="/Bestiary/Male_Player">
-  <div class="bestiary-card">
-    <model-viewer class="bestiary-thumb"
-      src="/media/converted_glb/creatures/HumanMale_HumanMale1.glb"
-      poster="/media/converted_glb/creatures/player_male.webp"
-      tone-mapping="neutral"
-      shadow-intensity="1"
-      camera-orbit="220deg 75deg 5m"
-      field-of-view="30deg"
-      auto-rotate rotation-per-second="60deg"
-      interaction-prompt="none"
-      disable-zoom></model-viewer>
-    <div class="bestiary-content">
-      <strong class="bestiary-title">Male Player</strong>
-      <span class="bestiary-desc">The male playable character. Customize your appearance and survive in the harsh world of Survivalcraft.</span>
-    </div>
-  </div>
-</a>
 
 <!-- Bull -->
 <a class="bestiary-link" href="/Bestiary/Bull">
