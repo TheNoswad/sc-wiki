@@ -2,17 +2,14 @@
 title: Bestiary
 description: A list of all creatures in Survivalcraft
 published: true
-date: 2025-10-29T03:10:41.691Z
+date: 2025-10-29T03:23:14.693Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-23T04:44:56.051Z
 ---
 
-  Bestiary \* { margin: 0; padding: 0; box-sizing: border-box; } body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); color: #333; padding: 20px; min-height: 100vh; } h1 { text-align: center; color: #fff; font-size: 3em; margin-bottom: 40px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); } .bestiary-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 24px; max-width: 1400px; margin: 0 auto; } .bestiary-link { text-decoration: none; color: inherit; display: block; } .bestiary-card { background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease; height: 100%; display: flex; flex-direction: column; } .bestiary-card:hover { transform: translateY(-8px); box-shadow: 0 12px 24px rgba(0,0,0,0.2); } .bestiary-thumb { width: 100%; height: 250px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); } .bestiary-content { padding: 20px; flex-grow: 1; display: flex; flex-direction: column; } .bestiary-title { font-size: 1.5em; color: #2c3e50; margin-bottom: 12px; display: block; } .bestiary-desc { color: #555; line-height: 1.6; font-size: 0.95em; } @media (max-width: 768px) { h1 { font-size: 2em; } .bestiary-grid { grid-template-columns: 1fr; } }
-
-# 🐾 Bestiary
-
-[
+> I broke this page. If you know HTML + CSS please contribute
+{.is-info}
 
 **Bull** A large grass-eating mammal. Not normally aggressive but does not like anyone who approaches too close. Very protective towards the cows. Dangerous when enraged. Delicious to eat.
 
