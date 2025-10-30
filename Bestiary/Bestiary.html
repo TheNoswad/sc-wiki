@@ -2,7 +2,7 @@
 title: Bestiary
 description: A list of all creatures in Survivalcraft
 published: true
-date: 2025-10-30T05:19:42.298Z
+date: 2025-10-30T05:21:55.486Z
 tags: 
 editor: code
 dateCreated: 2025-10-23T04:44:56.051Z
@@ -13,8 +13,7 @@ dateCreated: 2025-10-23T04:44:56.051Z
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Creature Bestiary</title>
-    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.3.0/model-viewer.min.js"></script>
+    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
     <style>
         * {
             margin: 0;
@@ -39,8 +38,8 @@ dateCreated: 2025-10-23T04:44:56.051Z
 
         .header h1 {
             font-size: 3em;
-            margin-bottom: 10px;
             text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+            margin-bottom: 10px;
         }
 
         .header p {
@@ -48,71 +47,31 @@ dateCreated: 2025-10-23T04:44:56.051Z
             opacity: 0.9;
         }
 
-        .filter-section {
-            max-width: 1400px;
-            margin: 0 auto 30px;
-            background: rgba(255, 255, 255, 0.95);
-            padding: 20px;
-            border-radius: 12px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
-
-        .filter-buttons {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            justify-content: center;
-        }
-
-        .filter-btn {
-            padding: 10px 20px;
-            border: 2px solid #2a5298;
-            background: white;
-            color: #2a5298;
-            border-radius: 25px;
-            cursor: pointer;
-            font-size: 1em;
-            transition: all 0.3s ease;
-            font-weight: 600;
-        }
-
-        .filter-btn:hover {
-            background: #2a5298;
-            color: white;
-            transform: translateY(-2px);
-        }
-
-        .filter-btn.active {
-            background: #2a5298;
-            color: white;
-        }
-
         .bestiary-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-            gap: 25px;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 30px;
             max-width: 1400px;
             margin: 0 auto;
-            padding: 20px;
         }
 
         .creature-card {
             background: white;
-            border-radius: 16px;
+            border-radius: 15px;
             overflow: hidden;
-            box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
 
         .creature-card:hover {
-            transform: translateY(-8px);
-            box-shadow: 0 12px 24px rgba(0,0,0,0.3);
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.4);
         }
 
         .model-container {
             width: 100%;
-            height: 280px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            height: 300px;
+            background: linear-gradient(180deg, #f0f4f8 0%, #d9e4ec 100%);
             position: relative;
         }
 
@@ -123,234 +82,158 @@ dateCreated: 2025-10-23T04:44:56.051Z
 
         .category-badge {
             position: absolute;
-            top: 12px;
-            right: 12px;
-            padding: 6px 14px;
+            top: 15px;
+            right: 15px;
+            padding: 8px 15px;
             border-radius: 20px;
-            font-size: 0.75em;
+            font-size: 0.85em;
             font-weight: bold;
-            color: white;
             text-transform: uppercase;
             letter-spacing: 0.5px;
-            backdrop-filter: blur(10px);
-            z-index: 10;
-        }
-
-        .category-LandPredator {
-            background: rgba(220, 38, 38, 0.9);
-        }
-
-        .category-LandOther {
-            background: rgba(34, 197, 94, 0.9);
-        }
-
-        .category-WaterPredator {
-            background: rgba(59, 130, 246, 0.9);
-        }
-
-        .category-WaterOther {
-            background: rgba(14, 165, 233, 0.9);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
         }
 
         .category-Bird {
-            background: rgba(168, 85, 247, 0.9);
+            background: #87ceeb;
+            color: #1a5276;
         }
 
-        .category-unknown {
-            background: rgba(107, 114, 128, 0.9);
+        .category-LandOther {
+            background: #90ee90;
+            color: #1b5e20;
+        }
+
+        .category-LandPredator {
+            background: #ff6b6b;
+            color: #8b0000;
         }
 
         .creature-info {
-            padding: 20px;
+            padding: 25px;
         }
 
         .creature-name {
-            font-size: 1.5em;
+            font-size: 1.8em;
             font-weight: bold;
-            color: #1e3c72;
-            margin-bottom: 8px;
-        }
-
-        .creature-entity {
-            font-size: 0.85em;
-            color: #666;
-            font-style: italic;
-            margin-bottom: 12px;
+            color: #2c3e50;
+            margin-bottom: 15px;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
         }
 
         .creature-description {
             color: #555;
             line-height: 1.6;
-            font-size: 0.95em;
+            font-size: 1em;
         }
 
         .no-description {
             color: #999;
             font-style: italic;
         }
-
-        @media (max-width: 768px) {
-            .bestiary-grid {
-                grid-template-columns: 1fr;
-                padding: 10px;
-            }
-
-            .header h1 {
-                font-size: 2em;
-            }
-
-            .filter-buttons {
-                flex-direction: column;
-            }
-
-            .filter-btn {
-                width: 100%;
-            }
-        }
     </style>
 </head>
 <body>
-    <div class="header">
-        <h1>🐾 Creature Bestiary 🐾</h1>
-        <p>Explore the wildlife of the realm</p>
-    </div>
+    <div class="bestiary-grid">
+        <!-- Bird -->
+        <div class="creature-card">
+            <div class="model-container">
+                <model-viewer 
+                    src="/media/converted_glb/creatures/Bird.glb"
+                    alt="Bird"
+                    auto-rotate
+                    camera-controls
+                    shadow-intensity="1">
+                </model-viewer>
+                <div class="category-badge category-Bird">Bird</div>
+            </div>
+            <div class="creature-info">
+                <div class="creature-name">Bird</div>
+                <div class="creature-description no-description">
+                    No description available.
+                </div>
+            </div>
+        </div>
 
-    <div class="filter-section">
-        <div class="filter-buttons">
-            <button class="filter-btn active" data-category="all">All Creatures</button>
-            <button class="filter-btn" data-category="LandPredator">Land Predators</button>
-            <button class="filter-btn" data-category="LandOther">Land Animals</button>
-            <button class="filter-btn" data-category="WaterPredator">Water Predators</button>
-            <button class="filter-btn" data-category="WaterOther">Water Animals</button>
-            <button class="filter-btn" data-category="Bird">Birds</button>
+        <!-- Cow -->
+        <div class="creature-card">
+            <div class="model-container">
+                <model-viewer 
+                    src="/media/converted_glb/creatures/Cow.glb"
+                    alt="Cow"
+                    auto-rotate
+                    camera-controls
+                    shadow-intensity="1">
+                </model-viewer>
+                <div class="category-badge category-LandOther">LandOther</div>
+            </div>
+            <div class="creature-info">
+                <div class="creature-name">Cow</div>
+                <div class="creature-description no-description">
+                    No description available.
+                </div>
+            </div>
+        </div>
+
+        <!-- Bull -->
+        <div class="creature-card">
+            <div class="model-container">
+                <model-viewer 
+                    src="/media/converted_glb/creatures/Bull.glb"
+                    alt="Bull"
+                    auto-rotate
+                    camera-controls
+                    shadow-intensity="1">
+                </model-viewer>
+                <div class="category-badge category-LandOther">LandOther</div>
+            </div>
+            <div class="creature-info">
+                <div class="creature-name">Bull</div>
+                <div class="creature-description">
+                    A large grass-eating mammal. Not normally aggressive but does not like anyone who approaches too close. Very protective towards the cows. Dangerous when enraged. Delicious to eat.
+                </div>
+            </div>
+        </div>
+
+        <!-- Bear -->
+        <div class="creature-card">
+            <div class="model-container">
+                <model-viewer 
+                    src="/media/converted_glb/creatures/Bear.glb"
+                    alt="Bear"
+                    auto-rotate
+                    camera-controls
+                    shadow-intensity="1">
+                </model-viewer>
+                <div class="category-badge category-LandPredator">LandPredator</div>
+            </div>
+            <div class="creature-info">
+                <div class="creature-name">Bear</div>
+                <div class="creature-description no-description">
+                    No description available.
+                </div>
+            </div>
+        </div>
+
+        <!-- Wolf -->
+        <div class="creature-card">
+            <div class="model-container">
+                <model-viewer 
+                    src="/media/converted_glb/creatures/Wolf.glb"
+                    alt="Wolf"
+                    auto-rotate
+                    camera-controls
+                    shadow-intensity="1">
+                </model-viewer>
+                <div class="category-badge category-LandPredator">LandPredator</div>
+            </div>
+            <div class="creature-info">
+                <div class="creature-name">Wolf</div>
+                <div class="creature-description no-description">
+                    No description available.
+                </div>
+            </div>
         </div>
     </div>
-
-    <div class="bestiary-grid" id="bestiaryGrid"></div>
-
-    <script>
-        const creatures = [
-            { entity: "Bird", displayName: "", description: "", category: "Bird" },
-            { entity: "Cow", displayName: "", description: "", category: "LandOther" },
-            { entity: "Bull", displayName: "", description: "A large grass-eating mammal. Not normally aggressive but does not like anyone who approaches too close. Very protective towards the cows. Dangerous when enraged. Delicious to eat.", category: "LandOther" },
-            { entity: "Bear", displayName: "", description: "", category: "LandPredator" },
-            { entity: "Wolf", displayName: "", description: "", category: "LandPredator" },
-            { entity: "FlightlessBird", displayName: "", description: "", category: "LandOther" },
-            { entity: "Horse", displayName: "", description: "A docile animal which can be ridden if equipped with a saddle. Once saddled, will respond to whistle. Very fast moving and not aggressive.", category: "LandOther" },
-            { entity: "Alpaca", displayName: "", description: "", category: "LandOther" },
-            { entity: "Ray", displayName: "", description: "", category: "WaterOther" },
-            { entity: "Cetacean", displayName: "", description: "", category: "unknown" },
-            { entity: "Shark", displayName: "", description: "", category: "WaterPredator" },
-            { entity: "Horse_White", displayName: "White Horse", description: "", category: "unknown" },
-            { entity: "Bear_Brown", displayName: "Brown Bear", description: "A large, dangerous mammal omnivore. Will chase anything that approaches it. Fairly slow, but powerful. Unlike black bear, likes warm areas. Not edible, but provides fur when hunted.", category: "unknown" },
-            { entity: "Horse_Chestnut", displayName: "Chestnut Horse", description: "", category: "unknown" },
-            { entity: "Bass_Freshwater", displayName: "Freshwater Bass", description: "A medium-sized freshwater fish, not aggressive. Delicious to eat.", category: "WaterOther" },
-            { entity: "Cow_Black", displayName: "Black Cow", description: "A large grass-eating mammal. Can be milked with a bucket. Milk is regenerated after some time, faster than by a brown cow. Docile, but sometimes decides to stand its ground when attacked. Often protected by nearby bulls. Delicious to eat.", category: "unknown" },
-            { entity: "Beluga", displayName: "Beluga Whale", description: "A very large, non aggressive mammal which lives in deep ocean. Provides plenty of food when hunted.", category: "WaterOther" },
-            { entity: "Ostrich", displayName: "Ostrich", description: "A large flightless bird. Not aggressive, but runs very fast. Sometimes lays large, edible eggs.", category: "unknown" },
-            { entity: "Horse_Palomino", displayName: "Palomino Horse", description: "", category: "unknown" },
-            { entity: "Leopard", displayName: "Leopard", description: "A medium-sized cat. Powerful, fast and able to jump very high. It is almost impossible to run away from it once it starts the chase. Smaller than Jaguar or Tiger.", category: "LandPredator" },
-            { entity: "Gnu", displayName: "Gnu Antelope", description: "A large antelope. Not normally aggressive but can defend itself if attacked. Delicious to eat.", category: "LandOther" },
-            { entity: "Wolf_Gray", displayName: "Gray Wolf", description: "A medium sized predatory mammal which lives in cold and temperate areas. Moves fast and hunts in packs at night. Will sometimes stop and howl raising its head high to the moon. During the day is shy and will move away from trouble. Extremely dangerous at night when encountered in large numbers. Will smell prey from large distances and congregate to hunt it. At full moon will change into Werewolf.", category: "unknown" },
-            { entity: "Rhino", displayName: "Rhinoceros", description: "A huge plant eating mammal. Solitary, temperamental and powerful. Has armored skin. Very easily annoyed and extremely dangerous when enraged. Will chase and trample anything that approaches, for no reason. Lives in warm areas.", category: "LandOther" },
-            { entity: "Reindeer", displayName: "Reindeer", description: "A medium size plant eating mammal. Docile despite the pair of formidable antlers. Lives in herds in cold areas. Delicious to eat.", category: "LandOther" },
-            { entity: "Barracuda", displayName: "Barracuda", description: "A medium-sized predatory saltwater fish. Has a painful bite. Delicious to eat. Found in warm areas only.", category: "WaterPredator" },
-            { entity: "Raven", displayName: "Raven", description: "A small bird which lives in cold areas. Sometimes lays edible eggs. Delicious to eat when hunted.", category: "unknown" },
-            { entity: "Camel", displayName: "Camel", description: "A large animal that can be ridden if equipped with a saddle. Once saddled, will respond to whistle. Fast moving, temperamental and mildly aggressive. Lives in deserts.", category: "LandOther" },
-            { entity: "Werewolf", displayName: "Werewolf", description: "During full moon nights, wolves turn into werewolves. Can be easily seen at night due to its red shiny eyes. Very dangerous, hunts in packs and is much stronger than ordinary wolf. Able to jump high. Will turn back into wolf at dawn.", category: "LandPredator" },
-            { entity: "Tiger_White", displayName: "White Tiger", description: "", category: "unknown" },
-            { entity: "Sparrow", displayName: "Sparrow", description: "A tiny bird which lives in temperate areas. Sometimes lays very small but edible eggs. Not edible.", category: "unknown" },
-            { entity: "Bull_Brown", displayName: "Brown Bull", description: "", category: "unknown" },
-            { entity: "Orca", displayName: "Orca", description: "A very large predatory mammal which lives in deep ocean. Extremely strong and dangerous, will chase anything that moves. Provides plenty of food when hunted.", category: "WaterPredator" },
-            { entity: "Duck", displayName: "Duck", description: "A small bird which lives in humid areas. Sometimes lays edible eggs. Delicious to eat when hunted.", category: "unknown" },
-            { entity: "Giraffe", displayName: "Giraffe", description: "A very large and tall plant eating mammal. Very strong but docile. Dangerous when decides to defend itself instead of fleeing. Lives in warm areas. Delicious to eat and provides plenty of meat.", category: "LandOther" },
-            { entity: "Shark_Bull", displayName: "Bull Shark", description: "A small, aggressive saltwater shark. Will chase anything that comes close in the water. Is not very strong, but will kill smaller animals easily.", category: "unknown" },
-            { entity: "Shark_Tiger", displayName: "Tiger Shark", description: "A large, aggressive saltwater shark. Will chase anything that comes close in the water. Is very strong and will kill almost all land animals easily. Only whales can withstand its ferocious attack.", category: "unknown" },
-            { entity: "Horse_Black", displayName: "Black Horse", description: "", category: "unknown" },
-            { entity: "Bear_Black", displayName: "Black Bear", description: "A large, dangerous mammal omnivore. Will chase anything that approaches it. Fairly slow, but powerful. Unlike brown bear, likes colder areas. Not edible, but provides fur when hunted.", category: "unknown" },
-            { entity: "Lion", displayName: "Lion", description: "A large cat. Powerful and fast, likes to hunt at night. Larger than Leopard or Jaguar, but not as dangerous as Tiger.", category: "LandPredator" },
-            { entity: "Tiger", displayName: "Tiger", description: "A very large cat. Extremely powerful, fast and able to jump very high. It is almost impossible to run away from it once it starts the chase. Larger and stronger than any other cat, only very large and armored animals like Rhinoceros can survive its attack.", category: "LandPredator" },
-            { entity: "Donkey", displayName: "Donkey", description: "A stubborn animal which can be ridden if equipped with a saddle. Once saddled, will respond to whistle. Fast moving, not aggressive and very resilient to falls. Sometimes has a fit of stubbornness and refuses to move. Feeding it will often resolve the problem.", category: "LandOther" },
-            { entity: "Cow_Brown", displayName: "Brown Cow", description: "A large grass-eating mammal. Can be milked with a bucket. Milk is regenerated after some time, slower than by a black cow. Docile, but sometimes decides to stand its ground when attacked. Often protected by nearby bulls. Delicious to eat.", category: "unknown" },
-            { entity: "Bull_Black", displayName: "Black Bull", description: "", category: "unknown" },
-            { entity: "Piranha", displayName: "Piranha", description: "A small predatory fish that is extremely aggressive and hunts in packs. A pack of hungry piranhas will make a short work of almost any creature that steps in the water. Not edible. Lives in warm areas only.", category: "WaterPredator" },
-            { entity: "Wildboar", displayName: "Wildboar", description: "A medium sized plant-eating mammal. Quite aggressive for its size, but not as fast moving as other animals. Solitary. Delicious to eat.", category: "LandOther" },
-            { entity: "Bear_Polar", displayName: "Polar Bear", description: "A large, dangerous mammal omnivore. Will chase anything that approaches it. Faster, larger and more powerful than other bears. Lives only in very cold areas. Not edible, but provides fur when hunted. Very dangerous on ice because special foot padding makes it slip much less than other creatures.", category: "unknown" },
-            { entity: "Horse_Bay", displayName: "Bay Horse", description: "", category: "unknown" },
-            { entity: "Ray_Yellow", displayName: "Yellow Stingray", description: "Bottom-dwelling fish, lives both in salt and freshwater. Will often bury itself in the mud at the bottom with only the head sticking out. Not aggressive, but has a poisonous sting that will severely injure anyone who steps on it. Delicious to eat.", category: "unknown" },
-            { entity: "Moose", displayName: "Moose", description: "A large grass-eating mammal with formidable antlers. Not normally aggressive, but will often defend itself when attacked. Strong and resilient, it often manages to scare away packs of small predators. Lives in cold areas. Delicious to eat and provides valuable fur when hunted.", category: "LandOther" },
-            { entity: "Ray_Brown", displayName: "Brown Stingray", description: "Bottom-dwelling fish, lives both in salt and freshwater. Will often bury itself in the mud at the bottom with only the head sticking out. Not aggressive, does not have poisonous sting, unlike the Yellow Stingray. Delicious to eat.", category: "unknown" },
-            { entity: "Wolf_Coyote", displayName: "Coyote", description: "A medium sized predatory mammal which lives in deserts. Moves fast and hunts in packs at night. Will sometimes stop and howl raising its head high to the moon. During the day is shy and will move away from trouble. Extremely dangerous at night when encountered in large numbers. Will smell prey from large distances and congregate to hunt it.", category: "unknown" },
-            { entity: "Bass_Sea", displayName: "Seabass", description: "A medium-sized saltwater fish, not aggressive. Delicious to eat.", category: "WaterOther" },
-            { entity: "Pigeon", displayName: "Pigeon", description: "A small bird which lives in temperate areas. Sometimes lays small, edible eggs. Not edible.", category: "unknown" },
-            { entity: "Hyena", displayName: "Hyena", description: "A small, aggressive and unpleasant predatory mammal. Hunts at night in packs. During the day is shy and prefers to stay away from trouble. Very dangerous in large numbers.", category: "LandPredator" },
-            { entity: "Seagull", displayName: "Seagull", description: "A small bird which lives near to the ocean shore. Sometimes lays edible eggs. Delicious to eat when hunted.", category: "unknown" },
-            { entity: "Bull_White", displayName: "White Bull", description: "A very rare albino mutation of a large grass-eating mammal. Not normally aggressive but does not like anyone who approaches too close. Dangerous when enraged. Delicious to eat. Provides more meat than regular cattle.", category: "unknown" },
-            { entity: "Shark_GreatWhite", displayName: "Great White Shark", description: "A huge, aggressive ocean shark. Will chase anything that comes close in the water. Has very good smell and will home on its prey from far away. Extremely strong, will kill all land animals easily. Only whales can withstand its ferocious attack.", category: "unknown" },
-            { entity: "Bison", displayName: "Bison", description: "A large grass-eating mammal. Lives in herds for protection. Not normally aggressive but does not like anyone who approaches too close. Powerful and dangerous when enraged. Delicious to eat and provides valuable fur when hunted.", category: "LandOther" },
-            { entity: "Jaguar", displayName: "Jaguar", description: "A medium-sized cat. Powerful, fast and able to jump very high. It is almost impossible to run away from it once it starts the chase. Larger and stronger than Leopard, but not as big as Tiger.", category: "LandPredator" },
-            { entity: "Zebra", displayName: "Zebra", description: "A medium sized plant eating mammal. Very shy and not aggressive. Delicious to eat.", category: "LandOther" },
-            { entity: "Cassowary", displayName: "Cassowary", description: "A large flightless bird. Quite aggressive and has very sharp claws that may inflict catastrophic injuries to an unwary attacker. Sometimes lays large, edible eggs.", category: "unknown" }
-        ];
-
-        function createCreatureCard(creature) {
-            const card = document.createElement('div');
-            card.className = 'creature-card';
-            card.dataset.category = creature.category;
-
-            const displayName = creature.displayName || creature.entity;
-            const modelPath = `/media/converted_glb/creatures/${creature.entity}_${creature.entity}.glb`;
-            const categoryClass = `category-${creature.category}`;
-
-            card.innerHTML = `
-                <div class="model-container">
-                    <div class="category-badge ${categoryClass}">${creature.category || 'Unknown'}</div>
-                    <model-viewer
-                        src="${modelPath}"
-                        alt="${displayName}"
-                        auto-rotate
-                        camera-controls
-                        shadow-intensity="1"
-                        exposure="1"
-                        style="background-color: transparent;">
-                    </model-viewer>
-                </div>
-                <div class="creature-info">
-                    <div class="creature-name">${displayName}</div>
-                    <div class="creature-entity">${creature.entity}</div>
-                    <div class="creature-description ${!creature.description ? 'no-description' : ''}">
-                        ${creature.description || 'No description available.'}
-                    </div>
-                </div>
-            `;
-
-            return card;
-        }
-
-        function renderBestiary(filterCategory = 'all') {
-            const grid = document.getElementById('bestiaryGrid');
-            grid.innerHTML = '';
-
-            const filteredCreatures = filterCategory === 'all' 
-                ? creatures 
-                : creatures.filter(c => c.category === filterCategory);
-
-            filteredCreatures.forEach(creature => {
-                grid.appendChild(createCreatureCard(creature));
-            });
-        }
-
-        // Filter functionality
-        document.querySelectorAll('.filter-btn').forEach(btn => {
-            btn.addEventListener('click', (e) => {
-                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-                e.target.classList.add('active');
-                renderBestiary(e.target.dataset.category);
-            });
-        });
-
-        // Initial render
-        renderBestiary();
-    </script>
 </body>
 </html>
